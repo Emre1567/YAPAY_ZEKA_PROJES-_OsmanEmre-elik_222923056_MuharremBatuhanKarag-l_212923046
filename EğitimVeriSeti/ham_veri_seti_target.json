@@ -1,0 +1,2319 @@
+[
+  {
+    "raw_model_output": "Python programlama dilinde bir liste oluşturmak için [] kullanılır ve bu başlangıçta boş bir kopya olarak mevcuttur.",
+    "corrected_output": "Python programlama dili bünyesinde bir liste yapısı tanımlanırken köşeli parantez sembollerinden istifade edilir; bu işlem başlangıç aşamasında muhtevası boş bir veri dizisi oluşturur."
+  },
+  {
+    "raw_model_output": "Yapay sinir ağlarında backpropagation algoritması çalışırken, farklı özel durumlar görülebilmektedir. Verilerin geriye gitmesi sağlanır.",
+    "corrected_output": "Yapay sinir ağlarında geri yayılım (backpropagation) algoritması icra edilirken, hata payı çıkış katmanından giriş katmanına doğru aktarılarak modelin öğrenme süreci optimize edilir."
+  },
+  {
+    "raw_model_output": "SQL veritabanında tablo birleştirmek için join komutu kullanabiliriz. Tablolar arasındaki bağlantılar varsa verileri birlikte seçebiliriz.",
+    "corrected_output": "SQL tabanlı veritabanlarında tabloları bütünleşik bir yapıda sunmak maksadıyla JOIN ifadesinden faydalanılır; bu sayede aralarında ilişkisel bağ bulunan tablolar tek bir sorgu ile eşzamanlı olarak işlenebilir."
+  },
+  {
+    "raw_model_output": "React kütüphanesinde component yapısı şöyledir. Componentler parçalara ayrılır ve modüler bir geliştirme süreci olur.",
+    "corrected_output": "React kütüphanesi dahilinde kurgulanan bileşen (component) mimarisi, kullanıcı arayüzünü bağımsız ve yeniden kullanılabilir parçalara ayırarak yazılım geliştirme süreçlerini modüler bir zemine taşır."
+  },
+  {
+    "raw_model_output": "Linux işletim sisteminde terminal komutları kullanırken, grafik arabirimi veya görev yöneticisi üzerinden aynı amaca ulaşmak isteyebiliriz.",
+    "corrected_output": "Linux tabanlı sistemlerde uçbirim (terminal) komutları vasıtasıyla yürütülen işlemlere, alternatif olarak grafik kullanıcı arayüzü veya görev yöneticisi üzerinden de erişim sağlanması mümkündür."
+  },
+  {
+    "raw_model_output": "İstanbul'da trafiğin en yoğun olduğu saatlerde, metro ve metrobüs hatlarını kullanmak zaman tasarrufu sağlar.",
+    "corrected_output": "İstanbul metropolünde trafik yoğunluğunun zirveye ulaştığı zaman dilimlerinde, raylı sistemler ve metrobüs hatlarını tercih etmek, zaman yönetimi açısından kayda değer bir avantaj teşkil eder."
+  },
+  {
+    "raw_model_output": "Sürdürülebilir enerji kaynaklarının kullanımı dünyada artmaktadır. Güneş ve rüzgar enerjisi yatırımları teşvik ediliyor.",
+    "corrected_output": "Dünya genelinde sürdürülebilir enerji kaynaklarına yönelim ivme kazanırken, ekolojik dengeyi korumak adına güneş ve rüzgar enerjisi yatırımları stratejik olarak desteklenmektedir."
+  },
+  {
+    "raw_model_output": "Kahve yaparken dikkat edilmesi gereken en önemli nokta, çekirdeklerin tazeliği ve suyun sıcaklık değeridir.",
+    "corrected_output": "Nitelikli bir kahve hazırlama sürecindeki en kritik unsurlar; kullanılan çekirdeklerin tazelik durumu ile suyun sıcaklık derecesinin aromayı muhafaza edecek seviyede ayarlanmasıdır."
+  },
+  {
+    "raw_model_output": "Osmanlı İmparatorluğu'nun yükselme döneminde sınırlar üç kıtaya yayıldı ve İstanbul'un fethiyle dünyanın en güçlü devleti oldu.",
+    "corrected_output": "Osmanlı İmparatorluğu'nun yükseliş evresinde hakimiyet alanları üç kıtaya yayılmış; İstanbul'un fethiyle birlikte devlet, küresel siyasetin en baskın aktörlerinden biri haline gelmiştir."
+  },
+  {
+    "raw_model_output": "Futbolda ofsayt kuralının mantığı aslında hücum oyuncusunun haksız avantaj sağlamasını engellemek içindir.",
+    "corrected_output": "Futbol disiplinindeki ofsayt kuralının temel mahiyeti; hücum oyuncusunun rakip savunmanın gerisinde konumlanarak haksız bir avantaj elde etmesini önlemek üzerine kuruludur."
+  },
+  {
+    "raw_model_output": "Küresel ısınmanın ekonomik etkileri incelendiğinde tarımsal verimliliğin düşmesi küresel hasılayı tehdit ediyor.",
+    "corrected_output": "Küresel ısınmanın iktisadi boyutları tetkik edildiğinde; tarımsal verimlilikteki düşüş ve doğal afet maliyetlerinin, küresel gayrisafi hasıla üzerinde ciddi bir risk oluşturduğu gözlemlenmektedir."
+  },
+  {
+    "raw_model_output": "Makine öğrenmesi algoritmalarının etik problemleri eğitim verilerindeki önyargıların sonuçlara yansımasıyla ilgilidir.",
+    "corrected_output": "Makine öğrenmesi modellerindeki etik sorunlar, ekseriyetle eğitim veri setlerindeki sübjektif yargıların algoritmalara sirayet etmesi ve adil olmayan karar mekanizmalarının oluşmasıyla ilintilidir."
+  },
+  {
+    "raw_model_output": "Modern fizik teorilerine göre zaman kavramı mutlak değildir ve Einstein'ın teorisine göre hıza bağlı olarak değişir.",
+    "corrected_output": "Modern fizik doktrinlerine göre zaman mutlak bir mefhum değildir; Einstein’ın Görelilik Teorisi uyarınca zamanın akışı, gözlemcinin hızına ve kütleçekim alanına bağlı olarak değişkenlik gösterir."
+  },
+  {
+    "raw_model_output": "Kod derlenirken hata verince hata mesajını okuyup sorunun kaynağını tespit etmek ve debug yapmak gerekir.",
+    "corrected_output": "Kodun derleme aşamasında aksaklık meydana gelmesi durumunda, öncelikle hata raporu analiz edilerek sorunun mahiyeti saptanmalı ve ardından sistematik bir hata ayıklama (debug) süreci başlatılmalıdır."
+  },
+  {
+    "raw_model_output": "Sunucuya bağlantı koptuğunda sistem genellikle otomatik olarak yeniden bağlanmayı dener veya interneti kontrol ederiz.",
+    "corrected_output": "Sunucu ile olan veri iletişimi kesintiye uğradığında, sistem kurgusu gereği otomatik bağlanma protokollerini devreye sokar; bu süreçte ağ altyapısının stabilitesi de kontrol edilmelidir."
+  },
+  {
+    "raw_model_output": "Veritabanı sorgusu gecikince performansı artırmak için sorguları optimize etmek veya indeks eklemek gerekir.",
+    "corrected_output": "Veritabanı sorgularının icra süresi uzadığında, operasyonel verimliliği artırmak adına sorgu yapılarının revize edilmesi ve eksik indekslerin (index) sisteme dahil edilmesi elzemdir."
+  },
+  {
+    "raw_model_output": "Python döngüsü sonsuza girdiğinde işlemi durdurmak için terminalde Ctrl+C kullanılır veya kod gözden geçirilir.",
+    "corrected_output": "Bir Python döngüsü kontrol dışı kalarak sonsuz bir evreye girdiğinde, yürütme sürecini sonlandırmak adına 'Ctrl+C' kombinasyonu kullanılır ve döngü koşulları mantıksal açıdan yeniden değerlendirilir."
+  },
+  {
+    "raw_model_output": "API anahtarı geçersiz olunca sunucu 401 hatası döndürür ve doğru anahtarın gönderildiğinden emin olunmalıdır.",
+    "corrected_output": "API anahtarının yetkisiz veya geçersiz olması durumunda sunucu '401 Unauthorized' yanıtını üretir; bu aşamada kimlik doğrulama verilerinin başlık (header) kısmında doğru iletildiği teyit edilmelidir."
+  },
+  {
+    "raw_model_output": "Git merge conflict yaşanırken dosyalar manuel incelenmeli ve hangi kodun kalacağına karar verip commit edilmelidir.",
+    "corrected_output": "Git üzerindeki versiyon birleştirme işlemleri sırasında çakışma (conflict) meydana gelirse, ilgili dosyalar manuel olarak tetkik edilmeli, öncelikli kod blokları seçilmeli ve süreç yeni bir commit ile tamamlanmalıdır."
+  },
+  {
+    "raw_model_output": "Yeni güncelleme yayınlandığında güvenliği artırmak için sürüm notlarını okuyup yüklemek önemlidir.",
+    "corrected_output": "Yazılım güncellemeleri servis edildiğinde, sistem güvenliğini ve performansını en üst seviyede tutmak adına sürüm iyileştirmelerinin ivedilikle uygulanması kritik önem arz eder."
+  },
+  {
+    "raw_model_output": "Kullanıcı arayüzü donduğunda arka plandaki ağır işlemleri ve sonsuz döngü hatalarını kontrol etmek gerekir.",
+    "corrected_output": "Kullanıcı arayüzünde tepkisizlik meydana geldiğinde, işlemciyi yoran arka plan süreçleri veya sistemsel kilitlenmeye sebebiyet veren döngü hataları titizlikle analiz edilmelidir."
+  },
+  {
+    "raw_model_output": "Yapay zeka modeli eğitilirken veri setinin kalitesi ve çeşitliliği modelin doğruluğunu etkileyen en önemli faktördür.",
+    "corrected_output": "Bir yapay zeka modelinin eğitim safhasında, veri setinin muhtevası ve çeşitlilik arz etmesi, modelin genelleme kabiliyetini ve doğruluk oranını doğrudan belirleyen temel unsurdur."
+  },
+  {
+    "raw_model_output": "Değişken tanımlanmadan kullanıldığında programlama dilleri NameError gibi hatalar fırlatır.",
+    "corrected_output": "Bir değişkenin tanımlama süreci tamamlanmadan işleme alınması durumunda, yazılım dilleri 'NameError' veya 'Tanımlanmamış Değişken' ibareli sistemsel uyarılar üretir."
+  },
+  {
+    "raw_model_output": "CSS dosyası yüklenmeyince sayfa düzensiz görünür ve dosya yolunun doğru olup olmadığına bakılmalıdır.",
+    "corrected_output": "CSS kaynaklarının sisteme dahil edilememesi durumunda sayfa mizanpajı bozulur; bu noktada dosya dizin yollarının ve sunucu erişim izinlerinin doğruluğu incelenmelidir."
+  },
+  {
+    "raw_model_output": "Güvenlik duvarı engellediğinde uygulamanın port izinlerine bakılmalı ve whitelist kısmına ekleme yapılmalıdır.",
+    "corrected_output": "Erişim süreçleri güvenlik duvarı (firewall) tarafından kısıtlandığında, ilgili protokollerin izin listesine (whitelist) dahil edilmesi ve port yapılandırmalarının gözden geçirilmesi gerekir."
+  },
+  {
+    "raw_model_output": "Mobil uygulama çöktüğünde hatanın kaynağını bulmak için crash logları incelenmeli ve bellek yönetimi kontrol edilmelidir.",
+    "corrected_output": "Mobil platformlardaki uygulama kilitlenmelerinde, aksaklığın kaynağını saptamak maksadıyla hata günlükleri (crash logs) tetkik edilmeli ve sistemin bellek kullanım verimliliği analiz edilmelidir."
+  },
+  {
+    "raw_model_output": "Docker konteyneri başlatılırken ortam değişkenlerinin ve port yönlendirmelerinin doğru olması gerekir.",
+    "corrected_output": "Docker konteynerizasyon süreçleri başlatılırken, çevresel değişkenlerin ve ağ geçidi (port) yapılandırmalarının operasyonel gereksinimlere uygun şekilde tanımlanması esastır."
+  },
+  {
+    "raw_model_output": "Yedekleme işlemi tamamlanınca verilerin bütünlüğü kontrol edilmeli ve güvenli bir yerde saklanmalıdır.",
+    "corrected_output": "Veri yedekleme prosedürleri nihayete erdiğinde, kopyalanan verilerin bütünlüğü doğrulanmalı ve veriler stratejik bir depolama biriminde muhafaza edilmelidir."
+  },
+  {
+    "raw_model_output": "Roma İmparatorluğu yıkılmaya yüz tutunca iç karışıklıklar ve ekonomik krizler hızlandı ve imparatorluk ikiye bölündü.",
+    "corrected_output": "Roma İmparatorluğu'nun gerileme evresinde, dâhili huzursuzluklar ve iktisadi buhranlar ivme kazanmış; nihayetinde bu süreç devletin idari olarak ikiye ayrılmasıyla sonuçlanmıştır."
+  },
+  {
+    "raw_model_output": "Savaşın seyrini değiştiren o hamleyle cephedeki güç dengeleri değişti ve mağlup beklenen taraf zafere ulaştı.",
+    "corrected_output": "Çatışmanın mukadderatını tayin eden o stratejik hamle neticesinde cephedeki askeri dengeler altüst olmuş; mutlak mağlubiyeti beklenen taraf inisiyatifi ele geçirerek zafere yürümüştür."
+  },
+  {
+    "raw_model_output": "Padişah fermanı imzaladıktan sonra karar hızla valilere tebliğ edilirdi.",
+    "corrected_output": "Hükümdar tarafından tasdik edilen ferman, ivedilikle mühürlenir ve ulaklar vasıtasıyla imparatorluğun en uç noktalarındaki idari amirlere tebliğ edilmek üzere yola çıkarılırdı."
+  },
+  {
+    "raw_model_output": "Sanayi devrimi başladığında el emeği yerini makinelere bıraktı ve bu durum sosyal yapıyı değiştirdi.",
+    "corrected_output": "Sanayi devriminin tecelli etmesiyle birlikte geleneksel üretim metodları yerini makineleşmeye bırakmış; bu dönüşüm sosyo-ekonomik yapıda köklü bir paradigma değişimine yol açmıştır."
+  },
+  {
+    "raw_model_output": "Berlin Duvarı yıkılırken halk birbirine kavuştu ve bu olay Soğuk Savaş'ın bitişinin sembolü oldu.",
+    "corrected_output": "Berlin Duvarı’nın bertaraf edilmesiyle birlikte toplumlar arasındaki fiziki ayrılık sona ermiş; bu tarihi an, Soğuk Savaş döneminin kapanışını müjdeleyen en güçlü sembol haline gelmiştir."
+  },
+  {
+    "raw_model_output": "Antik kentteki kazılar sırasında Roma dönemine ait paha biçilemez mozaikler bulundu.",
+    "corrected_output": "Arkeolojik kazı çalışmaları esnasında, Roma estetiğini yansıtan nadide mozaikler gün yüzüne çıkarılmış ve dönemin sanatsal derinliğine dair kıymetli bulgular elde edilmiştir."
+  },
+  {
+    "raw_model_output": "Fransız İhtilali'nin etkisiyle milliyetçilik ve özgürlük akımları dünyaya yayıldı ve imparatorluklar parçalandı.",
+    "corrected_output": "Fransız İhtilali'nin yarattığı düşünsel dalga ile milliyetçilik ve hürriyet idealeri küresel bir ölçekte yayılmış; bu akımlar çok uluslu imparatorlukların çözülme sürecini tetiklemiştir."
+  },
+  {
+    "raw_model_output": "Barış antlaşması masada kalınca taraflar arasındaki gerilim yükseldi ve askeri hareketlilik endişesi doğdu.",
+    "corrected_output": "Diplomatik müzakerelerin neticesiz kalması ve barış mutabakatının sağlanamaması, taraflar arasındaki tansiyonu yükselterek askeri müdahale ihtimalini yeniden gündeme taşımıştır."
+  },
+  {
+    "raw_model_output": "Viking gemileri ufukta görününce halk korkuyla eşyalarını alıp kaçmaya başladı.",
+    "corrected_output": "Viking filolarının ufuk çizgisinde belirmesiyle birlikte yerel halk büyük bir infiale kapılmış; kıymetli eşyalarını yanlarına alarak iç kesimlere sığınmak üzere yerleşim yerlerini terk etmiştir."
+  },
+  {
+    "raw_model_output": "Soğuk Savaş döneminde dünya iki kutba ayrıldı ve nükleer tehdit altında askeri gerginlikler yaşandı.",
+    "corrected_output": "Soğuk Savaş yıllarında küresel siyaset iki zıt kutba evrilmiş; dünya nükleer caydırıcılık gölgesinde, yüksek yoğunluklu bir stratejik gerginlik evresine tanıklık etmiştir."
+  },
+  {
+    "raw_model_output": "Mısır piramitleri inşa edilirken binlerce işçinin devasa taşları taşıyarak mühendislik harikası yarattığı düşünülüyor.",
+    "corrected_output": "Mısır piramitlerinin inşa sürecinde, muazzam kütledeki taş blokların üstün bir mühendislik zekası ve yoğun iş gücüyle taşınarak insanlık tarihinin en görkemli yapılarının inşa edildiği kabul edilmektedir."
+  },
+  {
+    "raw_model_output": "Orta Çağ karanlığında bilim kilisenin baskısı altındayken İslam dünyasında altın çağ yaşanıyordu.",
+    "corrected_output": "Orta Çağ Avrupa'sında bilimsel faaliyetler dogmatik baskılarla kısıtlanırken, İslam coğrafyasında felsefe ve fen bilimleri en müstesna dönemini (altın çağını) tecrübe etmekteydi."
+  },
+  {
+    "raw_model_output": "Fetih hazırlıkları sürerken devasa toplar döküldü ve donanma güçlendirildi.",
+    "corrected_output": "Kuşatma hazırlıkları kapsamında yüksek tahrip gücüne sahip toplar imal edilmiş; eşzamanlı olarak donanma kapasitesi artırılarak denizden gelecek yardımların önlenmesi hedeflenmiştir."
+  },
+  {
+    "raw_model_output": "Bağımsızlık bildirgesi okunduğunda meydandaki halk büyük bir coşkuyla özgürlüğü kutladı.",
+    "corrected_output": "Bağımsızlık beyannamesinin halka ilan edilmesiyle birlikte meydanlarda büyük bir vecd hali yaşanmış; toplum özgürlüğün getirdiği yeni ufukları büyük bir coşkuyla selamlamıştır."
+  },
+  {
+    "raw_model_output": "İpek Yolu üzerindeki kervanlar sadece ticaret malı değil aynı zamanda kültür ve bilgi de taşıdı.",
+    "corrected_output": "Tarihi İpek Yolu güzergahında seyreden kervanlar, ticari emtianın ötesinde; kültürel değerlerin, dini inançların ve bilimsel birikimin doğu ile batı arasında köprü kurmasını sağlamıştır."
+  },
+  {
+    "raw_model_output": "Hakem son düdüğü çalınca stadyumda büyük bir sevinç yaşandı ve oyuncular galibiyeti kutladı.",
+    "corrected_output": "Müsabakanın bitiş düdüğüyle birlikte tribünlerde muazzam bir sevinç dalgası hakim olmuş; sporcular elde edilen zaferin gururunu saha içerisinde birbirlerine sarılarak paylaşmıştır."
+  },
+  {
+    "raw_model_output": "Doksana giden topu kaleci çıkarınca tribünler harika kurtarış için kaleciyi alkışladı.",
+    "corrected_output": "Kalecinin kalenin üst köşesine (doksan tabir edilen noktaya) yönelen topu estetik bir müdahaleyle uzaklaştırması, futbolseverlerin hayranlığını kazanmış ve uzun süre alkışlanmıştır."
+  },
+  {
+    "raw_model_output": "Maçın uzatma dakikalarında gelen gol hem oyuncuları hem izleyenleri şoke etti ve kaderi değiştirdi.",
+    "corrected_output": "Karşılaşmanın son saniyelerinde kaydedilen gol, sahadaki aktörler ve ekran başındaki kitle üzerinde sarsıcı bir etki yaratarak müsabakanın mukadderatını tamamen değiştirmiştir."
+  },
+  {
+    "raw_model_output": "Maratonun son kilometresine girerken yorgunluk zirveye çıktı ama motivasyonla hızını artırdı.",
+    "corrected_output": "Maratonun nihai aşamasına yaklaşılırken fiziksel direnç sınırları zorlanmış; buna karşın bitiş çizgisine ulaşma arzusuyla sporcu, temposunu son bir gayretle yükseltmeyi başarmıştır."
+  },
+  {
+    "prompt": "Penaltı atışını kullanmak için",
+    "raw_model_output": "Penaltı atışını kullanmak için topun başına geçen oyuncu kaleciyi izledi ve köşeye sert vurdu.",
+    "corrected_output": "Penaltı vuruşunu gerçekleştirmek üzere topun başına geçen takım kaptanı, derin bir konsantrasyonla kalecinin hamlesini süzmüş ve meşin yuvarlağı filelerin köşesine isabetli bir vuruşla göndermiştir."
+  },
+  {
+    "raw_model_output": "Takım kaptanı sakatlanınca teknik direktör planı değiştirdi ve liderlik eksikliği hissedildi.",
+    "corrected_output": "Takım kaptanının oyun dışı kalmasıyla sonuçlanan sakatlık hadisesi, teknik heyeti stratejik bir değişikliğe zorlamış; saha içerisindeki sevk ve idare eksikliği oyunun genelinde müşahede edilmiştir."
+  },
+  {
+    "raw_model_output": "Ofsayt bayrağı kalkınca gol sevinci yarım kaldı ve oyun serbest vuruşla başladı.",
+    "corrected_output": "Yardımcı hakemin ofsayt bayrağını kaldırmasıyla birlikte tribünlerdeki gol coşkusu yerini sessizliğe bırakmış; müsabaka, kural ihlali sebebiyle endirekt serbest vuruşla yeniden hareketlenmiştir."
+  },
+  {
+    "raw_model_output": "Enflasyon oranları açıklandığında, satın alınan malların değeri düşecektir ve piyasalar hareketlenir.",
+    "corrected_output": "Enflasyon verilerinin kamuoyuyla paylaşılmasıyla birlikte, paranın satın alma gücünde bir gerileme öngörülmekte ve bu durum finansal piyasalarda hareketliliğe sebebiyet vermektedir."
+  },
+  {
+    "raw_model_output": "Dolar kuru aniden yükselince ithal ürünlerin fiyatları arttı ve döviz büroları önünde kalabalık oldu.",
+    "corrected_output": "Dolar kurunda yaşanan ani ivmelenme, ithal emtianın maliyetlerini doğrudan yükseltmiş; döviz bürolarında işlem yoğunluğunun artmasına yol açmıştır."
+  },
+  {
+    "raw_model_output": "Borsa günü düşüşle kapatınca yatırımcılar tedirgin oldu ve bir sonraki günün verileri beklendi.",
+    "corrected_output": "Borsa endeksinin işlem gününü negatif bir seyirle tamamlaması yatırımcı çevrelerinde endişeye yol açmış; piyasa aktörleri müteakip günün açılış verilerine odaklanmıştır."
+  },
+  {
+    "raw_model_output": "Merkez Bankası faiz kararını verince bankaların faiz oranlarında da güncellemeler yapması bekleniyor.",
+    "corrected_output": "Merkez Bankası'nın para politikası kararları doğrultusunda, ticari bankaların kredi ve mevduat faiz yapılarını bu doğrultuda revize etmeleri öngörülmektedir."
+  },
+  {
+    "raw_model_output": "Yatırımcılar paniğe kapıldığında riskli varlıklardan çıkıp altın gibi güvenli limanlara yönelir.",
+    "corrected_output": "Piyasalarda belirsizliğin hakim olduğu ve yatırımcıların tedirginlik yaşadığı dönemlerde, riskli varlıklardan kaçış ivme kazanmakta; altın gibi 'güvenli liman' kabul edilen değerlere olan talep artmaktadır."
+  },
+  {
+    "raw_model_output": "Kripto para piyasası çökünce yatırımcılar portföyündeki zararı azaltmak için beklemeyi tartışıyor.",
+    "corrected_output": "Kripto varlık piyasalarında yaşanan sert düşüş neticesinde, yatırımcılar portföy kayıplarını asgari düzeye indirmek adına mevcudu koruma (hodl) stratejilerini değerlendirmektedir."
+  },
+  {
+    "raw_model_output": "Asgari ücret zammı konuşulurken sendikalar alım gücünün korunmasını, işverenler ise maliyet artışını vurguladı.",
+    "corrected_output": "Asgari ücret belirleme süreçlerinde işçi temsilcileri satın alma gücünün muhafaza edilmesini talep ederken; işveren kanadı, operasyonel maliyet yükümlülüklerindeki artışa dikkat çekmiştir."
+  },
+  {
+    "raw_model_output": "İthalat vergileri artırıldığında dışarıdan gelen ürünlerin maliyeti yükselir ve yerli üretici desteklenir.",
+    "corrected_output": "İthalat rejimindeki vergi artışları, yurt dışı menşeli ürünlerin maliyet yapısını yükselterek yerli üreticilerin rekabet gücünü artırmayı ve yerli üretimi teşvik etmeyi hedeflemektedir."
+  },
+  {
+    "raw_model_output": "Bütçe açığı büyüdüğünde devlet harcamaları kısmak veya vergileri artırmak gibi önlemler alır.",
+    "corrected_output": "Kamu bütçesindeki açığın genişlemesi durumunda, mali disiplini tesis etmek adına kamu harcamalarında kısıntıya gidilmesi veya vergi düzenlemeleriyle gelirlerin artırılması gibi iktisadi tedbirler uygulanmaktadır."
+  },
+  {
+    "raw_model_output": "Atom parçalandığı anda muazzam enerji çıkar ve nükleer santrallerde elektrik üretimi yapılır.",
+    "corrected_output": "Atom çekirdeğinin parçalanması (fisyon) esnasında açığa çıkan devasa enerji, nükleer güç santrallerinde kontrollü bir biçimde elektrik enerjisine dönüştürülmektedir."
+  },
+  {
+    "raw_model_output": "DNA sarmalı incelendiğinde genetik bilginin belirli bir dizilimle kodlandığı görülmektedir.",
+    "corrected_output": "DNA sarmalı moleküler düzeyde tetkik edildiğinde, kalıtımsal verilerin nükleotid bazlarının özgün bir dizilimi vasıtasıyla kodlandığı müşahede edilmektedir."
+  },
+  {
+    "raw_model_output": "Kara delik fotoğraflandığında bilim dünyasında heyecan oldu ve İzafiyet Teorisi kanıtlandı.",
+    "corrected_output": "Kara deliğin görselleştirilmesi süreci bilim camiasında büyük bir yankı uyandırmış; bu gelişme, Einstein’ın Genel Görelilik Teorisi’nin öngörülerini görsel bir kanıtla desteklemiştir."
+  },
+  {
+    "raw_model_output": "Deney tüpündeki reaksiyon başlayınca renk değişti ve gaz kabarcıkları oluştu.",
+    "corrected_output": "Deney ortamındaki kimyasal etkileşimin başlamasıyla birlikte solüsyonun pigment yapısında değişim gözlemlenmiş ve gaz çıkışıyla eşzamanlı olarak kabarcık oluşumu saptanmıştır."
+  },
+  {
+    "raw_model_output": "Işık hızına yaklaşıldığında zaman yavaşlar ve kütle artar; bu hız sınırı aşılamaz.",
+    "corrected_output": "Işık hızı limitlerine yaklaşıldığında, rölativistik etkiler uyarınca zaman genişlemesi (yavaşlaması) meydana gelmekte ve nesnenin kütlesi sonsuza meylederek bu fiziksel sınırın aşılmasını imkansız kılmaktadır."
+  },
+  {
+    "raw_model_output": "Mars'ta su bulunduğu haberiyle yaşam olabileceğine dair işaretler güçlendi.",
+    "corrected_output": "Mars yüzeyinde su moleküllerine rastlandığına dair bulgular, kızıl gezegende mikroskobik düzeyde de olsa biyolojik yaşamın var olabileceğine dair bilimsel öngörüleri pekiştirmiştir."
+  },
+  {
+    "raw_model_output": "Hücre bölünmesi sırasında kromozomlar eşlenir ve genetik materyal yeni hücrelere dağıtılır.",
+    "corrected_output": "Hücre bölünme döngüsü esnasında kromozom yapıları kendini kopyalamakta; kalıtımsal materyal, oluşacak yeni hücrelere simetrik ve eksiksiz bir biçimde aktarılmaktadır."
+  },
+  {
+    "raw_model_output": "Kuantum fiziğine göre parçacıklar aynı anda birden fazla durumda bulunabilir.",
+    "corrected_output": "Kuantum mekaniği prensipleri çerçevesinde, atom altı parçacıklar süperpozisyon ilkesi uyarınca gözlemlenene dek eşzamanlı olarak birden fazla kuantum durumunda varlık gösterebilmektedir."
+  },
+  {
+    "raw_model_output": "Yerçekimsiz ortamda hareket ederken en ufak itme bile uzun mesafe süzülmeye neden olur.",
+    "corrected_output": "Sıfır yerçekimi koşullarında hareket icra edilirken, sürtünme ve ağırlık unsurlarının yokluğu sebebiyle en düşük ivmeli bir itme kuvveti dahi nesnenin uzun mesafelerce süzülmesini sağlar."
+  },
+  {
+    "raw_model_output": "Bakteriler hızla çoğaldığında enfeksiyon riski artar ve vücut ateşle tepki verir.",
+    "corrected_output": "Patojenik bakterilerin kontrolsüz bir biçimde üremesi enfeksiyon riskini tetiklemekte; bağışıklık sistemi bu istilaya karşı fizyolojik bir savunma mekanizması olarak vücut ısısını yükseltmektedir."
+  },
+  {
+    "raw_model_output": "Aşı çalışmaları tamamlanınca deney sonuçları açıklandı ve seri üretime geçildi.",
+    "corrected_output": "Aşı geliştirme süreçlerinin nihayete ermesiyle birlikte klinik araştırma verileri literatüre kazandırılmış ve kitlesel bağışıklık adına endüstriyel üretim safhasına geçiş yapılmıştır."
+  },
+  {
+    "raw_model_output": "Buzullar erimeye başladığında deniz seviyesi yükselir ve kıyı şeritleri tehdit altına girer.",
+    "corrected_output": "Buzul kütlelerinin çözünme sürecine girmesi, okyanus su seviyelerindeki artışı beraberinde getirerek kıyı ekosistemlerini ve yerleşim alanlarını su baskını riskiyle karşı karşıya bırakmaktadır."
+  },
+  {
+    "raw_model_output": "Sabah alarmı çalmadığında panikle uyandım ve işe geç kalma korkusuyla hazırlandım.",
+    "corrected_output": "Sabah saatlerinde uyarıcı mekanizmanın (alarm) işlevsiz kalması neticesinde büyük bir telaşla uyanmış; mesaiye geç kalma endişesiyle hazırlık sürecini ivedilikle tamamlamaya çalışmıştır."
+  },
+  {
+    "raw_model_output": "Otobüse yetişmek için koşarken nefes nefese kaldım ama neyse ki kapılar açıldı.",
+    "corrected_output": "Toplu taşıma aracına erişim sağlamak maksadıyla sarf edilen efor sonucunda solunum ritmi hızlanmış; şoförün farkındalığı sayesinde araca biniş mümkün olmuştur."
+  },
+  {
+    "raw_model_output": "Anahtarımı evde unuttuğumda kapıda kaldım ve çilingir çağırmak zorunda kaldım.",
+    "corrected_output": "İkametgah anahtarının dâhili bir alanda unutulması sebebiyle dışarıda kalınmış; sorunun çözümü adına uzman bir anahtarcının müdahalesine ihtiyaç duyulmuştur."
+  },
+  {
+    "raw_model_output": "Kahvemi yudumlarken pencereden dışarıyı izleyip günün planını yapıyordum.",
+    "corrected_output": "Kahve eşliğinde pencereden dış mekan gözlemi yaparken, aynı zamanda günün operasyonel akışını ve stratejik planlamasını zihnimde kurguluyordum."
+  },
+  {
+    "raw_model_output": "Trafik sıkışıklığı yüzünden randevuma geciktim ve alternatif yolları kullandım.",
+    "corrected_output": "Karayolu ulaşımındaki yoğunluk sebebiyle planlanan görüşme saatine sadık kalınamamış; ulaşımı sağlamak adına tali güzergahlar tercih edilmiştir."
+  },
+  {
+    "raw_model_output": "Market alışverişi yaparken bütçemi aşmamak için önceden hazırladığım listeye uydum.",
+    "corrected_output": "Market tedarik sürecinde finansal disiplini korumak adına, önceden tanzim edilen ihtiyaç listesine riayet ederek plansız harcamaların önüne geçmeye çalıştım."
+  },
+  {
+    "raw_model_output": "Telefonun şarjı bitince iletişimim kesildi ve şarj aleti aramak zorunda kaldım.",
+    "corrected_output": "Mobil cihazın enerji rezervinin tükenmesiyle birlikte iletişim kanalları kapanmış; bağlantıyı tekrar tesis etmek amacıyla enerji kaynağı arayışına girilmiştir."
+  },
+  {
+    "raw_model_output": "Yağmur aniden bastırınca şemsiyem olmadığı için sırılsıklam oldum ve sığındım.",
+    "corrected_output": "Sağanağın beklenmedik bir biçimde başlaması neticesinde koruyucu ekipman (şemsiye) eksikliği sebebiyle ıslanılmış ve geçici bir korunaklı alana sığınılmıştır."
+  },
+  {
+    "raw_model_output": "Asansör bozulduğunda onuncu kata merdivenle çıkmak zorunda kaldım ve yoruldum.",
+    "corrected_output": "Asansör mekanizmasındaki teknik arıza sebebiyle onuncu kata erişim yaya olarak (merdivenler vasıtasıyla) sağlanmış; bu süreç ciddi bir fiziksel yorgunluğa sebebiyet vermiştir."
+  },
+  {
+    "raw_model_output": "Komşudan gürültü gelince nazikçe uyardım ama sesler kesilmedi.",
+    "corrected_output": "Komşu daireden kaynaklanan gürültü kirliliği üzerine nezaket çerçevesinde bir ikazda bulunulmuş; ancak ses seviyesinde bir azalma kaydedilememiştir."
+  },
+  {
+    "raw_model_output": "Kargo paketi gelmeyince müşteri hizmetlerini arayıp gecikme olduğunu öğrendim.",
+    "corrected_output": "Beklenen kurye teslimatının gerçekleşmemesi üzerine ilgili birimle iletişime geçilmiş ve operasyonel bir gecikme yaşandığı bilgisi teyit edilmiştir."
+  },
+  {
+    "raw_model_output": "Gömleğime kahve dökülünce lekeyi çıkarmak için hemen müdahale ettim.",
+    "corrected_output": "Giysi üzerine kahve nüfuz etmesiyle oluşan lekenin kalıcı olmasını önlemek amacıyla, derhal temizleme prosedürleri uygulanmıştır."
+  },
+  {
+    "raw_model_output": "İnternet bağlantısı gidince modemi kapatıp açtım ve arıza kaydı oluşturdum.",
+    "corrected_output": "Ağ erişiminde kesinti yaşanması üzerine modem cihazı yeniden başlatılmış; sorunun devam etmesi sebebiyle servis sağlayıcı nezdinde arıza bildiriminde bulunulmuştur."
+  },
+  {
+    "raw_model_output": "Deploy işlemi başarısız olunca logları inceleyip hatayı düzelttim ve tekrar denedim.",
+    "corrected_output": "Yazılımın yayına alınma (deploy) süreci aksayınca hata kayıtları (logs) tetkik edilmiş; saptanan uyumsuzluk giderilerek süreç yeniden başlatılmıştır."
+  },
+  {
+    "raw_model_output": "Log dosyaları diski doldurunca eski kayıtları sildim ve ayarları gözden geçirdim.",
+    "corrected_output": "Günlük kayıt dosyalarının (logs) depolama kapasitesini aşması üzerine tarihsel veriler arşivlenmiş ve kayıt rotasyon yapılandırmaları revize edilmiştir."
+  },
+  {
+    "raw_model_output": "Sanal makine yanıt vermediğinde yönetim paneli üzerinden yeniden başlattım.",
+    "corrected_output": "Sanal sunucunun (VM) tepkisiz kalması durumunda, merkezi yönetim arayüzü kullanılarak sisteme zorunlu yeniden başlatma (reset) işlemi uygulanmıştır."
+  },
+  {
+    "raw_model_output": "SQL injection saldırısı gelince veritabanı güvenliğini artırmak için sorguları parametreli yaptık.",
+    "corrected_output": "SQL enjeksiyon tehditlerine karşı veritabanı bütünlüğünü korumak maksadıyla, statik sorgu yapıları terk edilerek parametrik sorgulama metodolojisine geçiş yapılmıştır."
+  },
+  {
+    "raw_model_output": "Mavi ekran hatası alındığında sürücüleri ve güncellemeleri kontrol ettim.",
+    "corrected_output": "Sistemde durdurma (mavi ekran) hatası meydana gelmesi üzerine, donanım sürücüleri ve bekleyen sistem güncellemeleri titizlikle tetkik edilmiştir."
+  },
+  {
+    "raw_model_output": "Tarayıcı önbelleği temizlenmeyince güncellemeler ekrana yansımadı ve sorun oldu.",
+    "corrected_output": "Tarayıcı bellek (cache) verilerinin güncelliğini yitirmesi sebebiyle yapılan yazılım değişiklikleri arayüze yansımamış; bu durum operasyonel bir karmaşaya yol açmıştır."
+  },
+  {
+    "raw_model_output": "API istek limiti aşılınca sistem yeni isteklere yanıt vermedi ve bekledik.",
+    "corrected_output": "API sorgu kotasının dolması (rate limit) neticesinde servis geçici olarak yeni veri taleplerini askıya almış; erişim için kota sıfırlama süresi beklenmiştir."
+  },
+  {
+    "raw_model_output": "Token süresi dolduğunda oturum bitti ve yeniden giriş yapılması istendi.",
+    "corrected_output": "Erişim anahtarının (token) geçerlilik süresinin nihayete ermesiyle aktif oturum sonlandırılmış; güvenlik protokolleri gereği kullanıcıdan tekrar kimlik doğrulaması talep edilmiştir."
+  },
+  {
+    "raw_model_output": "Recursive fonksiyon hatasıyla karşılaşınca bellek taştığını anladım ve düzelttim.",
+    "corrected_output": "Özyinelemeli (recursive) fonksiyonun hatalı kurgulanması sebebiyle yığın belleği (stack memory) kapasitesini aşmış; algoritma yapısı revize edilerek sorun giderilmiştir."
+  },
+  {
+    "raw_model_output": "Karanlık mod aktifleşince göz yorgunluğu azaldı ve arayüz siyah oldu.",
+    "corrected_output": "Karanlık tema yapılandırmasının etkinleştirilmesiyle birlikte, ışık yoğunluğu optimize edilerek göz yorgunluğu asgari düzeye indirilmiş ve arayüz estetik bir koyu ton kazanmıştır."
+  },
+  {
+    "raw_model_output": "GitHub reposu silinince yedeğiniz yoksa kodlara ulaşmak imkansız olur.",
+    "corrected_output": "GitHub üzerindeki kaynak kod deposunun kalıcı olarak kaldırılması durumunda, şayet yerel bir kopya mevcut değilse, tarihsel verilere ve kaynak kodlara erişim imkanı ortadan kalkmaktadır."
+  },
+  {
+    "raw_model_output": "Yazılım güncellemesi yarım kalınca sistem bozuldu ve geri almak zorunda kaldım.",
+    "corrected_output": "Sistem güncelleme sürecinin kesintiye uğraması yazılım kararlılığını bozmuş; sistemi işlevsel bir önceki duruma (rollback) döndürme gerekliliği doğmuştur."
+  },
+  {
+    "raw_model_output": "Kod incelemesi sırasında hatalar bulundu ve kaliteyi artırmak için raporlandı.",
+    "corrected_output": "Kod denetimi (code review) safhasında saptanan teknik eksiklikler ve optimizasyon alanları, yazılım kalitesini yükseltmek adına ayrıntılı olarak raporlanmıştır."
+  },
+  {
+    "raw_model_output": "Matbaa çalıştırılınca bilgi daha hızlı yayıldı ve okuryazarlık arttı.",
+    "corrected_output": "Matbaacılık faaliyetlerinin yaygınlaşması, bilginin dolaşım hızını artırmış; kitapların erişilebilir hale gelmesiyle birlikte toplumsal okuryazarlık oranlarında ivmeli bir yükseliş kaydedilmiştir."
+  },
+  {
+    "raw_model_output": "Rönesans sanatçıları perspektife ve doğallığa önem vererek eserler üretti.",
+    "corrected_output": "Rönesans dönemi sanatkarları, derinlik algısı (perspektif) ve doğala özdeş tasvir metodolojilerini benimseyerek estetik açıdan devrim niteliğinde eserler ortaya koymuşlardır."
+  },
+  {
+    "raw_model_output": "Truva atı şehre girince askerler kapıları açtı ve şehir düştü.",
+    "corrected_output": "Truva atı vasıtasıyla kale surlarının ötesine sızan askeri birlikler, stratejik kapıları dâhilden açarak şehrin savunma direncinin kırılmasına ve düşmesine sebebiyet vermiştir."
+  },
+  {
+    "raw_model_output": "Soğanlar pembeleşinceye kadar kavurduktan sonra üzerine kıymayı ekleyip karıştırın.",
+    "corrected_output": "Soğanlar karamelize bir görünüm kazanana dek kısık ateşte mühürlenmeli, akabinde kıymayla harmanlanarak pişirme işlemine devam edilmelidir."
+  },
+  {
+    "raw_model_output": "Yemeğin tuzu fazla kaçınca içine patates dilimlemek fazla tuzu emerek tadı dengeler.",
+    "corrected_output": "Yemeğin tuz oranının dengelenmesi maksadıyla içine dahil edilecek bir miktar patates dilimi, fazla sodyumu absorbe ederek lezzet dengesini yeniden tesis edecektir."
+  },
+  {
+    "raw_model_output": "Fırının derecesini ayarlarken yemeğin türüne dikkat edin; kekler 180 derecede pişer.",
+    "corrected_output": "Isıl işlem sürecinde fırın derecesinin pişirilecek ürünün niteliğine göre optimize edilmesi elzemdir; örneğin unlu mamuller genellikle 180 santigrat derecede ideal kıvamına ulaşır."
+  },
+  {
+    "raw_model_output": "Hamur mayalanmaya bırakıldığında üzerini nemli bezle örtüp bir saat bekletmek gerekir.",
+    "corrected_output": "Mayalanma evresindeki hamurun dokusunu muhafaza etmek adına üzerinin nemli bir tekstil ürünüyle kapatılması ve oda sıcaklığında yaklaşık bir saat istirahate bırakılması önerilir."
+  },
+  {
+    "raw_model_output": "Sos kıvam almaya başlayınca altını kısıp baharatları ekleyin ve ocaktan alın.",
+    "corrected_output": "Sosun arzu edilen yoğunluğa (viskoziteye) ulaşmasının ardından ısı kaynağı azaltılmalı, aromatik baharatlar ilave edilerek pişirme süreci sonlandırılmalıdır."
+  },
+  {
+    "raw_model_output": "Tencerenin dibi tuttuğunda yanık kokusunun yemeğe sinmemesi için hemen başka tencereye aktarın.",
+    "corrected_output": "Pişirme esnasında tencere tabanında yanma meydana gelirse, isli aromanın yemeğin geneline sirayet etmesini önlemek amacıyla içerik derhal steril bir kaba nakledilmelidir."
+  },
+  {
+    "raw_model_output": "Bıçağın keskin tarafıyla malzemeleri doğrarken parmaklarınızı korumak için dikkatli olun.",
+    "corrected_output": "Kesici aletlerin keskin yüzeyleri kullanılarak yapılan doğrama işlemlerinde, olası yaralanmaların önüne geçmek adına el ve parmak konumlandırmasına azami özen gösterilmelidir."
+  },
+  {
+    "raw_model_output": "Yumurtaları köpürene kadar çırparken şekeri yavaş eklemek karışımın kabarık olmasını sağlar.",
+    "corrected_output": "Yumurtaların homojen bir köpük yapısına ulaşması için çırpma esnasında şekerin kademeli olarak ilave edilmesi, karışımın daha hacimli ve aerodinamik bir doku kazanmasına yardımcı olur."
+  },
+  {
+    "raw_model_output": "Makarna suyu kaynadığında içine tuz atın ve makarnaları ekleyip haşlayın.",
+    "corrected_output": "Su kaynama noktasına ulaştığında mineral dengesi için tuz ilavesi yapılmalı, ardından makarnalar dahil edilerek arzu edilen dirilikte (al dente) haşlanmalıdır."
+  },
+  {
+    "raw_model_output": "Kekin içi çiğ kalınca fırın derecesini düşürüp üzerini folyoyla kapatarak pişirmeye devam edin.",
+    "corrected_output": "Kekin iç kısmının yeterince pişmemesi durumunda, dış yüzeyin yanmasını önlemek amacıyla folyo ile koruma altına alınmalı ve düşük ısıda pişirme süreci bir miktar daha uzatılmalıdır."
+  },
+  {
+    "raw_model_output": "Baharatları eklemeden önce yemeğin tadına bakmak lezzet dengesini ayarlamak için önemlidir.",
+    "corrected_output": "Çeşni ve baharat takviyesinden evvel yemeğin tadımının yapılması, aromatik dengenin doğru kurgulanması ve aşırı baharat kullanımının önlenmesi açısından kritik bir basamaktır."
+  },
+  {
+    "raw_model_output": "Sütü ocakta unutunca maalesef taştı ve ocağı temizlemek epey zaman aldı.",
+    "corrected_output": "Sütün ısıtılma sürecinin kontrol dışı kalması neticesinde taşma hadisesi meydana gelmiş; bu durum ocak yüzeyinde kapsamlı bir temizlik ihtiyacı doğurmuştur."
+  },
+  {
+    "raw_model_output": "Sebzeleri ince doğrayınca hem yemekte güzel duruyorlar hem de hızlı pişiyorlar.",
+    "corrected_output": "Sebzelerin zarif bir biçimde (julien veya brunoise) doğranması, sunum estetiğini artırmanın yanı sıra ısı transferini hızlandırarak pişme süresini optimize eder."
+  },
+  {
+    "raw_model_output": "Tatlı şerbetini çekerken üzerini kapatmamaya dikkat edin aksi halde hamurlaşabilir.",
+    "corrected_output": "Tatlının şerbetle olan etkileşimi sırasında üzerinin açık bırakılması, buharın tahliyesini sağlayarak dokunun hamurlaşmasını önler ve ideal gevrekliğin muhafazasına yardımcı olur."
+  },
+  {
+    "raw_model_output": "Izgaradaki etler cızırdarken yayılan koku herkesin iştahını kabarttı ve keyifli oldu.",
+    "corrected_output": "Izgara üzerindeki etlerin termal etkileşimiyle yayılan rayiha, iştah açıcı bir atmosfer oluşturarak yemek deneyimini daha keyifli bir hale getirmiştir."
+  },
+  {
+    "raw_model_output": "VAR incelemesi yapılırken oyun durdu ve hakem pozisyonu ekrandan tekrar izledi.",
+    "corrected_output": "Video Yardımcı Hakem (VAR) protokolünün devreye girmesiyle müsabaka geçici olarak durdurulmuş; başhakem pozisyonu monitör başında yeniden analiz etmiştir."
+  },
+  {
+    "raw_model_output": "Teknik direktör sahaya girince hakem tarafından uyarıldı ve sakin olması istendi.",
+    "corrected_output": "Oyun alanının sınırlarını ihlal eden teknik sorumlu, müsabaka hakemi tarafından sözlü ikaz alarak disiplin çerçevesinde kalmaya davet edilmiştir."
+  },
+  {
+    "raw_model_output": "Yedek kulübesi karışınca dördüncü hakem araya girdi ve tansiyon bir anda yükseldi.",
+    "corrected_output": "Yedek kulübesinde meydana gelen gerginlik üzerine dördüncü hakem müdahalede bulunmuş; saha kenarındaki psikolojik gerilim zirve noktasına ulaşmıştır."
+  },
+  {
+    "raw_model_output": "Son saniye basketi potadan dönünce maçı kaybeden takımın oyuncuları büyük üzüntü yaşadı.",
+    "corrected_output": "Müsabakanın son saniyesindeki atışın sayı ile neticelenmemesi, mağlup olan tarafın sporcularında derin bir hayal kırıklığına sebebiyet vermiştir."
+  },
+  {
+    "raw_model_output": "Depar atarken adelesi çekince oyuncu acı içinde bacağını tutarak yere bıraktı kendini.",
+    "corrected_output": "Yüksek ivmeli koşu (depar) esnasında adale sakatlığı yaşayan sporcu, ani bir ağrı neticesinde mobilizasyonunu kaybederek yere yığılmıştır."
+  },
+  {
+    "raw_model_output": "Boksör ringde sendeleyince hakem araya girerek saymaya başladı ve rakibi köşeye gönderdi.",
+    "corrected_output": "Boksörün fiziksel direncinin kırılması ve dengesinin bozulması üzerine hakem, nakavt sayım protokolünü başlatmış; diğer yarışmacıyı tarafsız köşeye yönlendirmiştir."
+  },
+  {
+    "raw_model_output": "Yüzücü havuza atladığında suyun direncini azaltmak için vücudunu ok gibi gerdi.",
+    "corrected_output": "Suya giriş esnasında sürtünme katsayısını minimize etmeyi hedefleyen yüzücü, aerodinamik bir form alarak su altında ivmelenme sağlamıştır."
+  },
+  {
+    "raw_model_output": "Fileler havalandığı anda stadyumdaki binlerce taraftar sevinç çığlıklarıyla ayağa kalktı.",
+    "corrected_output": "Meşin yuvarlağın ağlarla buluştuğu o kritik saniyede, tribünlerdeki binlerce futbolsever büyük bir coşku patlamasıyla zafer nidası atmıştır."
+  },
+  {
+    "raw_model_output": "Hatalı çıkış yapılınca yarışmacı diskalifiye edildi ve yarışın tekrarına karar verildi.",
+    "corrected_output": "Kural ihlali sayılan hatalı start neticesinde sporcu organizasyon dışı bırakılmış; yarışın adil koşullarda yeniden başlatılması kararlaştırılmıştır."
+  },
+  {
+    "raw_model_output": "Kırmızı kart havaya kalkınca oyuncu itiraz etmeden sahayı terk etti ve takım 10 kişi kaldı.",
+    "corrected_output": "İhraç kararının (kırmızı kart) tebliğ edilmesiyle birlikte oyuncu sükunetle oyun alanını terk etmiş; takımı sayısal olarak eksik bir kadroyla mücadeleye devam etmek zorunda kalmıştır."
+  },
+  {
+    "raw_model_output": "Voleybolda blok yaparken zamanlama önemlidir; ellerin file üzerinde doğru durması gerekir.",
+    "corrected_output": "Voleybolda savunma kurgusunun temel taşlarından olan blok hamlesinde zamanlama kritiktir; ellerin file üzerindeki pozisyonu rakip hücumunu etkisiz kılmak adına doğru ayarlanmalıdır."
+  },
+  {
+    "raw_model_output": "Ralli aracı virajı alamayınca yoldan çıktı ama pilotlar kazayı yara almadan atlattı.",
+    "corrected_output": "Yüksek hızdaki ralli aracının viraj geometrisine uyum sağlayamaması neticesinde pist dışına çıkılmış; ancak güvenlik donanımları sayesinde ekip kazadan yara almadan kurtulmuştur."
+  },
+  {
+    "raw_model_output": "Golf topu deliğin kenarında durunca izleyiciler şaşırdı; oyuncu fırsatı kaçırdığına inanamadı.",
+    "corrected_output": "Golf topunun hedefin tam sınırında durması izleyicilerde büyük bir şaşkınlık yaratırken, sporcu bu kritik şansın değerlendirilememesi karşısında büyük üzüntü duymuştur."
+  },
+  {
+    "raw_model_output": "Kaleci degaj yaparken topu ileri göndererek takımının hızlı çıkmasını sağlamaya çalıştı.",
+    "corrected_output": "Kalecinin ayağından başlattığı uzun vuruş (degaj), savunma derinliğinden hücum hattına hızlı bir geçiş sağlayarak takımı için kontra atak fırsatı oluşturmuştur."
+  },
+  {
+    "raw_model_output": "Taraftar sahaya atlayınca güvenlik görevlileri müdahale etti ve oyun kısa süre durdu.",
+    "corrected_output": "Oyun alanına izinsiz giren bir seyirci sebebiyle güvenlik protokolleri devreye sokulmuş; müsabaka emniyetin sağlanması adına geçici olarak duraklatılmıştır."
+  },
+  {
+    "raw_model_output": "Krep tavaya yapıştığında tavanın sıcak olduğunu ve yağlandığını kontrol edin.",
+    "corrected_output": "Krepin pişirme yüzeyine yapışması durumunda, tavanın ısıl dengesi ve yüzeydeki yağ tabakasının yeterliliği tetkik edilmelidir."
+  },
+  {
+    "raw_model_output": "Çaydanlık kireç tutunca içine limon tuzu koyup kaynatmak kirecin çözülmesini sağlar.",
+    "corrected_output": "Çaydanlık içindeki kireç birikimini bertaraf etmek amacıyla, asidik bir çözücü olan limon tuzu ile kaynatma işlemi uygulanması, birikintilerin kolayca çözünmesine olanak tanır."
+  },
+  {
+    "raw_model_output": "Buzluktan kıyma çıkarınca bakteri olmasın diye buzdolabının alt rafında çözünmesini bekleyin.",
+    "corrected_output": "Dondurulmuş kıymanın çözünme sürecinde patojenik oluşumları engellemek adına, oda ısısı yerine buzdolabının soğuk bölmesinde (0-4 derece) kademeli çözünme sağlanması en güvenli yöntemdir."
+  },
+  {
+    "raw_model_output": "Patatesler kızgın yağa atılınca cızırtılı bir sesle pişmeye başladı ve altın sarısı oldu.",
+    "corrected_output": "Patateslerin yüksek ısılı yağ ile etkileşime girmesi karakteristik bir ses eşliğinde pişme sürecini başlatmış; ürünler kısa sürede arzu edilen altın sarısı tona ulaşmıştır."
+  },
+  {
+    "raw_model_output": "Fırın sütlaç üzerini yakarken sadece üst ızgarayı açmak kıvamın bozulmasını önler.",
+    "corrected_output": "Fırında sütlaç hazırlarken sadece üst rezistansın aktive edilmesi, tatlının iç kıvamının stabilitesini bozmadan üst yüzeyin karamelize olmasını sağlar."
+  },
+  {
+    "raw_model_output": "Mayalı hamur taştığında kabın kenarlarını temizleyip hamuru yoğurarak gazını alın.",
+    "corrected_output": "Fermantasyonun aşırı seviyeye ulaşıp hamurun taşması durumunda, hijyen sağlanmalı ve hamur hafifçe manipüle edilerek biriken gazın tahliyesi sağlanmalıdır."
+  },
+  {
+    "raw_model_output": "Blender bozulup durunca motorun ısındığını düşünüp soğuması için bekledim.",
+    "corrected_output": "Elektronik parçalayıcının (blender) faaliyetinin aniden durması üzerine motorun termal korumaya geçtiği öngörülmüş; cihazın soğuması adına işleme ara verilmiştir."
+  },
+  {
+    "raw_model_output": "Döküm tava çok ısınınca etleri mühürlemek için iyi olur ve lezzet artar.",
+    "corrected_output": "Yüksek ısı kapasitesine sahip döküm tavanın ideal sıcaklığa ulaşması, etin dış yüzeyinin mühürlenerek sularının içeride hapsedilmesine ve lezzet derinliğinin artmasına vesile olur."
+  },
+  {
+    "raw_model_output": "Limona bıçak değince etrafa yayılan koku mutfakta ferahlatıcı bir etki yarattı.",
+    "corrected_output": "Limonun kesilmesiyle açığa çıkan sitrik rayiha, iç mekan atmosferinde ferahlatıcı ve canlandırıcı bir etki uyandırmıştır."
+  },
+  {
+    "raw_model_output": "Türk kahvesi taşınca köpüğü tamamen söndü ve sunumun özelliği kayboldu.",
+    "corrected_output": "Türk kahvesinin pişme esnasında taşması, yüzeydeki karakteristik köpük tabakasının yitirilmesine ve dolayısıyla sunum kalitesinin düşmesine yol açmıştır."
+  },
+  {
+    "raw_model_output": "Ekmekler fırında kuruyunca bunları israf etmeyip galeta unu haline getirdim.",
+    "corrected_output": "Bayatlayan ekmeklerin israfını önlemek maksadıyla, bu ürünler fırında kurutulmuş ve öğütülerek mutfakta çok amaçlı kullanılabilen galeta ununa dönüştürülmüştür."
+  },
+  {
+    "raw_model_output": "Balık ayıklarken pulların sıçramaması için işlemi su dolu kapta yapmak kolay olur.",
+    "corrected_output": "Deniz mahsullerinin temizlik aşamasında pulların çevreye dağılmasını engellemek adına, işlemin su dolu bir haznede gerçekleştirilmesi uygulama kolaylığı ve hijyen sağlar."
+  },
+  {
+    "raw_model_output": "Közde biber kokusu gelince yaz akşamlarının o samimi sofraları aklıma geldi.",
+    "corrected_output": "Közlenen biberlerden yayılan özgün koku, zihnimde yaz akşamlarının sıcak ve nostaljik sofra kültürünü canlandırmıştır."
+  },
+  {
+    "raw_model_output": "Turşu kavanozu sıkışınca kapağı sıcak suya tutmak açılmasını kolaylaştırır.",
+    "corrected_output": "Konserve kapaklarındaki sıkışmaların giderilmesi için uygulanan termal genleşme yöntemi (sıcak su ile temas), vakumun azalmasına ve kapağın zahmetsizce açılmasına yardımcı olur."
+  },
+  {
+    "raw_model_output": "Reçel şekerlenmeye başlayınca sıcak suya koyarak şekerin çözülmesini sağlayabilirsiniz.",
+    "corrected_output": "Kristalleşen (şekerlenen) reçelin tekrar akışkan hale gelmesi için benmari usulü ısıtılması, şeker kristallerinin çözünerek ürünün eski formuna dönmesini sağlar."
+  },
+  {
+    "raw_model_output": "Kredi kartı limiti dolunca işlem onaylanmadı ve nakit ödeme yapmak zorunda kaldım.",
+    "corrected_output": "Kredi kartı harcama kapasitesinin (limit) aşılması sebebiyle provizyon alınamamış; ödeme yükümlülüğü nakdi kaynaklar vasıtasıyla yerine getirilmiştir."
+  },
+  {
+    "raw_model_output": "Banka hesabı bloke olunca müşteri hizmetlerini arayarak blokenin kalkmasını sağladım.",
+    "corrected_output": "Hesap üzerindeki kısıtlamanın (bloke) bertaraf edilmesi amacıyla bankacılık birimiyle iletişime geçilmiş ve gerekli güvenlik prosedürleri tamamlanarak erişim tekrar tesis edilmiştir."
+  },
+  {
+    "raw_model_output": "Hisse senetleri çakıldığında panik satışları arttı ve borsada hacim rekor kırdı.",
+    "corrected_output": "Hisse senetlerinin değer kaybettiği ayı piyasası koşullarında, bireysel yatırımcıların yoğun satış baskısı borsadaki işlem hacminin tarihi zirvelere ulaşmasına neden olmuştur."
+  },
+  {
+    "raw_model_output": "Konut fiyatları tavan yapınca ev sahibi olmak isteyenler için seçenekler azaldı.",
+    "corrected_output": "Gayrimenkul fiyatlarındaki fahiş artışlar, konut edinme niyetindeki bireylerin satın alma opsiyonlarını kısıtlamış ve piyasada daralma yaratmıştır."
+  },
+  {
+    "raw_model_output": "Turizm gelirleri beklenmeyince cari açık üzerindeki baskı arttı ve ekonomi zorlandı.",
+    "corrected_output": "Turizm kaynaklı döviz girdilerinin projeksiyonların gerisinde kalması, dış ticaret dengesini (cari açık) olumsuz yönde etkileyerek makroekonomik istikrar üzerinde baskı oluşturmuştur."
+  },
+  {
+    "raw_model_output": "Yatırım fonu değer kazandığında, portföy yöneticileri stratejinin başarısını kutladı ve kar payı dağıttı.",
+    "corrected_output": "Yatırım fonunun piyasa değerindeki artış, portföy yönetim stratejilerinin etkinliğini teyit etmiş; elde edilen katma değer neticesinde yatırımcılara kar payı (temettü) dağıtımı gerçekleştirilmiştir."
+  },
+  {
+    "raw_model_output": "Bitcoin cüzdan şifresi unutulunca, içinde milyonlarca dolar olmasına rağmen paraya ulaşmak imkansız oldu.",
+    "corrected_output": "Kripto varlık cüzdanına ait erişim anahtarlarının (private key) yitirilmesi, içerisinde yüksek meblağda dijital varlık barındırmasına karşın, ilgili fona erişimi teknik olarak imkansız kılmıştır."
+  },
+  {
+    "raw_model_output": "İhracat rekoru kırıldığında sanayiciler bu başarıyı kutladı ve yeni pazar hedeflerini açıkladı.",
+    "corrected_output": "Dış ticaret hacminde tarihi bir zirveye ulaşılması sanayi çevrelerinde memnuniyetle karşılanmış; bu başarı ivmesiyle birlikte küresel pazarlara yönelik yeni stratejik hedefler kamuoyuna duyurulmuştur."
+  },
+  {
+    "raw_model_output": "Faiz indirimi kararı gelince döviz kurları hareketlendi ve piyasada canlanma beklentisi oluştu.",
+    "corrected_output": "Para otoritesinin faiz oranlarını aşağı çekme yönündeki kararı, döviz kurlarında volatiliteye (hareketliliğe) yol açmış; eşzamanlı olarak piyasalarda likidite artışı ve ekonomik canlanma beklentisi tetiklenmiştir."
+  },
+  {
+    "raw_model_output": "Borsa İstanbul açılış yapınca endeks güne pozitif başladı ve banka hisselerine talep görüldü.",
+    "corrected_output": "Borsa İstanbul'un işlem gününe başlamasıyla birlikte ana endeks pozitif bir eğilim sergilemiş; özellikle bankacılık sektörü pay senetlerinde yoğun bir yatırımcı talebi müşahede edilmiştir."
+  },
+  {
+    "raw_model_output": "Tahvil faizleri yükselince yatırımcılar riskli varlıklardan çıkıp sabit getirili araçlara yöneldi.",
+    "corrected_output": "Tahvil getirilerindeki (yield) yükseliş eğilimi, yatırımcıların risk iştahını azaltarak sermayenin daha güvenli kabul edilen sabit getirili menkul kıymetlere kanalize olmasına zemin hazırlamıştır."
+  },
+  {
+    "raw_model_output": "Şirket birleşmesi duyurulunca her iki şirketin hisseleri değer kazandı ve sektörde rekabet değişti.",
+    "corrected_output": "Kurumsal birleşme kararının resmiyet kazanmasıyla birlikte her iki teşebbüsün piyasa değeri ivme kazanmış; bu konsolidasyon hamlesinin sektörel rekabet dinamiklerini yeniden şekillendireceği öngörülmektedir."
+  },
+  {
+    "raw_model_output": "Vergi rekortmenleri açıklanırken listede isminin gizli tutulmasını isteyenlerin sayısı dikkat çekti.",
+    "corrected_output": "Yıllık vergi yükümlülüklerini en yüksek seviyede ifa eden mükellefler ilan edilirken; kimlik bilgilerinin mahfuz (gizli) tutulmasını talep eden şahıs ve kurumların fazlalığı dikkat çekici bir veri olarak kaydedilmiştir."
+  },
+  {
+    "raw_model_output": "Start-up yatırımı alınca şirket ekibini büyütmek ve ürünü global pazara açmak için çalıştı.",
+    "corrected_output": "Girişim sermayesi (venture capital) desteğinin temin edilmesiyle birlikte, şirket insan kaynağını tahkim etme ve yerli teknoloji ürününü küresel ölçekte ticarileştirme süreçlerine hız vermiştir."
+  },
+  {
+    "raw_model_output": "Banka kredisi onaylanmayınca alternatif finansman yöntemlerini araştırmak zorunda kaldık.",
+    "corrected_output": "Kredi talebinin bankacılık prosedürleri gereği olumsuz neticelenmesi üzerine, projelerin sürdürülebilirliğini sağlamak adına alternatif finansman modelleri ve sermaye araçları üzerinde incelemeler başlatılmıştır."
+  },
+  {
+    "raw_model_output": "Güneş tutulması izlenirken göz sağlığını korumak için filtreler veya özel gözlükler kullanılmalıdır.",
+    "corrected_output": "Güneş tutulması hadisesinin gözlemlenmesi sırasında, optik sağlığın korunması maksadıyla mutlaka onaylı filtre düzenekleri veya spesifik koruyucu gözlükler istifade edilmelidir."
+  },
+  {
+    "raw_model_output": "Deprem dalgaları sismografa yansıyınca sarsıntılar kaydedildi ve merkez üssü tespit edildi.",
+    "corrected_output": "Sismik dalgaların ölçüm cihazlarına (sismograf) nüfuz etmesiyle birlikte yer kabuğundaki titreşimler teknik olarak kayıt altına alınmış; akabinde depremin magnitüdü ve episantrı (merkez üssü) saptanmıştır."
+  },
+  {
+    "raw_model_output": "Fosil yakıtlar tükenmeye başlayınca dünyada yenilenebilir enerjiye geçiş hızlandı.",
+    "corrected_output": "Hidrokarbon kaynakların (fosil yakıtlar) rezervlerindeki azalma, küresel ölçekte yenilenebilir ve sürdürülebilir enerji dönüşümünü tetikleyerek temiz enerji teknolojilerine olan geçişi hızlandırmıştır."
+  },
+  {
+    "raw_model_output": "Yapay zeka kendi kendine kod yazınca yazılım süreçleri hızlandı ama insan denetimi hala kritik.",
+    "corrected_output": "Yapay zeka sistemlerinin otonom kod yazım kabiliyeti kazanması yazılım geliştirme evrelerini optimize etmiş olsa da; çıktıların güvenliği ve optimizasyonu açısından insan denetimi halen vazgeçilmez bir unsurdur."
+  },
+  {
+    "raw_model_output": "Robotlar fabrikada iş başı yapınca üretim hataları azaldı ve 24 saat kesintisiz çalışma sağlandı.",
+    "corrected_output": "Endüstriyel robotların üretim hattına entegrasyonuyla birlikte operasyonel hatalar asgari düzeye indirilmiş; tam otomasyon sayesinde kesintisiz üretim döngüsü tesis edilerek verimlilik rekor seviyeye ulaşmıştır."
+  },
+  {
+    "raw_model_output": "Ozon tabakasındaki delik büyüyünce zararlı UV ışınları dünyaya daha çok ulaştı ve ekoloji bozuldu.",
+    "corrected_output": "Ozon tabakasındaki seyrekleşmenin (delinmenin) genişlemesi, süzülmemiş ultraviyole (UV) ışınlarının yeryüzüne doğrudan ulaşmasına neden olarak ekolojik dengeler üzerinde tahrip edici etkiler yaratmıştır."
+  },
+  {
+    "raw_model_output": "Genetik mutasyon tespit edildiğinde hastalığa yol açıp açmadığını anlamak için testler yapılır.",
+    "corrected_output": "Kalıtımsal yapıda bir mutasyonun saptanması durumunda, bu değişimin klinik bir patolojiye sebebiyet verip vermediğini belirlemek amacıyla derinlemesine genetik analizler ve tanısal testler icra edilmektedir."
+  },
+  {
+    "raw_model_output": "Nötron yıldızları çarpışınca evrene devasa enerji yayılır ve altın gibi ağır elementler oluşur.",
+    "corrected_output": "Nötron yıldızlarının yüksek enerjili çarpışması (kilonova) neticesinde uzay-zamana muazzam bir enerji salınmakta; bu süreçte altın ve platin gibi nadir ağır elementlerin sentezi gerçekleşmektedir."
+  },
+  {
+    "raw_model_output": "Süper iletken bulunduğunda elektrik iletimindeki kayıplar sıfıra inecek ve teknoloji değişecek.",
+    "corrected_output": "Oda sıcaklığında çalışabilen bir süper iletkenin keşfi, enerji nakil hatlarındaki direnç kaynaklı kayıpları tamamen ortadan kaldıracak ve ulaşımdan bilişime pek çok alanda teknolojik bir devrim yaratacaktır."
+  },
+  {
+    "raw_model_output": "Maddenin dördüncü hali plazmada atomlar iyonlaşmıştır ve evrendeki maddenin çoğunu oluşturur.",
+    "corrected_output": "Maddenin dördüncü fiziksel hali olan plazma evresinde atomlar iyonize bir yapıdadır; bu faz, evrenin gözlemlenebilir kütlesinin ezici çoğunluğunu teşkil etmektedir."
+  },
+  {
+    "raw_model_output": "Kimyasal tepkime sona erince ortam sıcaklığı düştü ve oluşan yeni ürün dipte çökelti oldu.",
+    "corrected_output": "Kimyasal reaksiyonun nihayete ermesiyle birlikte egzotermik etkileşim durmuş, ortam ısısı dengeye gelmiş ve sentezlenen yeni bileşik kap tabanında çökelti (presipitasyon) formunda birikmiştir."
+  },
+  {
+    "raw_model_output": "Astronot kaskını taktığında dış dünyayla iletişimi kesildi ve telsizle konuşmaya başladı.",
+    "corrected_output": "Astronotun kask donanımını aktive etmesiyle birlikte atmosferik ses iletimi sonlanmış; dış dünya ile veri akışı ve sesli iletişim münhasıran telsiz sistemleri üzerinden tesis edilmeye başlanmıştır."
+  },
+  {
+    "raw_model_output": "Meteor yağmuru başlarken gökyüzü parlayan ışıklarla doldu ve görsel şölen sundu.",
+    "corrected_output": "Meteor yağmurunun (yıldız kayması) başlangıç evresinde gökkubbe ışıltılı izlerle donanmış; bu doğa hadisesi gözlemciler için büyüleyici bir görsel panorama sunmuştur."
+  },
+  {
+    "raw_model_output": "Virüs laboratuvar ortamında incelendi ve yapısı çözülünce aşı çalışmalarına başlandı.",
+    "corrected_output": "Patojenik virüsün laboratuvar koşullarında izole edilerek moleküler yapısının deşifre edilmesi, immünolojik koruma sağlayacak aşı geliştirme süreçlerinin temelini oluşturmuştur."
+  },
+  {
+    "raw_model_output": "Kök hücre tedavisi denenirken dokuların yenilenmesi hedeflendi ve umut verici gelişmeler oldu.",
+    "corrected_output": "Rejeneratif tıp kapsamında uygulanan kök hücre terapilerinde, hasarlı dokuların biyolojik olarak onarılması hedeflenmiş; klinik süreçlerde umut verici bulgulara erişilmiştir."
+  },
+  {
+    "raw_model_output": "Kedi mama kabını devirince mutfağın her yeri mama oldu ve temizlemek bana düştü.",
+    "corrected_output": "Kedinin mama haznesini devirmesi neticesinde muhteva mutfak zeminine yayılmış; hijyenin tekrar sağlanması adına kapsamlı bir temizlik süreci gerekmiştir."
+  },
+  {
+    "raw_model_output": "Komşunun tadilat sesi başlayınca evde durmak zor oldu ve müzikle çözüm aradım.",
+    "corrected_output": "Komşu bağımsız bölümden kaynaklanan restorasyon gürültüsünün şiddetlenmesi, ikametgah içerisindeki sükuneti bozmuş; bu akustik rahatsızlığı dengelemek adına ses yalıtımlı kulaklıklar ile müzik dinleme yoluna gidilmiştir."
+  },
+  {
+    "raw_model_output": "Elektrikler aniden kesilince ev karanlığa gömüldü ve feneri ararken sağa sola çarptım.",
+    "corrected_output": "Enerji arzının aniden kesintiye uğramasıyla iç mekan tamamen karanlıkta kalmış; aydınlatma ekipmanlarına erişmeye çalışırken görüş kısıtlılığı sebebiyle ufak çaplı ev kazaları yaşanmıştır."
+  },
+  {
+    "raw_model_output": "Su faturası yüksek gelince tesisatı kontrol ettirdik ve musluğun damlattığını fark ettik.",
+    "corrected_output": "Su kullanım maliyetinin (faturanın) olağandışı bir seyir izlemesi üzerine sıhhi tesisat gözden geçirilmiş; sızıntı yapan bir armatürün bu israfa sebebiyet verdiği saptanmıştır."
+  },
+  {
+    "raw_model_output": "Kargocu evde kimseyi bulamayınca not yapıştırıp paketi şubeye götürmüş.",
+    "corrected_output": "Kurye personeli adreste muhatap bulamaması sebebiyle teslimatın gerçekleşemediğine dair bir bildirim bırakmış; gönderiyi muhafaza edilmek üzere ilgili dağıtım merkezine geri götürmüştür."
+  },
+  {
+    "raw_model_output": "Kombinin basıncı düşünce petekler ısınmadı; vanayı açıp basıncı normale getirdim.",
+    "corrected_output": "Isıtma sistemindeki (kombi) su basıncının ideal limitlerin altına gerilemesi verimlilik kaybına yol açmış; takviye vanası vasıtasıyla sistem basıncı operasyonel seviyeye yükseltilmiştir."
+  },
+  {
+    "raw_model_output": "Ütü yaparken gömlek yanınca odayı koku kapladı ve gömlek kullanılmaz hale geldi.",
+    "corrected_output": "Tekstil ürününün (gömleğin) yüksek ısıya maruz kalarak deforme olması neticesinde ortamda yanık rayihası oluşmuş; giysi, dokusal bütünlüğünü yitirerek işlevsiz hale gelmiştir."
+  },
+  {
+    "raw_model_output": "Saç kurutma makinesi alev alınca hemen fişini çektim ve makineyi yere bıraktım.",
+    "corrected_output": "Saç kurutma cihazının elektrik aksamında meydana gelen kısa devre ve parlama hadisesi üzerine, enerji beslemesi ivedilikle kesilmiş ve güvenlik amacıyla cihaz zemine bırakılmıştır."
+  },
+  {
+    "raw_model_output": "Metro kapısına sıkışırken sensörler çalıştı ve kapılar açılınca güvenle bindim.",
+    "corrected_output": "Metro vagonuna biniş esnasında kapı mekanizmasına temas edilmesiyle birlikte güvenlik sensörleri devreye girmiş; kapıların otomatik olarak serbest kalmasıyla biniş süreci güvenli bir şekilde tamamlanmıştır."
+  },
+  {
+    "raw_model_output": "Sinemada mısır dökülünce toplamaya çalıştım ama filmin heyecanlı yerini kaçırdım.",
+    "corrected_output": "Sinema salonunda atıştırmalıkların zemine saçılması üzerine çevre kirliliğini önlemek adına temizlik yapılmaya çalışılmış; bu esnada yapımın en kritik sekansı dikkati dağıldığı için takip edilememiştir."
+  },
+  {
+    "raw_model_output": "Kulaklık kablosu düğüm olunca çözmek zaman aldı ve daha düzenli sarmaya karar verdim.",
+    "corrected_output": "Ses iletim kablosunun karmaşık bir form (düğüm) alması sebebiyle ayrıştırma süreci vakit kaybına yol açmış; bu durum, ekipmanın daha sistematik bir biçimde muhafaza edilmesi gerektiğini göstermiştir."
+  },
+  {
+    "raw_model_output": "Sivrisinek kulağımda vızıldayınca uykum kaçtı ve onu bulmadan uyumak mümkün olmadı.",
+    "corrected_output": "Sivrisineğin yaydığı yüksek frekanslı sesin işitsel rahatsızlık yaratması uykuyu bölmüş; haşere etkisiz hale getirilmeden dinlenme sürecine dönmek mümkün olmamıştır."
+  },
+  {
+    "raw_model_output": "Çalar saat ısrarla çalınca daha fazla erteleyemeyeceğimi anlayıp yataktan kalktım.",
+    "corrected_output": "Uyarıcı cihazın (çalar saat) periyodik sinyallerinin devam etmesi, uyanma vaktinin geldiğini teyit etmiş; erteleme seçeneği tükenince günlük rutinlere başlamak üzere yataktan kalkılmıştır."
+  },
+  {
+    "raw_model_output": "E-posta şifremi unutunca bağlantıya tıklayıp yeni bir şifre belirledim.",
+    "corrected_output": "Elektronik posta hesabına ait erişim verilerinin yitirilmesi üzerine kimlik doğrulama prosedürleri işletilmiş; sistem tarafından gönderilen bağlantı vasıtasıyla yeni bir güvenlik parolası tanzim edilmiştir."
+  },
+  {
+    "raw_model_output": "Diş macunu tüpü bitince kalan kısmı sıkmak için tüpü rulo yaparak kullandım.",
+    "corrected_output": "Ağız bakım ürününün (diş macununun) tükenme aşamasına gelmesiyle birlikte, muhtevanın tamamından istifade etmek maksadıyla ambalaja fiziksel baskı uygulanarak kalan miktar tahliye edilmiştir."
+  },
+  {
+    "raw_model_output": "Debug modunda adım adım ilerlerken değişkenlerin değerlerini takip ettim ve hatayı buldum.",
+    "corrected_output": "Yazılımın hata ayıklama (debug) safhasında komut dizinini kademeli olarak icra ederek veri parametrelerini gözlemlemiş; mantıksal kusurun (bug) hangi satırdan kaynaklandığını saptadım."
+  },
+  {
+    "raw_model_output": "JSON verisi parse edilemeyince hata yakalama bloğu çalıştı ve uyarı gösterildi.",
+    "corrected_output": "Veri yapısının (JSON) işleme (parse) sürecinde sözdizimsel bir uyumsuzluk saptanmış; istisna yönetim mekanizması (try-catch) devreye girerek kullanıcıya hata bildirimini iletmiştir."
+  },
+  {
+    "raw_model_output": "Linux terminalinde root yetkisiyle işlem yaparken dikkatli olunmalıdır yoksa sistem bozulur.",
+    "corrected_output": "Linux tabanlı sistemlerde en üst düzey kullanıcı (root) imtiyazlarıyla komut yürütürken azami dikkat gösterilmelidir; zira hatalı bir komut sistem bütünlüğüne kalıcı zarar verebilir."
+  },
+  {
+    "raw_model_output": "Veri sızıntısı tespit edildiğinde sistemler izole edildi ve kullanıcılara bildirim yapıldı.",
+    "corrected_output": "Veri gizliliğinin ihlal edildiğine dair bir emarenin saptanması üzerine etkilenen ağ katmanları derhal karantinaya alınmış; yasal mevzuat gereği ilgili paydaşlara ivedilikle bilgilendirme yapılmıştır."
+  },
+  {
+    "raw_model_output": "Siber güvenlik saldırısı sırasında duvarlar trafiği engelledi ve inceleme başlatıldı.",
+    "corrected_output": "Siber saldırı girişimi esnasında güvenlik duvarları (firewall) şüpheli veri paketlerini filtreleyerek sisteme girişi engellemiş; saldırının menşei ve mahiyetine dair adli bilişim incelemesi başlatılmıştır."
+  },
+  {
+    "raw_model_output": "Cache belleği temizlemeyi unutunca yaptığım kod değişiklikleri tarayıcıda görünmedi.",
+    "corrected_output": "Tarayıcı önbelleğinin (cache) güncellenmemesi sebebiyle sunucu tarafında yapılan yazılım revizyonları istemci arayüzüne yansımamış ve eski sürüm görüntülenmeye devam etmiştir."
+  },
+  {
+    "raw_model_output": "Nesne tabanlı programlamada kalıtım kod tekrarını önler ve hiyerarşik bir yapı kurar.",
+    "corrected_output": "Nesne yönelimli programlama metodolojisinde kalıtım (inheritance) ilkesi, sınıflar arası özellik aktarımı sağlayarak kodun modülerliğini artırmakta ve yapısal bir hiyerarşi tesis ederek verimliliği optimize etmektedir."
+  },
+  {
+    "raw_model_output": "Responsive tasarım mobilde bozulunca medya sorgularını kontrol edip hizalamaları düzelttim.",
+    "corrected_output": "Duyarlı (responsive) tasarımın mobil cihazlarda görüntüleme kusurları sergilemesi üzerine CSS medya sorguları revize edilmiş; mizanpaj ve hizalama parametreleri cihaz ekranına uyumlu hale getirilmiştir."
+  },
+  {
+    "raw_model_output": "Bulut sunucuya dosya yüklerken bağlantı koptu ama yükleme kaldığı yerden devam etti.",
+    "corrected_output": "Uzak sunucuya (bulut) veri aktarımı sırasında ağ stabilitesinin bozulmasına karşın; dosya transfer protokolünün (FTP/HTTP) kesintili yükleme desteği sayesinde süreç kaldığı noktadan sürdürülmüştür."
+  },
+  {
+    "raw_model_output": "404 hata sayfası gelince kullanıcıyı ana sayfaya yönlendiren arama çubuğu sunmak iyidir.",
+    "corrected_output": "Erişilemeyen bir dizin (404 hatası) durumunda, kullanıcı deneyimini iyileştirmek adına kişiyi ana portala yönlendiren veya alternatif içerik arama opsiyonu sunan bir arayüz kurgulanmalıdır."
+  },
+  {
+    "raw_model_output": "Bastille Hapishanesi basıldığında Fransız Devrimi başladı ve halk monarşiye karşı zafer kazandı.",
+    "corrected_output": "Bastille Hapishanesi'nin istilasıyla birlikte Fransız İhtilali'nin fitili ateşlenmiş; bu hadise, halkın mutlak monarşiye karşı başlattığı topyekûn başkaldırının sembolik zaferi haline gelmiştir."
+  },
+  {
+    "raw_model_output": "Osmanlı donanması sefere çıkarken Haliç'ten dualarla uğurlanır ve denizlerde hakimiyet kurardı.",
+    "corrected_output": "Osmanlı bahriyesi (donanması) sefere çıkmadan evvel Haliç'ten dualar ve merasimlerle uğurlanır; Akdeniz ve çevre denizlerde devletin stratejik hakimiyetini pekiştirmek amacıyla yelken açardı."
+  },
+  {
+    "raw_model_output": "Atatürk Samsun'a ayak bastığında milli mücadelenin meşalesini yaktı ve bağımsızlık umutlarını artırdı.",
+    "corrected_output": "Mustafa Kemal Atatürk'ün Samsun'a intikaliyle milli mücadelenin ilk kıvılcımı parlamış; bu tarihi adım, Türk milletinin istiklal yolundaki azim ve kararlılığını yeniden canlandırmıştır."
+  },
+  {
+    "raw_model_output": "Pompei Yanardağı patladığı anda şehir külle kaplandı ve zaman o anın içinde donup kaldı.",
+    "corrected_output": "Vezüv Yanardağı'nın şiddetli püskürmesi neticesinde Pompei kenti yoğun bir kül tabakası altına gömülmüş; hayatın tüm akışı o trajik anın içinde adeta zamanın ötesinde donup kalmıştır."
+  },
+  {
+    "raw_model_output": "İskenderiye Kütüphanesi yanarken insanlık tarihinin büyük bilgi birikimi yok oldu ve bilim dünyası zarar gördü.",
+    "corrected_output": "İskenderiye Kütüphanesi'nde meydana gelen yangın felaketiyle, antik çağın muazzam bilgi hazinesi küle dönmüş; bu kayıp, bilim ve medeniyet tarihinde telafisi güç bir kesintiye yol açmıştır."
+  },
+  {
+    "raw_model_output": "Soğuk Savaş'ın en gergin anında nükleer tehdit arttı ve dünya süper güçlerin hamlelerini bekledi.",
+    "corrected_output": "Soğuk Savaş konjonktürünün en kritik evrelerinde nükleer caydırıcılık unsurları ön plana çıkmış; küresel kamuoyu, süper güçlerin stratejik hamlelerini derin bir endişeyle takip etmiştir."
+  },
+  {
+    "raw_model_output": "Sanayi devrimi fabrikalarında işçiler uzun saatler çalışarak seri üretimin temellerini attı.",
+    "corrected_output": "Sanayi Devrimi dönemindeki üretim tesislerinde iş gücü, oldukça zorlu koşullarda uzun mesailer harcayarak endüstriyel seri üretim modelinin yerleşmesini sağlamıştır."
+  },
+  {
+    "raw_model_output": "Demir Perde ülkelerinde bilgi akışı kontrol edildi ve batı dünyasıyla ilişkiler azaldı.",
+    "corrected_output": "Demir Perde gerisindeki ülkelerde enformasyon akışı sıkı bir denetime tabi tutulmuş; Batı bloku ile olan kültürel ve siyasi etkileşim asgari düzeye indirgenmiştir."
+  },
+  {
+    "raw_model_output": "Viyana kapılarına dayanılınca Osmanlı ordusu kuşatma başlattı ama kış şartları yüzünden çekildi.",
+    "corrected_output": "Viyana kapılarına varıldığında Osmanlı ordusu kapsamlı bir muhasara (kuşatma) başlatmış; ancak mevsimsel zorluklar ve lojistik aksaklıklar sebebiyle operasyonun sonlandırılmasına karar verilmiştir."
+  },
+  {
+    "raw_model_output": "Tekerlek icat edildiğinde ulaşım ve ticaret değişti ve medeniyetlerin gelişimi hızlandı.",
+    "corrected_output": "Tekerleğin icadı, lojistik süreçlerde ve ticari rotalarda devrim niteliğinde bir dönüşüm yaratmış; kadim medeniyetlerin teknik ve sosyal gelişim ivmesini kayda değer oranda artırmıştır."
+  },
+  {
+    "raw_model_output": "Frikik barajı kurulurken kaleci oyuncuları yönlendirerek köşeyi kapatmaya çalıştı.",
+    "corrected_output": "Serbest vuruş esnasında savunma barajı tanzim edilirken, kaleci takım arkadaşlarını stratejik olarak konumlandırarak kalenin açık noktalarını muhafaza altına almaya çalışmıştır."
+  },
+  {
+    "raw_model_output": "Tenis topu çizgiye değince hakem içeride kararı verdi ve puanı oyuncuya yazdı.",
+    "corrected_output": "Tenis müsabakasında topun oyun alanı çizgisine asgari düzeyde de olsa temas etmesi, hakem tarafından 'geçerli' olarak değerlendirilmiş ve puan hanesine kaydedilmiştir."
+  },
+  {
+    "raw_model_output": "Basketbol koçu mola aldığında oyuncuları toplayıp yeni taktiği tahtada çizerek anlattı.",
+    "corrected_output": "Basketbol teknik sorumlusu mola hakkını kullanarak sporcuları etrafında kenetlemiş; hücum varyasyonlarını taktik tahtası üzerinden ayrıntılı olarak aktarmıştır."
+  },
+  {
+    "raw_model_output": "100 metre finali başlarken stadyumda sessizlik oldu ve herkes tabanca sesine odaklandı.",
+    "corrected_output": "Yüz metre final koşusunun başlangıç seremonisinde tribünler derin bir sessizliğe bürünmüş; tüm dikkatler start sinyalini verecek olan mekanizmaya kanalize edilmiştir."
+  },
+  {
+    "raw_model_output": "Formula 1 damalı bayrağı sallanınca lider pilot çizgiyi geçip zaferini ilan etti.",
+    "corrected_output": "Formula 1 yarışının nihayete erdiğini simgeleyen damalı bayrağın dalgalanmasıyla, yarışı önde götüren pilot bitiş çizgisini geçerek galibiyetini tescillemiştir."
+  },
+  {
+    "raw_model_output": "Sakatlanan oyuncu sedyeyle çıkarken stadyum onu alkışlayarak moral vermeye çalıştı.",
+    "corrected_output": "Sakatlık hadisesi neticesinde oyun alanından sedye vasıtasıyla tahliye edilen sporcuya, tribünler toplu bir alkışla destek vererek moral aşılamaya gayret etmiştir."
+  },
+  {
+    "raw_model_output": "Voleybol maçı tie-break setine gidince heyecan arttı ve 15 sayıya ulaşan kazanacaktı.",
+    "corrected_output": "Voleybol müsabakasının karar setine (tie-break) evrilmesiyle gerilim doruğa ulaşmış; on beş sayı limitine ilk erişen tarafın galip sayılacağı kritik evre başlamıştır."
+  },
+  {
+    "raw_model_output": "Boks maçının son raundunda boksörler yorgun olsa da puan almak için gayret etti.",
+    "corrected_output": "Boks müsabakasının final devresinde (raund), her iki sporcu da fiziksel direnç sınırlarını zorlamasına karşın, skoru lehlerine çevirmek adına yoğun bir efor sarf etmiştir."
+  },
+  {
+    "raw_model_output": "Golf sahasındaki sessizlikte oyuncunun konsantrasyonu bozulmasın diye kimse konuşmadı.",
+    "corrected_output": "Golf sahasının karakteristik sükuneti içerisinde, sporcunun odaklanma sürecini sekteye uğratmamak adına izleyiciler tam bir sessizlik hakimiyeti sağlamıştır."
+  },
+  {
+    "raw_model_output": "Şampiyonlar Ligi müziği çalınca futbolcuların tüyleri diken diken oldu ve mücadele başladı.",
+    "corrected_output": "Şampiyonlar Ligi marşının yankılanmasıyla sporcularda yüksek bir motivasyon ve heyecan dalgası oluşmuş; devler sahnesindeki mücadelenin startı verilmiştir."
+  },
+  {
+    "raw_model_output": "Bisiklet turunda yokuş tırmanırken yorgunluk artsa da zirveye ulaşma isteği motive etti.",
+    "corrected_output": "Bisiklet parkurunun eğimli etaplarında kas yorgunluğu en üst seviyeye çıksa da; zirve noktasına varma arzusu, sporcunun mukavemetini (dayanıklılığını) kamçılamıştır."
+  },
+  {
+    "raw_model_output": "Hakem VAR monitörüne gidince pozisyonu izledi ve penaltı kararını iptal etti.",
+    "corrected_output": "Hakemin video inceleme alanına (VAR) yönelerek pozisyonu farklı açılardan analiz etmesi sonucunda, önceden hükmedilen penaltı kararı teknik gerekçelerle geri alınmıştır."
+  },
+  {
+    "raw_model_output": "Transfer dönemi kapanmadan kulüpler eksik yerlerini tamamlamak için imzalar attırdı.",
+    "corrected_output": "Resmi transfer tescil sürecinin nihayetinden evvel spor kulüpleri, kadro eksikliklerini gidermek maksadıyla son dakika operasyonlarıyla kadrolarını takviye etmiştir."
+  },
+  {
+    "raw_model_output": "Doping testi pozitif çıkınca sporcu men edildi ve madalyaları geri alındı.",
+    "corrected_output": "Yasaklı madde kullanımının (doping) teknik analizlerle saptanması neticesinde sporcu organizasyonlardan men edilmiş; daha evvel elde ettiği dereceler ve ödüller iptal edilmiştir."
+  },
+  {
+    "raw_model_output": "Stadyum ışıkları sönünce taraftarlar telefon ışıklarıyla görsel şölen yaptı.",
+    "corrected_output": "Stadyum aydınlatma sistemlerinin devre dışı kalmasıyla birlikte futbolseverler, mobil cihazlarının ışıklarını kullanarak tribünlerde etkileyici bir görsel panorama oluşturmuştur."
+  },
+  {
+    "raw_model_output": "Krep tavaya yapıştığında tavanın sıcaklığına ve yağlanmasına dikkat edin.",
+    "corrected_output": "Krepin pişirme yüzeyine nüfuz etmesi (yapışması) durumunda, pleytin ısıl dengesi ve yüzeydeki yağ katmanının homojenliği kontrol edilmelidir."
+  },
+  {
+    "raw_model_output": "Çaydanlık kireç tutunca limon tuzuyla kaynatmak kirecin çözülmesini sağlar.",
+    "corrected_output": "Çaydanlık içerisindeki kalsiyum birikintilerini (kireç) gidermek adına asidik bir çözelti olan limon tuzuyla kaynatma işlemi uygulanması, birikintilerin kimyasal olarak çözünmesini sağlar."
+  },
+  {
+    "raw_model_output": "Buzluktan kıyma çıkarınca bakteri olmasın diye alt rafta çözünmesini bekleyin.",
+    "corrected_output": "Donuk haldeki kıymanın çözünme sürecinde mikrobiyolojik riskleri minimize etmek amacıyla, oda sıcaklığı yerine buzdolabının soğuk bölmesinde yavaşça çözündürülmesi en sağlıklı yöntemdir."
+  },
+  {
+    "raw_model_output": "Patatesler kızgın yağa atılınca sesle pişmeye başladı ve rengi değişti.",
+    "corrected_output": "Patates dilimlerinin yüksek ısılı yağ ile teması sonucunda karakteristik bir pişme reaksiyonu başlamış; ürünler kısa sürede arzu edilen altın sarısı tona evrilmiştir."
+  },
+  {
+    "raw_model_output": "Fırın sütlaç üzerini yakarken üst ızgarayı açmak kıvamın bozulmasını önler.",
+    "corrected_output": "Fırında sütlaç hazırlarken sadece üst rezistansın aktive edilmesi, tatlının dâhili dokusunu bozmadan yüzeyin karamelize olmasını sağlar."
+  },
+  {
+    "raw_model_output": "Mayalı hamur taştığında kabı temizleyip hamuru yoğurarak havasını alın.",
+    "corrected_output": "Fermantasyonun yoğunluğu sebebiyle hamurun taşması durumunda, hijyenik müdahale yapılmalı ve hamur manipüle edilerek dâhili gaz birikimi tahliye edilmelidir."
+  },
+  {
+    "raw_model_output": "Blender bozulunca motorun ısındığını anlayıp soğuması için bekledim.",
+    "corrected_output": "Mekanik parçalayıcının (blender) faaliyetinin aniden kesilmesi üzerine motorun termal koruma moduna geçtiği öngörülmüş; cihazın ısıl dengesine kavuşması beklenmiştir."
+  },
+  {
+    "raw_model_output": "Döküm tava ısınınca etleri mühürlemek için iyi olur ve lezzet artar.",
+    "corrected_output": "Yüksek ısı kapasiteli döküm tavanın ideal sıcaklığa erişmesi, etin dış yüzeyinin mühürlenerek öz sularının muhafaza edilmesine ve aromatik zenginliğin artmasına olanak tanır."
+  },
+  {
+    "raw_model_output": "Limona bıçak değince yayılan koku mutfakta ferahlık sağladı.",
+    "corrected_output": "Limonun kesilmesiyle serbest kalan sitrik esanslar, iç mekan atmosferine tazeleyici ve karakteristik bir ferahlık katmıştır."
+  },
+  {
+    "raw_model_output": "Türk kahvesi taşınca köpüğü söndü ve sunumun özelliği kalmadı.",
+    "corrected_output": "Türk kahvesinin pişme evresinde taşması, yüzeydeki estetik köpük tabakasının yitirilmesine ve dolayısıyla geleneksel sunum kalitesinin zayıflamasına yol açmıştır."
+  },
+  {
+    "raw_model_output": "Ekmekler kuruyunca israf etmeyip onları galeta unu yaptım.",
+    "corrected_output": "Kuruyan ekmeklerin israfını önlemek maksadıyla, bu ürünler fırınlanarak öğütülmüş ve mutfak kullanımına uygun galeta ununa dönüştürülmüştür."
+  },
+  {
+    "raw_model_output": "Balık ayıklarken pulların sıçramaması için su dolu kapta yapmak iyidir.",
+    "corrected_output": "Deniz mahsullerinin temizlik safhasında pulların çevreye dağılmasını engellemek adına, işlemin su dolu bir haznede icra edilmesi hem kolaylık hem de hijyen sağlar."
+  },
+  {
+    "raw_model_output": "Közde biber kokusu gelince yaz akşamlarının sofraları aklıma geldi.",
+    "corrected_output": "Közlenen biberlerden yayılan rayiha, zihnimde yaz akşamlarının o kendine has samimi sofra kültürünü ve nostaljik anıları canlandırmıştır."
+  },
+  {
+    "raw_model_output": "Turşu kavanozu sıkışınca kapağı sıcak suya tutmak açılmasını sağlar.",
+    "corrected_output": "Sıkışan kavanoz kapaklarının açılması için uygulanan termal genleşme yöntemi (sıcak su ile temas), vakum etkisini azaltarak kapağın zahmetsizce serbest kalmasına yardımcı olur."
+  },
+  {
+    "raw_model_output": "Reçel şekerlenmeye başlayınca sıcak suya koyarak şekerin çözülmesini sağlayın.",
+    "corrected_output": "Kristalleşme (şekerlenme) emaresi gösteren reçelin, benmari usulüyle ısıl işleme tabi tutulması, şeker moleküllerinin çözünerek ürünün akışkan formuna dönmesini sağlar."
+  },
+  {
+    "raw_model_output": "Kredi kartı limiti dolunca işlem onaylanmadı ve nakit ödedim.",
+    "corrected_output": "Kart limitinin dolması sebebiyle provizyon alınamamış; finansal yükümlülük, nakdi ödeme yöntemi vasıtasıyla yerine getirilmiştir."
+  },
+  {
+    "raw_model_output": "Banka hesabı bloke olunca müşteri hizmetlerini arayıp düzelttim.",
+    "corrected_output": "Banka hesabı üzerindeki kısıtlamanın (bloke) kaldırılması amacıyla ilgili birimle görüşülmüş ve gerekli güvenlik teyitleri sonrası erişim tekrar sağlanmıştır."
+  },
+  {
+    "raw_model_output": "Hisse senetleri düşünce panik satışları oldu ve borsa hacmi arttı.",
+    "corrected_output": "Hisse senedi fiyatlarındaki ani gerileme, yatırımcılar arasında satış eğilimini tetiklemiş; bu durum borsadaki toplam işlem hacminde rekor bir artışa yol açmıştır."
+  },
+  {
+    "raw_model_output": "Konut fiyatları tavan yapınca ev sahibi olmak zorlaştı.",
+    "corrected_output": "Gayrimenkul fiyatlarındaki fahiş ivmelenme, bireylerin konut edinme imkanlarını kısıtlayarak piyasadaki alım gücü üzerinde ciddi bir baskı oluşturmuştur."
+  },
+  {
+    "raw_model_output": "Turizm gelirleri azalınca cari açık arttı ve ekonomi zorlandı.",
+    "corrected_output": "Turizm kaynaklı döviz girdilerinin beklentilerin altında kalması, dış ticaret dengesini (cari açık) olumsuz yönde etkileyerek ekonomik kırılganlığı artırmıştır."
+  },
+  {
+    "raw_model_output": "Yatırım fonu değer kazanınca yöneticiler stratejinin başarısını kutladı.",
+    "corrected_output": "Yatırım fonunun portföy değerindeki artış, uygulanan yönetim stratejilerinin isabetli olduğunu kanıtlamış ve bu başarı kurumsal düzeyde memnuniyetle karşılanmıştır."
+  },
+  {
+    "raw_model_output": "Bitcoin cüzdan şifresi unutulunca paraya ulaşmak imkansız oldu.",
+    "corrected_output": "Kripto varlık cüzdan anahtarının (private key) yitirilmesi, içerisinde barındırılan dijital varlıklara erişimi teknik olarak imkansız hale getirmiştir."
+  },
+  {
+    "raw_model_output": "İhracat rekoru kırılınca sanayiciler yeni hedeflerini açıkladı.",
+    "corrected_output": "Dış ticaret hacminde ulaşılan tarihi başarı ivmesiyle birlikte sanayi temsilcileri, küresel pazarlara yönelik yeni vizyoner hedeflerini kamuoyuyla paylaşmıştır."
+  },
+  {
+    "raw_model_output": "Faiz indirimi kararı gelince döviz kurları hareketlendi ve piyasa canlandı.",
+    "corrected_output": "Faiz oranlarındaki indirim kararı, döviz piyasalarında volatiliteye (hareketliliğe) yol açmış; piyasa likiditesinin artmasıyla genel bir canlanma eğilimi başlamıştır."
+  },
+  {
+    "raw_model_output": "Borsa İstanbul açılınca banka hisselerine talep görüldü.",
+    "corrected_output": "Borsa İstanbul'da işlem gününün başlamasıyla birlikte, özellikle bankacılık sektörü pay senetlerinde belirgin bir yatırımcı ilgisi müşahede edilmiştir."
+  },
+  {
+    "raw_model_output": "Otobüs kartımda bakiye bitince yolda kaldım ve birinden yardım istemek zorunda kaldım.",
+    "corrected_output": "Toplu taşıma kartımdaki bakiyenin tükenmesi sebebiyle ulaşım sürecim sekteye uğramış; sorunu gidermek adına çevredekilerin yardımına başvurmak durumunda kalınmıştır."
+  },
+  {
+    "raw_model_output": "Apartman aidatı gecikince yönetici uyarı gönderdi ve faiz uygulanacağını söyledi.",
+    "corrected_output": "Konut aidat ödemelerinin yasal süresi içerisinde ifa edilmemesi üzerine site yönetimi tarafından ihtarda bulunulmuş; gecikme bedeli uygulanacağı hususu tebliğ edilmiştir."
+  },
+  {
+    "raw_model_output": "Dişçi randevusunu beklerken çok gerildim ve oradaki dergileri okuyarak vakit geçirdim.",
+    "corrected_output": "Diş hekimi muayenesi öncesindeki bekleme sürecinde yaşanan yoğun anksiyeteyi (gerginliği) dengelemek adına, alandaki periyodik yayınlar tetkik edilerek vakit geçirilmiştir."
+  },
+  {
+    "raw_model_output": "Kışlık kıyafetleri hurçtan çıkarırken naftalin kokusu yayıldı ve hepsini havalandırdım.",
+    "corrected_output": "Mevsimlik kıyafetlerin muhafaza edildikleri alandan çıkarılması sırasında baskın bir naftalin rayihası hissedilmiş; tekstil ürünlerinin tazelenmesi amacıyla kapsamlı bir havalandırma işlemi uygulanmıştır."
+  },
+  {
+    "raw_model_output": "Balkonda çay keyfi yaparken gün batımını izlemek günün yorgunluğunu üzerimden aldı.",
+    "corrected_output": "Peyzaj eşliğinde balkonda gerçekleştirilen çay seremonisi ve gün batımı gözlemi, gün boyu biriken zihinsel ve fiziksel yorgunluğun bertaraf edilmesine vesile olmuştur."
+  },
+  {
+    "raw_model_output": "Sokak kedisine mama verirken yavaş yaklaştım ve o da sevgiyle mırıldanarak yedi.",
+    "corrected_output": "Sokak hayvanlarının beslenme sürecinde ürkütücü olmayan bir yaklaşımla gıda takviyesi sunulmuş; canlının güven duyarak sürece uyum sağladığı gözlemlenmiştir."
+  },
+  {
+    "raw_model_output": "Trafik lambası bozulunca kavşakta karmaşa oldu ve araçlar geçmekte zorlandı.",
+    "corrected_output": "Sinyalizasyon sistemindeki teknik arıza neticesinde kavşak noktasında trafik akışı bozulmuş; sürücülerin geçiş önceliği konusundaki belirsizliği ulaşımı güçleştirmiştir."
+  },
+  {
+    "raw_model_output": "ATM paramı yutunca hemen müşteri hizmetlerini arayıp kayıt oluşturdum.",
+    "corrected_output": "Bankamatik cihazının nakit parayı sistemsel bir hata sebebiyle alıkoyması (yutması) üzerine derhal ilgili finans kuruluşuyla iletişime geçilmiş ve iade süreci için resmi kayıt oluşturulmuştur."
+  },
+  {
+    "raw_model_output": "Misafirliğe giderken alınan hediye ev sahibine verilen değeri gösteren nazik bir jesttir.",
+    "corrected_output": "Sosyal ziyaretler esnasında sunulan hediyeler, ev sahibine atfedilen kıymetin ve nezaketin somut bir göstergesi olarak kültürel bir zarafeti temsil eder."
+  },
+  {
+    "raw_model_output": "Pazar sabahı sessizliğinde sokaklarda yürümek şehrin sakinliğini hissettirdi.",
+    "corrected_output": "Hafta sonunun dingin atmosferinde gerçekleştirilen sabah yürüyüşü, metropolün alışılmış gürültüsünden uzak, huzurlu ve sakin bir kentsel deneyim sunmuştur."
+  },
+  {
+    "raw_model_output": "Piknik tüpü bitince çayımız yarım kaldı ve çevredeki piknikçilerden yardım istedik.",
+    "corrected_output": "LPG rezervinin (piknik tüpü) tükenmesi sebebiyle hazırlık süreci kesintiye uğramış; sorunun çözümü adına alandaki diğer bireylerden teknik destek talep edilmiştir."
+  },
+  {
+    "raw_model_output": "Akbil doldurma sırasındayken makine parayı almadı ve yanındakilerden yardım istedim.",
+    "corrected_output": "Ulaşım kartına bakiye yükleme safhasında cihazın banknotu kabul etmemesi üzerine, alternatif çözüm üretmek adına çevredeki bireylerin yardımına başvurulmuştur."
+  },
+  {
+    "raw_model_output": "Kombinin su basıncını ayarlarken vanayı az açıp göstergenin yükselmesini bekledim.",
+    "corrected_output": "Isıtma sisteminin su basınç dengesini tesis etmek amacıyla takviye vanası kontrollü bir şekilde açılmış ve barometrenin ideal seviyeye ulaşması titizlikle takip edilmiştir."
+  },
+  {
+    "raw_model_output": "Market poşeti yolda yırtılınca eşyalar yere saçıldı ve toplamaya çalıştım.",
+    "corrected_output": "Tedarik ürünlerini taşıyan ambalajın (poşet) mukavemetini yitirerek yırtılması neticesinde muhteva zemine yayılmış; ürünlerin muhafazası için ivedilikle müdahale edilmiştir."
+  },
+  {
+    "raw_model_output": "Sınav sonuçları açıklanırken çok heyecanlandım ve kazandığımı görünce rahatladım.",
+    "corrected_output": "Akademik değerlendirme sonuçlarının ilan edildiği saniyelerde yaşanan yüksek heyecan, başarılı olunduğunun teyit edilmesiyle yerini derin bir memnuniyet ve sükunete bırakmıştır."
+  },
+  {
+    "raw_model_output": "Stack Overflow'da çözüm ararken benzer sorunu yaşayanları buldum ve sorunu çözdüm.",
+    "corrected_output": "Yazılım geliştirme süreçlerinde karşılaşılan aksaklığa dair küresel bilgi tabanlarında (Stack Overflow) yapılan araştırmalar neticesinde, benzer deneyimlerin analiz edilmesiyle operasyonel çözüm tesis edilmiştir."
+  },
+  {
+    "raw_model_output": "Sonsuz döngüden çıkamayınca tarayıcı kilitlendi ve işlemi zorla sonlandırdım.",
+    "corrected_output": "Algoritmanın kontrol dışı bir döngüye girmesi (infinite loop) tarayıcı performansını tamamen durdurmuş; sistem kaynaklarını korumak adına ilgili süreç cebren sonlandırılmıştır."
+  },
+  {
+    "raw_model_output": "Veri merkezi elektrik kesintisi yaşayınca jeneratörler devreye girdi ve veri kaybı önlendi.",
+    "corrected_output": "Veri merkezindeki enerji arzının kesintiye uğraması üzerine yedek güç üniteleri (jeneratör/UPS) ivedilikle aktive edilerek veri bütünlüğü ve sistem sürekliliği teminat altına alınmıştır."
+  },
+  {
+    "raw_model_output": "Büyük veri analizi tamamlandığında ortaya çıkan raporlar şirketin stratejisini belirledi.",
+    "corrected_output": "Geniş veri setlerinin (big data) işlenme sürecinin nihayete ermesiyle tanzim edilen analiz raporları, kurumsal gelecek projeksiyonlarının ve stratejik kararların temelini oluşturmuştur."
+  },
+  {
+    "raw_model_output": "Yapay zeka halüsinasyon görünce yanlış bilgileri doğru gibi sundu ve güvenilirliği sorgulandı.",
+    "corrected_output": "Yapay zeka modelinin gerçeğe aykırı veri üretmesi (hallucination), bilgi doğruluğu konusunda zafiyet yaratmış ve sistemin karar destek mekanizmalarına olan güvenin sorgulanmasına yol açmıştır."
+  },
+  {
+    "raw_model_output": "Blockchain zinciri senkronize olurken tüm bloklar kontrol edildi ve güncellendi.",
+    "corrected_output": "Blokzincir ağındaki veri tutarlılığını sağlamak maksadıyla tüm veri blokları doğrulanmış; yerel düğümün (node) ağın güncel statüsüyle tam uyumu gerçekleştirilmiştir."
+  },
+  {
+    "raw_model_output": "Sanal gerçeklik gözlüğünü taktığımda kendimi başka bir dünyada hissettim ve büyüleyiciydi.",
+    "corrected_output": "Sanal gerçeklik ekipmanının aktive edilmesiyle birlikte algısal bir mekansal dönüşüm yaşanmış; kullanıcı deneyimi, gerçeklik ötesi bir atmosferde büyüleyici bir boyuta taşınmıştır."
+  },
+  {
+    "raw_model_output": "5G teknolojisi yaygınlaşınca internet hızları arttı ve hayatın her alanına girdi.",
+    "corrected_output": "5G iletişim standardının geniş kitlelere ulaşmasıyla veri transfer hızlarında devrimsel bir artış kaydedilmiş; bu teknoloji, nesnelerin interneti (IoT) ekosistemini günlük yaşamın ayrılmaz bir parçası kılmıştır."
+  },
+  {
+    "raw_model_output": "Klavye üzerine kahve dökülünce ters çevirip temizledim ama bazı tuşlar bozuldu.",
+    "corrected_output": "Donanım birimi üzerine sıvı (kahve) nüfuz etmesi neticesinde acil müdahale yapılarak sıvı tahliye edilmeye çalışılmış; ancak bazı tuş takımları mekanik işlevini yitirmiştir."
+  },
+  {
+    "raw_model_output": "Sunucu yanıt süresi uzadığında kullanıcılar olumsuz etkilendi ve performans artırıldı.",
+    "corrected_output": "Sunucu tepki sürelerindeki (latency) artış kullanıcı deneyimini negatif yönde etkilemiş; bu durumun giderilmesi adına altyapı güçlendirme ve optimizasyon çalışmaları başlatılmıştır."
+  },
+  {
+    "raw_model_output": "Spagetti koda müdahale ederken karmaşık yapı yüzünden küçük bir değişim hata yaptı.",
+    "corrected_output": "Yazılım mimarisinden yoksun, karmaşık (spagetti) kod blokları üzerinde yapılan revizyonlar, yapısal düzensizlik sebebiyle beklenmedik sistemsel hatalara yol açmıştır."
+  },
+  {
+    "raw_model_output": "Admin şifresini sıfırladıktan sonra sisteme girdim ve daha güçlü bir şifre yaptım.",
+    "corrected_output": "Yönetici erişim verilerinin (password) sıfırlanmasıyla birlikte panel erişimi tekrar tesis edilmiş; siber güvenlik standartları gereği daha kompleks bir parola tanımlanmıştır."
+  },
+  {
+    "raw_model_output": "CSS Grid yapısı bozulunca sayfa darmadağın oldu ve elementler üst üste bindi.",
+    "corrected_output": "CSS Grid mizanpaj kurgusundaki teknik aksaklık sayfa düzeninin deforme olmasına yol açmış; arayüz öğeleri (elementler) görsel bütünlüğü bozacak şekilde iç içe geçmiştir."
+  },
+  {
+    "raw_model_output": "Python kütüphanesi yüklenmeyince sanal ortamı kontrol edip tekrar yükledim.",
+    "corrected_output": "Gerekli yazılım bağımlılıklarının (library) sisteme entegrasyonu başarısız olunca sanal çalışma alanı (virtual environment) tetkik edilmiş; kurulum süreci yenilenerek operasyon tamamlanmıştır."
+  },
+  {
+    "raw_model_output": "Ransomware virüsü dosyaları şifreleyince yedeklerden geri yükleme yaptık.",
+    "corrected_output": "Fidye yazılımı (ransomware) saldırısı neticesinde veri erişiminin kısıtlanması üzerine; felaket kurtarma planları devreye sokulmuş ve veriler güncel yedeklerden sisteme geri yüklenmiştir."
+  },
+  {
+    "raw_model_output": "Bulut tabanlı yedekleme duraklatılınca veri riski oldu ve internet düzelince başlattım.",
+    "corrected_output": "Bulut platformu üzerindeki veri senkronizasyonunun kesintiye uğraması güvenlik zafiyeti yaratmış; ağ kararlılığı sağlandığında yedekleme süreci manuel olarak yeniden tetiklenmiştir."
+  },
+  {
+    "raw_model_output": "Akıllı saatim titremeye başlayınca bildirim geldiğini anladım ve ekrana baktım.",
+    "corrected_output": "Giyilebilir teknolojik cihazın (akıllı saat) haptik geribildirim (titreşim) vermesiyle bir veri akışının gerçekleştiği anlaşılmış; gelen bildirim ivedilikle tetkik edilmiştir."
+  },
+  {
+    "raw_model_output": "Kod refactoring işlemi sırasında karmaşık fonksiyonları bölerek okunabilirliği artırdık.",
+    "corrected_output": "Yazılım iyileştirme (refactoring) safhasında, kompleks fonksiyonel yapılar daha küçük ve yönetilebilir parçalara ayrılarak kodun sürdürülebilirliği ve anlaşılırlığı optimize edilmiştir."
+  },
+  {
+    "raw_model_output": "Yazılımın beta sürümü yayınlanınca gönüllü kullanıcılar hataları raporladı.",
+    "corrected_output": "Yazılımın test aşamasındaki (beta) sürümünün servis edilmesiyle birlikte kullanıcı deneyimleri analiz edilmiş; saptanan teknik kusurlar geliştirici ekibe ayrıntılı olarak raporlanmıştır."
+  },
+  {
+    "raw_model_output": "Frontend ve backend uyumsuz olunca API veri formatları çakıştı ve hata verdi.",
+    "corrected_output": "İstemci (frontend) ve sunucu (backend) katmanları arasındaki senkronizasyonun bozulması, API veri yapılarında uyumsuzluk yaratarak sistemsel bir entegrasyon hatasına yol açmıştır."
+  },
+  {
+    "raw_model_output": "Veritabanı tablosu silindiğinde panik oldu ama yedekler sayesinde kurtardık.",
+    "corrected_output": "Veritabanı şemasındaki bir tablonun sehven silinmesi operasyonel bir krize yol açmış; ancak periyodik yedekleme mekanizmaları sayesinde veri bütünlüğü kısa sürede tesis edilmiştir."
+  },
+  {
+    "raw_model_output": "Nesnelerin interneti (IoT) cihazları ev otomasyonunda verimliliği artıran çözümler sunar.",
+    "corrected_output": "Nesnelerin interneti (IoT) ekosistemi, konut otomasyon süreçlerinde kaynak yönetimini optimize ederek yaşam konforunu ve verimliliği artıran inovatif çözümler sunmaktadır."
+  },
+  {
+    "raw_model_output": "Biyometrik doğrulama başarısız olunca parmak izimi tekrar okuttum ve sensörü temizledim.",
+    "corrected_output": "Biyometrik tanıma sisteminin (parmak izi okuyucu) kimlik doğrulama sürecini gerçekleştirememesi üzerine sensör yüzeyi sterilize edilmiş ve işlem başarıyla yinelenmiştir."
+  },
+  {
+    "raw_model_output": "Derleyici optimizasyon yaparken kodun hızını artırmak için gereksiz adımları eledi.",
+    "corrected_output": "Derleme (compilation) aşamasında uygulanan optimizasyon protokolleri, yazılımın icra hızını maksimize etmek adına işlevsiz işlem basamaklarını ayıklayarak kod yapısını rafine etmiştir."
+  },
+  {
+    "raw_model_output": "Açık kaynak komünitesi destek verince proje hızla büyüdü ve kodlar gelişti.",
+    "corrected_output": "Açık kaynak ekosisteminden gelen kolektif destek, projenin gelişim ivmesini artırmış; küresel ölçekteki geliştirici katkılarıyla yazılım kalitesi üst seviyeye taşınmıştır."
+  },
+  {
+    "raw_model_output": "Sabah alarmı çalmadığında panikle uyandım ve aceleyle hazırlandım.",
+    "corrected_output": "Sabah saatlerinde uyarıcı mekanizmanın işlevsiz kalması neticesinde büyük bir telaşla uyanılmış; mesai başlangıcına yetişmek maksadıyla hazırlık süreci ivedilikle tamamlanmıştır."
+  },
+  {
+    "raw_model_output": "Otobüse yetişmek için koşarken nefes nefese kaldım ve şoför beni görüp bekledi.",
+    "corrected_output": "Toplu taşıma aracına erişim sağlamak için sarf edilen yoğun efor solunum ritmini hızlandırmış; sürücünün nezaketi sayesinde araca biniş mümkün olmuştur."
+  },
+  {
+    "raw_model_output": "Anahtarımı evde unuttuğumda kapıda kaldım ve çilingir çağırmak zorunda kaldım.",
+    "corrected_output": "Erişim anahtarının dâhili bir alanda unutulması sebebiyle ikametgaha giriş sağlanamamış; sorunun çözümü adına uzman bir anahtarcının müdahalesi gerekmiştir."
+  },
+  {
+    "raw_model_output": "Kahvemi yudumlarken pencereden dışarıyı izleyip günün planını huzurla yaptım.",
+    "corrected_output": "Kahve eşliğinde gerçekleştirilen dış mekan gözlemi, zihinsel bir dinginlik sağlayarak günlük operasyonel planlamaların sükunetle kurgulanmasına olanak tanımıştır."
+  },
+  {
+    "raw_model_output": "Trafik sıkışıklığı yüzünden randevuma geciktim ve diğer yolları denedim.",
+    "corrected_output": "Karayolu ulaşımındaki yoğunluk sebebiyle planlanan görüşme saatine sadık kalınamamış; varış noktasında gecikmeyi minimize etmek adına alternatif güzergahlar tercih edilmiştir."
+  },
+  {
+    "raw_model_output": "Market alışverişi yaparken bütçemi aşmamak için listeye sadık kaldım.",
+    "corrected_output": "Market tedarik sürecinde finansal sınırları korumak amacıyla, önceden tanzim edilen ihtiyaç listesine riayet edilerek plansız harcamaların önüne geçilmiştir."
+  },
+  {
+    "raw_model_output": "Telefonun şarjı bitince iletişimim kesildi ve hemen şarj aleti aradım.",
+    "corrected_output": "Mobil cihazın enerji rezervinin tükenmesiyle birlikte iletişim kanalları kapanmış; bağlantıyı tekrar tesis etmek maksadıyla enerji kaynağı (şarj ünitesi) arayışına girilmiştir."
+  },
+  {
+    "raw_model_output": "Yağmur aniden bastırınca şemsiyem olmadığı için ıslandım ve bir yere sığındım.",
+    "corrected_output": "Sağanağın beklenmedik bir biçimde başlaması ve koruyucu ekipman eksikliği sebebiyle ıslanılmış; geçici bir korunaklı alanda yağışın dinmesi beklenmiştir."
+  },
+  {
+    "raw_model_output": "Asansör bozulduğunda onuncu kata merdivenle çıkmak zorunda kaldım ve yoruldum.",
+    "corrected_output": "Asansör sistemindeki teknik arıza sebebiyle üst katlara erişim yaya olarak sağlanmış; bu fiziksel çaba ciddi bir yorgunluk hissine sebebiyet vermiştir."
+  },
+  {
+    "raw_model_output": "Komşudan gürültü gelince nazikçe uyardım ama sesler bir süre devam etti.",
+    "corrected_output": "Komşu bağımsız bölümden kaynaklanan gürültü kirliliği üzerine nezaket çerçevesinde bir ikazda bulunulmuş; ancak akustik rahatsızlık bir süre daha etkisini sürdürmüştür."
+  },
+  {
+    "raw_model_output": "Kütüphanede sessizliği bozan biri olunca diğer okuyucular rahatsız oldu ve görevli nazikçe uyarıda bulundu.",
+    "corrected_output": "Kütüphane bünyesindeki sükunetin ihlal edilmesi üzerine, çalışma ortamındaki diğer bireyler huzursuzluk yaşamış; bu durum karşısında yetkili personel nezaket çerçevesinde bir ikazda bulunmuştur."
+  },
+  {
+    "raw_model_output": "Otobiyografimi yazmaya başlasam, hayatımın dönüm noktalarını ve unutulmaz anılarını samimiyetle kaleme alırdım.",
+    "corrected_output": "Şahsi yaşam öykümü tanzim etmeye karar vermem durumunda; hayatımın kritik dönemeçlerini ve zihnimde yer eden müstesna hatıraları en samimi üslubumla yazıya dökerdim."
+  },
+  {
+    "raw_model_output": "Issız bir adaya düşseydim, yanıma alacağım üç şeyi seçmekte epey zorlanırdım.",
+    "corrected_output": "Medeniyetten uzak, ıssız bir adada mahsur kalmam senaryosunda; hayatta kalma ve konfor açısından elzem olan üç nesneyi belirlemek, şahsım adına oldukça güç bir tercih süreci teşkil ederdi."
+  },
+  {
+    "raw_model_output": "Korku filmi izlerken gözümü kapatınca korkutucu sahneyi görmedim ama sesler bile beni ürpertmeye yetti.",
+    "corrected_output": "Gerilim dozajı yüksek bir yapım izlerken görsel temastan kaçınmak adına gözlerimi kapatsam da; işitsel efektlerin yarattığı atmosfer dahi bende yoğun bir ürperti uyandırmaya muktedir olmuştur."
+  },
+  {
+    "raw_model_output": "Çocukluk arkadaşımla karşılaşınca ayaküstü uzun uzun sohbet ettik ve eski günleri yad ettik.",
+    "corrected_output": "Çocukluk dönemine ait bir dostumla tesadüf etmemiz neticesinde, zamanın nasıl geçtiğini fark etmeksizin derin bir sohbete daldık ve geçmişin kıymetli anılarını özlemle yad ettik."
+  },
+  {
+    "raw_model_output": "Lunaparkta gondola bindiğimde midem biraz bulandı ama yine de eğlenceliydi.",
+    "corrected_output": "Eğlence merkezindeki (lunapark) salıncak düzeneğinde (gondol) tecrübe ettiğim ivmelenme her ne kadar geçici bir fizyolojik rahatsızlık (mide bulantısı) yaratsa da, deneyimin geneli oldukça keyif vericiydi."
+  },
+  {
+    "raw_model_output": "Otobiyografimi yazmaya başlasam, hayatımın dönüm noktalarını ve unutulmaz anılarını samimiyetle kaleme alırdım.",
+    "corrected_output": "Kendi yaşam öykümü (otobiyografi) kurgulamaya başlasam; ömrümün en belirgin dönüm noktalarını ve zihnimde silinmez izler bırakan anıları tüm samimiyetimle literatüre kazandırırdım."
+  },
+  {
+    "raw_model_output": "Eski fotoğraf albümlerine bakarken anılar canlandı ve geçmişe kısa bir yolculuk yaptım.",
+    "corrected_output": "Tarihsel nitelik taşıyan aile albümlerini tetkik ederken zihnimde anılar yeniden hayat bulmuş; bu görsel hafıza kaydı vasıtasıyla geçmişe doğru kısa ve duygusal bir yolculuk gerçekleştirilmiştir."
+  },
+  {
+    "raw_model_output": "İnternet kotası dolduğunda hızım düştü ve sayfaları açmakta zorlandım.",
+    "corrected_output": "Veri kullanım sınırının (kota) aşılmasıyla birlikte ağ erişim hızında dramatik bir yavaşlama meydana gelmiş; bu durum dijital mecralardaki içeriklere erişimi güçleştirmiştir."
+  },
+  {
+    "raw_model_output": "Zoom toplantısında mikrofon açık kalınca evdeki gürültü tüm katılımcılar tarafından duyuldu ve utandım.",
+    "corrected_output": "Çevrimiçi konferans esnasında ses giriş biriminin (mikrofon) sehven açık bırakılması, ev içi seslerin tüm katılımcılara ulaşmasına neden olmuş; bu durum bende sosyal bir mahcubiyet yaratmıştır."
+  },
+  {
+    "raw_model_output": "Dezenfektan kokusu genzimi yakınca ortamı havalandırmak için pencereleri açtım.",
+    "corrected_output": "Hijyen solüsyonundan (dezenfektan) yayılan keskin kokunun solunum yollarında yarattığı rahatsızlık üzerine, iç mekan hava kalitesini artırmak adına pencereler açılarak havalandırma sağlanmıştır."
+  },
+  {
+    "raw_model_output": "Maske takmaktan bunalınca açık bir alana geçip derin bir nefes aldım.",
+    "corrected_output": "Koruyucu maske kullanımının yarattığı nefes daralması hissi üzerine, daha ferah bir açık hava sahasına yönelerek derin bir soluklanma ihtiyacı giderilmiştir."
+  },
+  {
+    "raw_model_output": "Gözlük camı buğulanınca önümü göremez hale geldim ve mecburen durup temizlemek zorunda kaldım.",
+    "corrected_output": "Optik camlardaki nem yoğunlaşması (buğulanma) sebebiyle görüş alanım tamamen kısıtlanmış; güvenli bir ilerleme sağlamak adına duraklayarak camları sterilize etme gerekliliği doğmuştur."
+  },
+  {
+    "raw_model_output": "Diş ağrısı gece yarısı tutunca evdeki ağrı kesiciler fayda etmedi ve sabaha kadar uyuyamadım.",
+    "corrected_output": "Gece saatlerinde şiddetlenen dental ağrı (diş ağrısı) karşısında mevcut farmakolojik önlemler yetersiz kalmış; bu yoğun fiziksel huzursuzluk sebebiyle sabahın ilk ışıklarına dek istirahat mümkün olmamıştır."
+  },
+  {
+    "raw_model_output": "Yılbaşı gecesi geri sayım yapılırken tüm şehir havai fişeklerle aydınlandı ve yeni yıla coşkuyla girdik.",
+    "corrected_output": "Yeni yılın başlangıcına yönelik geri sayım prosedürü tamamlandığında, kentin semaları piroteknik gösterilerle aydınlanmış; toplum yeni bir döngüye yüksek bir coşku ve ümitle dahil olmuştur."
+  },
+  {
+    "raw_model_output": "Doğum günü pastası üflenirken sevdiklerimin yanımda olmasının mutluluğuyla mumları söndürdüm.",
+    "corrected_output": "Yaş günü merasimi sırasında, en yakınlarımın eşlik etmesinden duyduğum derin kıvançla birlikte, yeni yaşıma dair temennilerimi zihnimde tutarak mumları söndürdüm."
+  },
+  {
+    "raw_model_output": "Ehliyet sınavında park ederken aynaları dikkatlice kontrol ettim ve tek hamlede aracı yerleştirdim.",
+    "corrected_output": "Sürücü belgesi sınavının manevra safhasında, dikiz aynalarını titizlikle kontrol ederek aracı belirlenen koordinatlara tek bir hamleyle, nizami bir şekilde konumlandırdım."
+  },
+  {
+    "raw_model_output": "İlk iş görüşmesine giderken heyecandan avuçlarım terledi ama kendime güvenerek o kapıdan içeri girdim.",
+    "corrected_output": "Mesleki kariyerimin ilk mülakatı öncesinde yaşadığım yoğun heyecan fizyolojik tepkilere (avuç içi terlemesi) yol açsa da; özgüvenimi tesis ederek görüşme odasına kararlı bir adım attım."
+  },
+  {
+    "raw_model_output": "Mezuniyet kepini havaya fırlatırken yılların yorgunluğunu üzerimden attım ve geleceğe umutla baktım.",
+    "corrected_output": "Mezuniyet sembolü olan kepi gökyüzüne fırlatırken, akademik sürecin getirdiği tüm yorgunluk hissinden arınmış; istikbalime dair beslediğim umutlarla yeni bir sayfa açtım."
+  },
+  {
+    "raw_model_output": "Yıldız kaydığında dilek tutarken gözlerimi kapattım ve en içten dileğimi diledim.",
+    "corrected_output": "Göktaşının atmosferdeki parıltısını (yıldız kayması) müşahede ettiğim o anda, manevi bir gelenekle gözlerimi yumup kalbimdeki en halis temenniyi diledim."
+  },
+  {
+    "raw_model_output": "Kamp ateşinin başında otururken çıtırtı sesleri eşliğinde anlatılan hikayeler geceye ayrı bir büyü kattı.",
+    "corrected_output": "Ateşin yanarken çıkardığı karakteristik sesler eşliğinde paylaşılan anlatılar, kamp atmosferine mistik bir derinlik ve unutulmaz bir büyü katmıştır."
+  },
+  {
+    "raw_model_output": "Sokak sanatçısı gitar çalarken etrafına toplanan kalabalık keyifle şarkılarına eşlik etti.",
+    "corrected_output": "Gezgin müzisyenin enstrümanından yayılan melodilere kayıtsız kalmayan kitle, sanatçının etrafında bir çember oluşturarak eserlere yüksek bir memnuniyetle iştirak etmiştir."
+  },
+  {
+    "raw_model_output": "Piyango bileti amorti vurunca en azından bilet paramı kurtardığım için sevindim ve yeni bilet aldım.",
+    "corrected_output": "Şans oyunu neticesinde asgari düzeyde (amorti) ikramiye isabet etmesi, en azından maliyeti telafi etmem hasebiyle teselli olmuş; şansımı bir sonraki çekilişte denemek üzere yeni bir bilet tanzim ettim."
+  },
+  {
+    "raw_model_output": "Falcı kahve fincanına bakınca üç vakte kadar yol görünüyor diyerek beni heyecanlandırdı.",
+    "corrected_output": "Geleneksel kahve falı yorumcusu, sembolik bir anlatımla yakın gelecekte bir seyahat öngörüsünde bulunarak bende merak uyandıran bir heyecan yaratmıştır."
+  },
+  {
+    "raw_model_output": "Rüyamda uçtuğumu görürken hissettiğim özgürlük duygusu o kadar gerçekçiydi ki uyanmak istemedim.",
+    "corrected_output": "Bilinçaltı evresinde (rüya) tecrübe ettiğim uçma eyleminin yarattığı özgürlük illüzyonu o denli sarsıcı ve sahiciydi ki, gerçek dünyaya dönme isteğim tamamen ortadan kalkmıştı."
+  },
+  {
+    "raw_model_output": "Romanın en heyecanlı yerinde elektrikler kesilince meraktan çıldıracak gibi oldum ve ışık aradım.",
+    "corrected_output": "Edebi eserin (romanın) kurgusal doruk noktasında enerji arzının kesilmesi büyük bir merak unsuruna yol açmış; okuma sürecini sürdürebilmek adına derhal alternatif bir aydınlatma kaynağına başvurulmuştur."
+  },
+  {
+    "raw_model_output": "Yeni taşındığım evin anahtarını çevirirken içimde yeni bir hayata başlamanın heyecanı ve mutluluğu vardı.",
+    "corrected_output": "Yeni ikametgahımın kapısını ilk kez aralarken, hayatımda açılacak bu taze sayfanın getirdiği yüksek motivasyon ve içsel huzuru derinden hissettim."
+  },
+  {
+    "raw_model_output": "Havalimanında uçak rötar yapınca bekleme salonunda kitap okuyarak vakit geçirdim.",
+    "corrected_output": "Hava ulaşımındaki rötarlı kalkış (gecikme) sebebiyle terminaldeki bekleme süresini, entelektüel bir meşgale olan kitap okuma faaliyetiyle verimli bir şekilde değerlendirdim."
+  },
+  {
+    "raw_model_output": "Pasaport kontrolünde sıra beklerken uçağa yetişememe korkusu yaşadım ama işlemler hızlı ilerledi.",
+    "corrected_output": "Resmi sınır kontrolü (pasaport) safhasındaki yoğunluk sebebiyle uçuşu kaçırma endişesi (anksiyete) yaşasam da, bürokratik işlemlerin süratle tamamlanması bu korkuyu izale etmiştir."
+  },
+  {
+    "raw_model_output": "Yaz tatili için bavul hazırlarken yanıma almam gereken en önemli şeyleri unutmamak için liste yaptım.",
+    "corrected_output": "Sezonluk istirahat (yaz tatili) hazırlıkları kapsamında, elzem ihtiyaçların eksiksiz bir biçimde tanzim edilmesi adına sistematik bir envanter listesi oluşturdum."
+  },
+  {
+    "raw_model_output": "Bayram ziyaretinde el öperken büyüklerimin hayır duasını aldım ve eski günlerin sıcaklığını hissettim.",
+    "corrected_output": "Geleneksel bayram kutlamaları çerçevesinde büyüklerimin hürmetle elini öperek manevi desteklerini (dualarını) aldım; bu ritüel geçmişin o nostaljik ve samimi iklimini yeniden canlandırdı."
+  },
+  {
+    "raw_model_output": "Düğün konvoyu trafiği kapatınca diğer sürücüler korna çalarak tepki gösterdi ve trafik kilitlendi.",
+    "corrected_output": "Merasim kortejinin (düğün konvoyu) karayolu akışını kısıtlaması, diğer araç sahiplerinde işitsel (korna) tepkilere yol açmış; ulaşım ağında geçici bir kilitlenme meydana gelmiştir."
+  },
+  {
+    "raw_model_output": "Hesap öderken Alman usulü yapınca herkes kendi yediğini ödedi ve karmaşa yaşanmadı.",
+    "corrected_output": "Finansal yükümlülüğün bireysel bazda bölüşülmesi (Alman usulü) yöntemiyle, her katılımcı kendi sarfiyatını karşılamış; böylelikle olası bir hesap karmaşasının önüne geçilmiştir."
+  },
+  {
+    "raw_model_output": "Restoranda sipariş yanlış gelince garsonu nazikçe uyardım ve yemeğin değiştirilmesini istedim.",
+    "corrected_output": "Hizmet sektöründeki operasyonel bir hata neticesinde yanlış iletilen sipariş üzerine, servis personeli nezaketle bilgilendirilmiş; menünün tashih edilmesi (değiştirilmesi) talep edilmiştir."
+  },
+  {
+    "raw_model_output": "Sinema bileti alırken sıra olunca filmin başlama saati yaklaştığı için endişelendim.",
+    "corrected_output": "Gösterim biletlerinin temini aşamasındaki yoğunluk, seans başlangıç saatinin yaklaşmasıyla birleşince bende geç kalma endişesi yaratmıştır."
+  },
+  {
+    "raw_model_output": "Otobüs şoförü durakta durmayınca yolcular tepki gösterdi ve sonraki otobüsü beklemek zorunda kaldık.",
+    "corrected_output": "Toplu taşıma aracının duraklama yapmaksızın yoluna devam etmesi üzerine bekleyen kitle mağduriyetini dile getirmiş; ulaşımı sağlamak adına bir sonraki sefer beklenmek durumunda kalınmıştır."
+  },
+  {
+    "raw_model_output": "Şarj kablosu temassızlık yapınca telefonu şarj etmek için belirli bir açıda sabitlemek zorunda kaldım.",
+    "corrected_output": "Enerji nakil kablosundaki yapısal deformasyon (temassızlık) sebebiyle şarj döngüsünü sürdürebilmek adına cihazı statik bir pozisyonda sabitleme gerekliliği hasıl olmuştur."
+  },
+  {
+    "raw_model_output": "Televizyon kumandasının pili bitince kanalı değiştirmek için mecburen yerimden kalkıp düğmelere bastım.",
+    "corrected_output": "Uzaktan kumanda cihazının enerji kaynağının tükenmesi üzerine, içerik değişimi sağlamak maksadıyla manuel müdahalede bulunmak üzere cihazın yanına gidilmiştir."
+  },
+  {
+    "raw_model_output": "Balkona çamaşır asarken yağmur başlayınca her şeyi toplayıp içeri koştum, emeklerim boşa gitti.",
+    "corrected_output": "Tekstil ürünlerini kurutma safhasındayken yağışın aniden başlaması, tüm hazırlıkların ivedilikle dâhilî mekana taşınmasına neden olmuş; sarf edilen efor sonuçsuz kalmıştır."
+  },
+  {
+    "raw_model_output": "Ütü masasını kurmaya çalışırken parmağımı kıstırdım, bu yüzden daha dikkatli olmaya karar verdim.",
+    "corrected_output": "Ütü ekipmanının kurulumu esnasında yaşanan dikkatsizlik neticesinde küçük bir yaralanma meydana gelmiş; bu tecrübe gelecekteki hazırlıklarda azami dikkati elzem kılmıştır."
+  },
+  {
+    "raw_model_output": "Çamaşır makinesi sıkma yaparken o kadar çok titredi ki banyoda yürümeye başladı sandım.",
+    "corrected_output": "Cihazın yüksek devirli sıkma periyodunda sergilediği mekanik sarsıntı o denli şiddetliydi ki, makinenin zemin üzerinde yer değiştirdiği hissiyatı oluşmuştur."
+  },
+  {
+    "raw_model_output": "Apartman toplantısında kavga çıkınca yönetici araya girdi ve ortamı sakinleştirdi.",
+    "corrected_output": "Konut sakinlerinin katıldığı müzakerede tansiyonun yükselmesi üzerine, idari amir (yönetici) moderatörlük yaparak uzlaşmacı bir tavırla gerginliği yatıştırmıştır."
+  },
+  {
+    "raw_model_output": "Komşunun köpeği havlamaya başlayınca mahalledeki diğer köpekler de ona katıldı ve koro oluştu.",
+    "corrected_output": "Çevredeki canlının işitsel uyarısına (havlama) mahallenin diğer köpeklerinin de senkronize bir biçimde yanıt vermesiyle, semtte adeta bir ses korosu yankılanmıştır."
+  },
+  {
+    "raw_model_output": "Market kasasında bozuk para ararken arkadaki müşterileri bekletmemek için acele ettim.",
+    "corrected_output": "Finansal ödeme aşamasında gerekli madeni parayı tanzim ederken, diğer müşterilerin bekleme süresini artırmamak adına süreci süratle tamamlama gayretinde bulundum."
+  },
+  {
+    "raw_model_output": "Kargo takip numarası hatalı çıkınca müşteri hizmetlerini arayıp doğru numarayı öğrendim.",
+    "corrected_output": "Gönderi izleme verisindeki (takip numarası) tutarsızlık üzerine, lojistik birimiyle iletişime geçilerek güncel ve doğru veri parametreleri teyit edilmiştir."
+  },
+  {
+    "raw_model_output": "Terzi pantolon paçasını kıvırırken ayakkabıyla prova yapmanın önemli olduğunu bir kez daha anladım.",
+    "corrected_output": "Pantolonun boy ayarının (paça) yapıldığı sırada, ayakkabı eşliğinde gerçekleştirilen provanın, ideal formun yakalanması açısından taşıdığı kritik önemi yeniden idrak ettim."
+  },
+  {
+    "raw_model_output": "Kuaför saçımı çok kısa kesince başta biraz üzüldüm ama yeni imajıma alışmaya çalıştım.",
+    "corrected_output": "Kuaför müdahalesi neticesinde saç uzunluğunun beklediğimin altına inmesi başlangıçta bir hayal kırıklığı yaratsa da, bu yeni görsel kimliğe adapte olma sürecini başlattım."
+  },
+  {
+    "raw_model_output": "Pazar günü öğlene kadar uyuyunca tüm haftanın yorgunluğunu attım ama gün bitti.",
+    "corrected_output": "Hafta sonunun sunduğu geniş istirahat imkanıyla gün ortasına dek süren uyku, biriken tüm yorgunluğu izale etse de, günün aktif olarak değerlendirilecek kısmı oldukça daralmıştır."
+  },
+  {
+    "raw_model_output": "Yağmurlu havada taksi bulamayınca sırılsıklam oldum ve eve yürüyerek döndüm.",
+    "corrected_output": "Olumsuz hava koşulları sebebiyle ulaşım aracına (taksiye) erişim sağlanamamış; bu durum sonucunda yoğun yağışa maruz kalınarak ikametgaha yaya olarak intikal edilmiştir."
+  },
+  {
+    "raw_model_output": "Sabah trafiğinde köprüde kalınca radyoda sevdiğim şarkılara eşlik ederek stresi azalttım.",
+    "corrected_output": "Metropolün yoğun sabah trafiğinde, güzergah üzerindeki tıkanıklığın yarattığı gerginliği, sevdiğim melodiler vasıtasıyla hafifleterek süreci daha yönetilebilir kıldım."
+  },
+  {
+    "raw_model_output": "Metroda boş koltuk bulduğumda hemen oturdum ve kitabımı okuyup yolculuğun tadını çıkardım.",
+    "corrected_output": "Toplu taşıma aracındaki müsait koltuğu ivedilikle değerlendirerek, yolculuk sürecini entelektüel bir okuma faaliyeti eşliğinde daha keyifli bir boyuta taşıdım."
+  },
+  {
+    "raw_model_output": "Ressam tabloyu bitirdiğinde renklerin uyumu herkesi etkiledi ve sergi açılışı yapıldı.",
+    "corrected_output": "Sanatkar, tuval üzerindeki estetik kompozisyonu nihayete erdirdiğinde; renklerin harmonisi izleyicilerde büyük bir hayranlık uyandırmış ve eserin ilk gösterimi düzenlenen sergiyle gerçekleştirilmiştir."
+  },
+  {
+    "raw_model_output": "Sözleşme imzalandıktan sonra taraflar borçlarını ödemek ve kurallara uymakla yükümlüdür.",
+    "corrected_output": "Akit (sözleşme) taraflarca imza altına alındıktan sonra; taraflar edimlerini yerine getirmek ve sözleşme maddelerine riayet etmekle hukuken mükelleftir."
+  },
+  {
+    "raw_model_output": "Dilekçe verdim ve sorunun çözülmesini talep ettim, cevap bekliyorum.",
+    "corrected_output": "Taleplerimi muhtevi resmi dilekçe ilgili makama tevdî edilmiş olup; yaşanan aksaklığın giderilmesi hususu arz edilmiş ve idari yanıt süreci takibe alınmıştır."
+  },
+  {
+    "raw_model_output": "Tiyatro oyunu başladığında ışıklar söndü ve oyuncular sahneye çıkarak performans sergiledi.",
+    "corrected_output": "Sahne sanatları gösterimi (tiyatro) başladığında salon aydınlatması kademeli olarak karartılmış; oyuncuların sahne almasıyla birlikte sanatsal performans icra edilmeye başlanmıştır."
+  },
+  {
+    "raw_model_output": "Miras davası sonuçlanınca mal paylaşımı yapıldı ve taraflar haklarını aldı.",
+    "corrected_output": "Tereke (miras) davasının karara bağlanmasıyla birlikte mal varlığının paylaştırılması süreci işletilmiş; her bir hak sahibi yasal istihkakına kavuşmuştur."
+  },
+  {
+    "raw_model_output": "Belediye başkanına sunulan raporla şehrin altyapı sorunları anlatıldı ve bütçe istendi.",
+    "corrected_output": "Mahalli idare amirine takdim edilen rapor marifetiyle; kentin altyapısal eksiklikleri ayrıntılarıyla sunulmuş ve gerekli iyileştirmeler için finansal kaynak talebinde bulunulmuştur."
+  },
+  {
+    "raw_model_output": "Senaryo yazılırken karakterlerin derinliği ve olay örgüsü çok önemlidir.",
+    "corrected_output": "Dramatik bir kurgunun (senaryonun) inşası sırasında; karakterlerin psikolojik derinliği ile olay örgüsünün tutarlılığı, yapımın niteliğini belirleyen temel unsurlardır."
+  },
+  {
+    "raw_model_output": "Avukat savunmasını yaparken delilleri sundu ve müvekkilinin suçsuz olduğunu söyledi.",
+    "corrected_output": "Müdafi (avukat) savunma makamında delilleri mahkeme heyetine ibraz etmiş; müvekkilinin masumiyetini hukuki gerekçelerle beyan etmiştir."
+  },
+  {
+    "raw_model_output": "Resmi yazışmalarda dilin açık olması ve kurallara uyulması hata payını azaltır.",
+    "corrected_output": "Resmi muhaberat süreçlerinde üslubun sarih (açık) olması ve yazım protokollerine riayet edilmesi; operasyonel hata riskini asgari düzeye indirger."
+  },
+  {
+    "raw_model_output": "Heykeltıraş mermere şekil verirken her vuruşta sabırla sanatını konuşturdu.",
+    "corrected_output": "Sanatkar, ham mermeri işlerken her bir çekekiç darbesinde büyük bir sabır ve estetik kaygı sergileyerek, taşa sanatsal bir ruh kazandırmıştır."
+  },
+  {
+    "raw_model_output": "Mahkeme kararı açıklandığında suçluların cezalandırılması adalet duygusunu tatmin etti.",
+    "corrected_output": "Yargı hükmünün tefhim edilmesiyle birlikte faillere yönelik yaptırımların tesisi; kamu vicdanında adalet duygusunun yerleşmesine vesile olmuştur."
+  },
+  {
+    "raw_model_output": "Konser bittiğinde alkışlar kesilmedi ve sanatçı tekrar sahneye gelip şarkı söyledi.",
+    "corrected_output": "Müzikal dinleti nihayete erdiğinde izleyicilerin yoğun tezahüratları devam etmiş; bunun üzerine sanatçı bis yaparak eserini yeniden icra etmiştir."
+  },
+  {
+    "raw_model_output": "İhale dosyası hazırlandığında tüm şartların sağlandığından emin olmak için kontrol ettik.",
+    "corrected_output": "İhale dosyasının tanzimi aşamasında; tüm idari ve teknik şartnamelerin eksiksiz yerine getirildiğini teyit etmek maksadıyla kapsamlı bir tetkik süreci yürütülmüştür."
+  },
+  {
+    "raw_model_output": "Şiir okunurken şairin hissettiği duygular dinleyicilere geçti ve herkes çok etkilendi.",
+    "corrected_output": "Edebi eserin (şiirin) tilaveti esnasında; müellifin ruh dünyasındaki duygu yoğunluğu dinleyicilere sirayet etmiş ve toplu bir duygulanım meydana getirmiştir."
+  },
+  {
+    "raw_model_output": "Yönetmelik değişince yeni kurallara göre sistem güncellendi ve çalışanlar bilgilendirildi.",
+    "corrected_output": "İlgili mevzuatın (yönetmeliğin) revize edilmesiyle birlikte; operasyonel süreçler yeni standartlara uyumlu hale getirilmiş ve personel ivedilikle bilgilendirilmiştir."
+  },
+  {
+    "raw_model_output": "Kamera açısı ayarlanırken ışığın geliş yönü ve gölgeler titizlikle incelendi.",
+    "corrected_output": "Görüntüleme açısı (kadraj) kurgulanırken; ışık kaynağının konumu ve gölge dağılımı, estetik bir görüntü elde etmek adına titizlikle analiz edilmiştir."
+  },
+  {
+    "raw_model_output": "Mülkiyet hakkı korunması gereken temel haklardan biridir ve kanunla güvence altındadır.",
+    "corrected_output": "Mülkiyet hakkı, bireyin vazgeçilemez temel hakları arasında yer almakta olup; anayasal ve yasal düzenlemelerle teminat altına alınmıştır."
+  },
+  {
+    "raw_model_output": "Orkestra şefi bagetini kaldırdığında tüm müzisyenler aynı anda çalmaya başladı.",
+    "corrected_output": "Maestro (orkestra şefi) işaretini verdiğinde tüm icracılar mutlak bir senkronizasyonla eserin başlangıç notasını icra etmişlerdir."
+  },
+  {
+    "raw_model_output": "Gümrük beyannamesi doldurulurken eşyaların değeri ve cinsi doğru yazılmalıdır.",
+    "corrected_output": "Gümrük beyan süreçlerinde; emtianın piyasa değeri ile vasıflarının (cinsinin) gerçeğe uygun şekilde tanzim edilmesi yasal bir zorunluluktur."
+  },
+  {
+    "raw_model_output": "Sanat galerisindeki eserler küratör tarafından belirli bir sırayla yerleştirildi.",
+    "corrected_output": "Galeride sergilenen eserler; küratörün belirlediği tematik akış ve sanatsal kurgu doğrultusunda mekan içerisinde konumlandırılmıştır."
+  },
+  {
+    "raw_model_output": "Duruşma ertelenince yeni tarih avukatlara tebliğ edildi ve dosya beklemeye alındı.",
+    "corrected_output": "Yargılama sürecinin (duruşmanın) tehir edilmesi üzerine; müteakip duruşma günü taraf vekillerine tebliğ edilmiş ve dosya tekemmül aşamasına bırakılmıştır."
+  },
+  {
+    "raw_model_output": "Belgesel çekilirken doğadaki hayvanların yaşamı doğal ortamında kaydedildi.",
+    "corrected_output": "Belgesel yapım sürecinde; yaban hayatının döngüsü ve hayvan davranışları, doğal habitatları içerisinde müdahale edilmeksizin kayıt altına alınmıştır."
+  },
+  {
+    "raw_model_output": "Vergi borcu yapılandırıldığında taksitlerle ödeme kolaylığı sağlandı.",
+    "corrected_output": "Kamu alacaklarının (vergi borçlarının) yeniden yapılandırılmasıyla birlikte; mükelleflere ödeme yükümlülüklerini taksitler halinde ifa etme imkanı tanınmıştır."
+  },
+  {
+    "raw_model_output": "Müzedeki tarihi eserler korunması için özel cam arkasında ve uygun ışıkta duruyor.",
+    "corrected_output": "Müze envanterindeki tarihi eserler; dış etkenlerden korunması amacıyla iklimlendirme kontrollü vitrinlerde ve uygun lüks değerindeki aydınlatma altında muhafaza edilmektedir."
+  },
+  {
+    "raw_model_output": "İmza sirküleri geçerli olmayınca banka işlemleri reddedildi ve yenilenmesi istendi.",
+    "corrected_output": "İmza sirkülerinin geçerlilik süresinin nihayete ermesi sebebiyle bankacılık talepleri karşılanamamış; belgelerin ivedilikle güncellenmesi talep edilmiştir."
+  },
+  {
+    "raw_model_output": "Yağlı boya tablosu kururken tozlanmaması için kapalı bir odada bekletildi.",
+    "corrected_output": "Yağlı boya tekniğiyle tanzim edilen eserin kuruma evresinde; yüzeyin partiküllerden (tozlardan) muhafazası adına steril bir ortamda bekletilmesi sağlanmıştır."
+  },
+  {
+    "raw_model_output": "Vekaletname çıkarılınca avukat benim adıma tüm işlemleri yapmaya başladı.",
+    "corrected_output": "Resmi vekaletnamenin tanzim edilmesiyle birlikte; vekil, şahsım adına hukuki süreçleri yürütme ve temsil yetkisini kullanmaya başlamıştır."
+  },
+  {
+    "raw_model_output": "Sinema perdesindeki görüntülerin kalitesi projeksiyon cihazının gücüne bağlıdır.",
+    "corrected_output": "Sinematografik yansımanın netliği ve görsel kalitesi; kullanılan projeksiyon sisteminin teknik donanımı ve ışık gücüyle doğrudan ilintilidir."
+  },
+  {
+    "raw_model_output": "Kira kontratı biterken ev sahibi ve kiracı yeni şartlarda anlaştı.",
+    "corrected_output": "Kira sözleşmesinin hitamında (bitişinde); kiralayan ve kiracı, yeni dönem kira bedeli ve kullanım şartları üzerinde mutabakat sağlamıştır."
+  },
+  {
+    "raw_model_output": "Portre çizilirken yüz hatlarındaki detaylar sanatçının ustalığını gösterdi.",
+    "corrected_output": "Portre çalışması esnasında yüz hatlarına yansıtılan ince detaylar; sanatçının teknik maharetini ve gözlem yeteneğini estetik bir biçimde ortaya koymuştur."
+  },
+  {
+    "raw_model_output": "Temyiz başvurusu yapıldığında davanın üst mahkemede incelenmesi süreci başladı.",
+    "corrected_output": "Temyiz kanun yoluna başvurulmasıyla birlikte; yerel mahkeme kararının hukuki denetimi maksadıyla üst yargı mercii nezdinde inceleme süreci başlatılmıştır."
+  },
+  {
+    "raw_model_output": "Resim sergisindeki tabloların fiyatları sanatçının ününe göre belirlendi.",
+    "corrected_output": "Sergilenen sanat eserlerinin mali değeri; müellifin sanatsal repütasyonu (ün) ve eserin özgünlük niteliği dikkate alınarak takdir edilmiştir."
+  },
+  {
+    "raw_model_output": "Hizmet sözleşmesi bozulunca tazminat ödenmesi için hukuki yollara başvuruldu.",
+    "corrected_output": "Hizmet akdinin tek taraflı feshi neticesinde; doğan zararların tazmini amacıyla yargı mercileri nezdinde yasal süreç ikame edilmiştir."
+  },
+  {
+    "raw_model_output": "Keman sesi odada yankılanınca herkes müziğin büyüsüne kapıldı ve sustu.",
+    "corrected_output": "Kemanın tınısı iç mekanda yankılanırken; dinleyiciler müziğin mistik atmosferine dahil olmuş ve mutlak bir sükunet hakim olmuştur."
+  },
+  {
+    "raw_model_output": "İş akdi sonlandırılan çalışana kıdem tazminatı hesaplanıp ödendi.",
+    "corrected_output": "İş sözleşmesi feshedilen personele; yasal hakları olan kıdem tazminatı tahakkuk ettirilmiş ve ödeme süreci tamamlanmıştır."
+  },
+  {
+    "raw_model_output": "Edebi eserler tercüme edilirken anlamın kaybolmaması için büyük çaba harcandı.",
+    "corrected_output": "Edebi metinlerin çeviri süreçlerinde; özgün anlamın ve üslubun muhafazası adına dilbilimsel açıdan titiz bir çalışma yürütülmüştür."
+  },
+  {
+    "raw_model_output": "Tapu kadastro işlemleri tamamlanınca arsanın sınırları resmiyet kazandı.",
+    "corrected_output": "Tapu ve kadastro tescil işlemlerinin nihayete ermesiyle birlikte; taşınmazın geometrik sınırları ve mülkiyet durumu resmiyet kazanmıştır."
+  },
+  {
+    "raw_model_output": "Heykelin açılışı yapılırken sanatseverler eseri yakından inceleme şansı buldu.",
+    "corrected_output": "Anıt eserin (heykelin) lansmanı sırasında; sanat camiası temsilcileri yapıtı ayrıntılarıyla tetkik etme imkanına erişmiştir."
+  },
+  {
+    "raw_model_output": "İhtiyati haciz kararı çıkınca borçlunun mallarına geçici olarak el konuldu.",
+    "corrected_output": "İhtiyati haciz kararının infaz edilmesiyle birlikte; alacaklı haklarını güvence altına almak maksadıyla borçluya ait varlıklara yasal kısıtlama getirilmiştir."
+  },
+  {
+    "raw_model_output": "Kültür merkezi açıldığında şehirde sanatsal faaliyetler artış gösterdi.",
+    "corrected_output": "Kültür kompleksinin faaliyete geçmesiyle birlikte; kentin sosyo-kültürel ikliminde ve sanatsal organizasyonlarında ivmeli bir artış kaydedilmiştir."
+  },
+  {
+    "raw_model_output": "İşe alım protokolü gereği adaylardan sabıka kaydı ve diploma istendi.",
+    "corrected_output": "Personel istihdam prosedürleri uyarınca; adaylardan adli sicil kaydı ve akademik yeterliliklerini tevsik eden diploma asılları talep edilmiştir."
+  },
+  {
+    "raw_model_output": "Müzayedede en yüksek teklifi veren kişi tarihi vazonun yeni sahibi oldu.",
+    "corrected_output": "Açık artırma (müzayede) sürecinde en yüksek bedeli taahhüt eden katılımcı; antik vazonun mülkiyet hakkını elde etmiştir."
+  },
+  {
+    "raw_model_output": "Siyasi partilerin tüzüğü incelendiğinde demokratik kurallara uygunluğu görüldü.",
+    "corrected_output": "Siyasi teşekküllerin temel kuruluş metinleri (tüzükleri) tetkik edildiğinde; demokratik teamüllere ve yasal normlara uyumu müşahede edilmiştir."
+  },
+  {
+    "raw_model_output": "Sanatsal eleştiri yazısı yayınlanınca serginin başarısı daha çok konuşuldu.",
+    "corrected_output": "Yayınlanan sanatsal analiz (eleştiri) metni; serginin estetik başarısının ve sanatsal derinliğinin daha geniş kitlelerce müzakere edilmesine vesile olmuştur."
+  },
+  {
+    "raw_model_output": "Kararname yayınlandığında yeni kamu görevlileri görevlerine atandı.",
+    "corrected_output": "İlgili kararnamenin resmiyet kazanmasıyla birlikte; kamu hizmetlerini yürütmek üzere belirlenen isimlerin atama ve görevlendirme süreçleri tamamlanmıştır."
+  },
+  {
+    "raw_model_output": "Klasik müzik dinlerken enstrümanların uyumu ruhu dinlendiriyor.",
+    "corrected_output": "Klasik batı müziği eserlerindeki enstrümantal armoni; dinleyicide zihinsel bir dinginlik ve ruhsal bir tahliye (katarsis) hissi uyandırmaktadır."
+  },
+  {
+    "raw_model_output": "Vasiyetname noter huzurunda açıldı ve mirasçılara okundu.",
+    "corrected_output": "Ölüme bağlı tasarruf metni (vasiyetname), noter nezaretinde açılarak yasal varislere resmi bir törenle tebliğ edilmiştir."
+  },
+  {
+    "raw_model_output": "Grafiti sanatçıları şehirdeki boş duvarları renkli resimlerle süsledi.",
+    "corrected_output": "Sokak sanatçıları; kentsel mekanlardaki atıl duvar yüzeylerini, estetik ve tematik görsellerle bezeyerek şehrin görsel dokusuna katkı sunmuştur."
+  },
+  {
+    "raw_model_output": "Bilirkişi raporu hazırlandığında davanın gidişatı önemli ölçüde netleşti.",
+    "corrected_output": "Uzman mütalaasının (bilirkişi raporunun) dosyaya sunulmasıyla birlikte; teknik uyuşmazlığın hukuki boyutu ve davanın seyri kayda değer oranda açıklık kazanmıştır."
+  },
+  {
+    "raw_model_output": "Sahne arkasındaki hazırlıklar bittiğinde perde açıldı ve gösteri başladı.",
+    "corrected_output": "Sahne arkası (kulis) hazırlıklarının tamamlanmasıyla birlikte; ana perde aralanmış ve sanatsal performans seyircinin takdirine sunulmuştur."
+  },
+  {
+    "raw_model_output": "Bilimsel bir araştırmada verilerin doğruluğu, sonuçların güvenilir olması için en önemli şarttır.",
+    "corrected_output": "Bilimsel bir tetkik sürecinde veri setinin tutarlılığı ve doğruluğu, elde edilen bulguların güvenilirliği ve akademik geçerliliği açısından temel ön koşul teşkil etmektedir."
+  },
+  {
+    "raw_model_output": "Felsefe tarihi boyunca düşünürler varlığın anlamını ve bilginin kaynağını hep tartışmışlardır.",
+    "corrected_output": "Felsefi düşünce geleneği süresince mütefekkirler, varlık fenomeninin mahiyetini ve epistemolojik (bilgiye dair) temelleri sürekli bir tartışma odağı haline getirmişlerdir."
+  },
+  {
+    "raw_model_output": "Toplumdaki değişimler incelendiğinde teknolojinin insan ilişkilerini nasıl etkilediği açıkça görülüyor.",
+    "corrected_output": "Sosyal transformasyonlar (değişimler) analiz edildiğinde; teknolojik determinizmin bireyler arası münasebetleri ne denli köklü bir biçimde şekillendirdiği açıkça müşahede edilmektedir."
+  },
+  {
+    "raw_model_output": "Akademik bir makale yazarken kaynak göstermek, başkasının fikrine saygı duymak ve dürüstlük için gereklidir.",
+    "corrected_output": "Akademik bir metnin inşası sürecinde atıf usullerine riayet edilmesi; fikri mülkiyete duyulan saygının ve bilimsel etik ilkelerine olan bağlılığın bir tezahürüdür."
+  },
+  {
+    "raw_model_output": "Psikolojik analizlerde bireyin çocukluk dönemindeki travmaların yetişkinlikteki davranışları etkilediği söylenir.",
+    "corrected_output": "Psikolojik tahlillerde; öznenin erken çocukluk evresinde deneyimlediği travmatik yaşantıların, yetişkinlik dönemindeki davranış paternleri üzerinde belirleyici bir etkisi olduğu kabul edilmektedir."
+  },
+  {
+    "raw_model_output": "Şehirleşme arttıkça doğadan kopan insan modern hayatın getirdiği stresle baş etmeye çalışıyor.",
+    "corrected_output": "Kentsel yoğunlaşmanın artmasıyla birlikte doğal habitattan uzaklaşan birey, modern yaşamın dayattığı anksiyete ve stres faktörleriyle rasyonel bir mücadele yürütme çabasındadır."
+  },
+  {
+    "raw_model_output": "Eğitimde fırsat eşitliği sağlandığında her çocuk yeteneklerini sergileme şansı bulur ve toplum gelişir.",
+    "corrected_output": "Eğitimsel süreçlerde imkan eşitliği tesis edildiğinde; her birey kendi potansiyelini realize etme imkanına kavuşacak, bu da toplumsal kalkınmanın itici gücü olacaktır."
+  },
+  {
+    "raw_model_output": "Kültürel mirasın korunması gelecek nesillere kimliklerini unutturmamak için çok değerlidir.",
+    "corrected_output": "Kültürel varlıkların muhafaza edilerek istikbale aktarılması; gelecek kuşakların tarihsel belleklerini korumaları ve kolektif kimliklerini sürdürmeleri açısından hayati önem arz eder."
+  },
+  {
+    "raw_model_output": "Eleştirel düşünme yeteneği gelişen bir kişi, bilgileri sorgulamadan kabul etmez ve mantıklı düşünür.",
+    "corrected_output": "Eleştirel muhakeme kabiliyeti yüksek bir birey, kendisine sunulan enformasyonu rasyonel süzgeçlerden geçirmeksizin kabul etmez; analitik ve tutarlı bir düşünme pratiği sergiler."
+  },
+  {
+    "raw_model_output": "Demokrasinin temeli olan fikir özgürlüğü, farklı seslerin duyulmasını ve ortak aklın oluşmasını sağlar.",
+    "corrected_output": "Demokratik nizamın temel taşı olan ifade hürriyeti; toplumsal çoğulculuğun korunmasına ve kolektif bir akıl yürütme sürecinin inşasına olanak tanır."
+  },
+  {
+    "raw_model_output": "Kuantum düşüncesi hayatımıza girdiğinde alışılmış mantık kuralları bazen yetersiz kalabilir.",
+    "corrected_output": "Kuantum paradigması düşünce dünyamıza dahil olduğunda; klasik mantık ilkelerinin ve deterministik bakış açısının bazı fenomenleri açıklamada yetersiz kaldığı görülmektedir."
+  },
+  {
+    "raw_model_output": "Etik kurallara uymayan bir profesyonel hayat, kısa vadede kazandırsa da uzun vadede güven bitirir.",
+    "corrected_output": "Etik değerlerden yoksun bir mesleki pratik; konjonktürel olarak kazanım sağlasa dahi, uzun vadede kurumsal repütasyonu ve güven zeminini bütünüyle tahrip eder."
+  },
+  {
+    "raw_model_output": "Sosyolojik araştırmalara göre göç hareketleri şehirlerin demografik yapısını tamamen değiştiriyor.",
+    "corrected_output": "Sosyolojik veriler ışığında incelendiğinde; kitlesel göç devinimlerinin, kentsel demografik dokuyu ve toplumsal katmanlaşmayı köklü bir dönüşüme uğrattığı saptanmaktadır."
+  },
+  {
+    "raw_model_output": "Zeka sadece problem çözmek değil, aynı zamanda değişen şartlara uyum sağlama yeteneğidir.",
+    "corrected_output": "Entelektüel kapasite (zeka) yalnızca analitik problem çözme becerisi değil; aynı zamanda değişken çevresel koşullara dinamik bir biçimde adaptasyon sağlama yetisidir."
+  },
+  {
+    "raw_model_output": "Yalnızlık modern insanın en büyük sorunu haline gelirken sosyal medya bu boşluğu doldurmuyor.",
+    "corrected_output": "Bireyselleşmenin getirdiği izolasyon modern öznenin temel buhranı haline gelmişken; dijital platformların sunduğu etkileşim, bu varoluşsal boşluğu ikame etmekte yetersiz kalmaktadır."
+  },
+  {
+    "raw_model_output": "Anayasa Mahkemesi kararları herkesi bağlar ve hukukun üstünlüğünün bir kanıtıdır.",
+    "corrected_output": "Anayasa Mahkemesi'nin ilamları tüm idari ve hukuki birimler için bağlayıcı olup; hukuk devleti ilkesinin ve yargı bağımsızlığının en somut güvencesini teşkil eder."
+  },
+  {
+    "raw_model_output": "Müze ziyaretleri sırasında eserlerin tarihini okumak, o dönemi anlamayı kolaylaştırır.",
+    "corrected_output": "Müze envanterindeki eserlerin tarihsel arka planını tetkik etmek; ilgili dönemin sosyo-kültürel iklimini ve estetik anlayışını kavramayı rasyonel bir zemine taşır."
+  },
+  {
+    "raw_model_output": "Biyografi okumak, başarılı insanların hayat yolculuğundaki zorlukları görüp ders çıkarmayı sağlar.",
+    "corrected_output": "Biyografik eserleri incelemek; mümtaz şahsiyetlerin yaşam döngülerindeki darboğazları analiz ederek, bireysel gelişim adına fonksiyonel çıkarımlar yapmaya olanak tanır."
+  },
+  {
+    "raw_model_output": "Doğa yürüyüşü yaparken sessizliği dinlemek zihni boşaltır ve yaratıcılığı artırır.",
+    "corrected_output": "Doğal ortamda gerçekleştirilen yürüyüşler esnasında sükuneti tecrübe etmek; zihinsel bir arınma (katarsis) sağlayarak inovatif düşünce kapasitesini ve yaratıcılığı kamçılar."
+  },
+  {
+    "raw_model_output": "Klasik kitaplar her okunduğunda yeni bir anlam sunar ve zamansız eserlerdir.",
+    "corrected_output": "Klasik yapıtlar, her okuma eyleminde farklı anlamsal katmanlar açımlayan; tarihsel sınırları aşan ve evrensel niteliğini koruyan zamansız metinlerdir."
+  },
+  {
+    "raw_model_output": "Geri dönüşüm bilinci arttıkça doğal kaynakların korunması konusunda umutlar artıyor.",
+    "corrected_output": "Sürdürülebilirlik ve geri dönüşüm farkındalığının kitleselleşmesi; kısıtlı doğal kaynakların muhafazası yönündeki küresel iyimserliği ve ekolojik bilinci pekiştirmektedir."
+  },
+  {
+    "raw_model_output": "Bir dil öğrenmek sadece kelime ezberlemek değil, o dilin kültürüne de girmektir.",
+    "corrected_output": "Yeni bir lisanı tecrübe etmek yalnızca leksik (kelimesel) bir edinim değil; o dilin tarihsel ve toplumsal kodlarını, yani kültür dairesini bütüncül olarak içselleştirmektir."
+  },
+  {
+    "raw_model_output": "Empati kurmak insan ilişkilerindeki çatışmaları azaltır ve daha huzurlu bir ortam yaratır.",
+    "corrected_output": "Empatik yaklaşım metodolojisini benimsemek; bireyler arası uyuşmazlıkları minimize ederek, toplumsal barışın ve kolektif huzurun inşasına zemin hazırlar."
+  },
+  {
+    "raw_model_output": "Güneş enerjisi panelleri elektrik üretirken çevreyi kirletmez ve ekonomik tasarruf sağlar.",
+    "corrected_output": "Fotovoltaik (güneş enerjisi) sistemleri enerji üretimi safhasında ekolojik dengeye zarar vermezken; uzun vadede enerji maliyetlerini minimize ederek iktisadi bir verimlilik sunar."
+  },
+  {
+    "raw_model_output": "Şehir planlaması yapılırken yeşil alanların korunması halkın yaşam kalitesini doğrudan etkiler.",
+    "corrected_output": "Kentsel tasarım süreçlerinde rekreasyonel (yeşil) alanların muhafaza edilmesi; toplumun fizyolojik ve psikolojik yaşam kalitesini doğrudan belirleyen bir unsurdur."
+  },
+  {
+    "raw_model_output": "Sanal gerçeklik derslerde kullanıldığında öğrenciler konuları daha iyi anlıyor ve ilgi duyuyor.",
+    "corrected_output": "Sanal gerçeklik (VR) teknolojilerinin pedagojik süreçlere entegrasyonu; soyut kavramların somutlaştırılmasını sağlayarak öğrenci motivasyonunu ve bilişimsel kavrayışı artırmaktadır."
+  },
+  {
+    "raw_model_output": "İnternetteki bilgi kirliliği doğru bilgiye ulaşmayı zorlaştırıyor ve teyit etmek gerekiyor.",
+    "corrected_output": "Dijital mecralardaki enformasyon kirliliği; sahih bilgiye erişimi güçleştirerek, verilerin doğrulanması (fact-checking) prosedürlerini zorunlu bir ihtiyaç haline getirmektedir."
+  },
+  {
+    "raw_model_output": "Kendi işini kurmak isteyen girişimciler için devlet teşvikleri ve hibeler büyük bir fırsat sunar.",
+    "corrected_output": "Kendi teşebbüsünü hayata geçirmeyi hedefleyen girişimciler adına; kamu destekleri, sübvansiyonlar ve karşılıksız fonlar (hibeler) stratejik bir kalkınma fırsatı teşkil eder."
+  },
+  {
+    "raw_model_output": "Pandemi döneminde uzaktan çalışma modeli yaygınlaştı ve iş hayatı yeniden şekillendi.",
+    "corrected_output": "Küresel salgın konjonktüründe uzaktan çalışma (remote) metodolojisi ivme kazanmış; bu durum kurumsal kültürün ve iş disiplininin yeniden kurgulanmasına yol açmıştır."
+  },
+  {
+    "raw_model_output": "Düzenli spor yapmak sadece vücut sağlığını değil, aynı zamanda disiplin duygusunu da geliştirir.",
+    "corrected_output": "Periyodik fiziksel aktiviteler yalnızca bedensel bütünlüğü korumakla kalmaz; aynı zamanda bireyin otokontrol mekanizmasını ve kişisel disiplin algısını tahkim eder."
+  },
+  {
+    "raw_model_output": "Uzay araştırmalarına ayrılan bütçeler, teknolojideki yeni buluşların önünü açıyor.",
+    "corrected_output": "Uzay keşif programlarına tahsis edilen finansal kaynaklar; mühendislik ve temel bilimler alanındaki inovatif atılımların ve teknolojik paradigma değişimlerinin öncüsü olmaktadır."
+  },
+  {
+    "raw_model_output": "Arkeolojik kazılar sayesinde geçmiş medeniyetlerin nasıl yaşadığı hakkında detaylı bilgi sahibi oluyoruz.",
+    "corrected_output": "Arkeolojik saha araştırmaları marifetiyle; kadim uygarlıkların sosyo-ekonomik yapıları ve gündelik yaşam pratiklerine dair ayrıntılı tarihsel verilere erişim sağlanmaktadır."
+  },
+  {
+    "raw_model_output": "Yüksek lisans yapmak, bir alanda uzmanlaşmak ve akademik kariyere adım atmak için önemlidir.",
+    "corrected_output": "Lisansüstü eğitim faaliyetleri; belirli bir disiplinde uzmanlaşma sağlamak ve akademik kariyer yolculuğunu bilimsel bir zemine oturtmak açısından kritik bir basamaktır."
+  },
+  {
+    "raw_model_output": "Gönüllü projelerde yer almak sosyal sorumluluk bilincini artırır ve topluma fayda sağlar.",
+    "corrected_output": "Gönüllülük esasına dayalı sosyal projelerde görev almak; bireyin toplumsal duyarlılık algısını pekiştirirken, kolektif fayda üretimine doğrudan katkı sunar."
+  },
+  {
+    "raw_model_output": "Bir şirketin başarısı, çalışanların motivasyonu ve takım çalışmasına olan inançla ilgilidir.",
+    "corrected_output": "Kurumsal performansın sürdürülebilirliği; insan kaynağının motivasyon düzeyi ve kolektif çalışma (takım oyunu) kültürünün içselleştirilmesiyle doğrudan korelasyon içerisindedir."
+  },
+  {
+    "raw_model_output": "Zaman yönetimi yapmak, işlerin yetişmesini sağlar ve stresi azaltarak verimi artırır.",
+    "corrected_output": "Stratejik zaman planlaması (zaman yönetimi); operasyonel süreçlerin zamanında tamamlanmasına olanak tanırken, stres faktörlerini minimize ederek bireysel verimliliği maksimize eder."
+  },
+  {
+    "raw_model_output": "Hobi edinmek iş stresinden uzaklaşmayı sağlar ve hayata yeni bir renk katar.",
+    "corrected_output": "Rekreasyonel uğraşlar (hobiler) edinmek; profesyonel yaşamın getirdiği zihinsel yükten arınmayı sağlayarak, bireyin yaşam motivasyonuna estetik ve ruhsal bir derinlik katar."
+  },
+  {
+    "raw_model_output": "Meditasyon yapmak odaklanmayı artırır ve iç huzuru bulmaya yardımcı olur.",
+    "corrected_output": "Meditatif uygulamalar; bilişsel odaklanma kapasitesini güçlendirerek, bireyin içsel dinginliğe ve ruhsal dengeye ulaşma sürecine eşlik eder."
+  },
+  {
+    "raw_model_output": "Kişisel verilerin korunması kanunu sayesinde internetteki güvenliğimiz artmıştır.",
+    "corrected_output": "Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca; dijital mecralardaki veri mahremiyeti yasal bir zemine oturtulmuş ve bireysel siber güvenlik standartları tahkim edilmiştir."
+  },
+  {
+    "raw_model_output": "E-ticaret siteleri üzerinden alışveriş yapmak zaman kazandırsa da güvenliğe dikkat edilmelidir.",
+    "corrected_output": "Elektronik ticaret platformları vasıtasıyla gerçekleştirilen işlemler zaman tasarrufu sağlasa da; siber dolandırıcılık risklerine karşı güvenlik protokollerinin teyit edilmesi elzemdir."
+  },
+  {
+    "raw_model_output": "Akıllı şehirler teknolojiyi kullanarak kaynakları daha verimli yönetmeyi hedefler.",
+    "corrected_output": "Akıllı şehir (smart city) projeksiyonları; ileri teknoloji çözümlerini kullanarak kentsel kaynakların ve kamu hizmetlerinin optimize edilmesini ve sürdürülebilir yönetimini hedefler."
+  },
+  {
+    "raw_model_output": "Kariyer planlaması yaparken sadece maaşa değil, kişisel gelişime de bakılmalıdır.",
+    "corrected_output": "Mesleki kariyer projeksiyonları kurgulanırken; yalnızca finansal kazanımlar değil, entelektüel tatmin ve sürekli kişisel gelişim olanakları da değerlendirme kriterlerine dahil edilmelidir."
+  },
+  {
+    "raw_model_output": "Staj yapmak, okulda öğrenilen bilgilerin iş hayatında nasıl kullanıldığını görmeyi sağlar.",
+    "corrected_output": "Staj programları; akademik ortamda edinilen teorik müktesebatın, profesyonel iş hayatındaki pratik uygulamalarla test edilmesi ve deneyime dönüştürülmesi fırsatını sunar."
+  },
+  {
+    "raw_model_output": "Sosyal medya bağımlılığı dikkat dağınıklığına yol açar ve verimliliği düşürür.",
+    "corrected_output": "Dijital platformların kontrolsüz kullanımı (sosyal medya bağımlılığı); odaklanma süreçlerinde zafiyet yaratarak bilişsel verimliliği ve zaman yönetimini olumsuz etkilemektedir."
+  },
+  {
+    "raw_model_output": "Elektronik kitaplar binlerce eseri tek cihazda taşımayı sağlar ve yer tasarrufu sağlar.",
+    "corrected_output": "Dijital kitap okuma cihazları; muazzam bir kütüphane envanterini kompakt bir formda muhafaza etme imkanı sunarak, mekansal ve lojistik açıdan büyük bir avantaj sağlar."
+  },
+  {
+    "raw_model_output": "Bir projeye başlamadan önce risk analizi yapmak, yaşanabilecek sorunlara karşı önlem almayı sağlar.",
+    "corrected_output": "Operasyonel süreçlere start verilmeden evvel icra edilen risk analizi çalışmaları; muhtemel aksaklıkların önceden saptanmasına ve proaktif çözüm mekanizmalarının inşasına olanak tanır."
+  },
+  {
+    "raw_model_output": "Yabancı bir dil konuşurken hata yapmaktan korkmamak akıcılığı artıran en önemli unsurdur.",
+    "corrected_output": "Hedef dilde sözlü iletişim kurarken hata yapma endişesini izale etmek; dilsel akıcılığı ve özgüveni tesis eden en kritik psikolojik faktördür."
+  },
+  {
+    "raw_model_output": "İnovasyon yapmak, mevcut sorunlara yeni ve daha etkili çözümler üretmektir.",
+    "corrected_output": "İnovasyon (yenileşim) süreci; süregelen problemlere daha efektif, verimli ve özgün çözüm metodolojileri geliştirerek katma değer yaratma sanatıdır."
+  },
+  {
+    "raw_model_output": "İş görüşmesine uygun kıyafetle gitmek, karşı tarafa verilen saygının bir göstergesidir.",
+    "corrected_output": "Mülakat süreçlerinde profesyonel bir görünüm (kıyafet seçimi) sergilemek; kurumsal kültüre duyulan saygının ve mesleki ciddiyetin bir nişanesi olarak kabul edilir."
+  },
+  {
+    "raw_model_output": "Okul yıllarındaki dostluklar hayat boyu süren en samimi bağların temelini atar.",
+    "corrected_output": "Akademik eğitim yıllarında kurulan sosyal münasebetler; ömür boyu süregelen, güven ve samimiyet üzerine kurulu sarsılmaz bağların nüvesini oluşturur."
+  },
+  {
+    "raw_model_output": "Bilimsel bir araştırmada verilerin doğruluğu, sonuçların güvenilir olması için en önemli şarttır.",
+    "corrected_output": "Bilimsel bir tetkik sürecinde veri setinin tutarlılığı ve doğruluğu, elde edilen bulguların güvenilirliği ve akademik geçerliliği açısından temel ön koşul teşkil etmektedir."
+  },
+  {
+    "raw_model_output": "Felsefe tarihi boyunca düşünürler varlığın anlamını ve bilginin kaynağını hep tartışmışlardır.",
+    "corrected_output": "Felsefi düşünce geleneği süresince mütefekkirler, varlık fenomeninin mahiyetini ve epistemolojik (bilgiye dair) temelleri sürekli bir tartışma odağı haline getirmişlerdir."
+  },
+  {
+    "raw_model_output": "Toplumdaki değişimler incelendiğinde teknolojinin insan ilişkilerini nasıl etkilediği açıkça görülüyor.",
+    "corrected_output": "Sosyal transformasyonlar (değişimler) analiz edildiğinde; teknolojik determinizmin bireyler arası münasebetleri ne denli köklü bir biçimde şekillendirdiği açıkça müşahede edilmektedir."
+  },
+  {
+    "raw_model_output": "Akademik bir makale yazarken kaynak göstermek, başkasının fikrine saygı duymak ve dürüstlük için gereklidir.",
+    "corrected_output": "Akademik bir metnin inşası sürecinde atıf usullerine riayet edilmesi; fikri mülkiyete duyulan saygının ve bilimsel etik ilkelerine olan bağlılığın bir tezahürüdür."
+  },
+  {
+    "raw_model_output": "Psikolojik analizlerde bireyin çocukluk dönemindeki travmaların yetişkinlikteki davranışları etkilediği söylenir.",
+    "corrected_output": "Psikolojik tahlillerde; öznenin erken çocukluk evresinde deneyimlediği travmatik yaşantıların, yetişkinlik dönemindeki davranış paternleri üzerinde belirleyici bir etkisi olduğu kabul edilmektedir."
+  },
+  {
+    "raw_model_output": "Şehirleşme arttıkça doğadan kopan insan modern hayatın getirdiği stresle baş etmeye çalışıyor.",
+    "corrected_output": "Kentsel yoğunlaşmanın artmasıyla birlikte doğal habitattan uzaklaşan birey, modern yaşamın dayattığı anksiyete ve stres faktörleriyle rasyonel bir mücadele yürütme çabasındadır."
+  },
+  {
+    "raw_model_output": "Eğitimde fırsat eşitliği sağlandığında her çocuk yeteneklerini sergileme şansı bulur ve toplum gelişir.",
+    "corrected_output": "Eğitimsel süreçlerde imkan eşitliği tesis edildiğinde; her birey kendi potansiyelini realize etme imkanına kavuşacak, bu da toplumsal kalkınmanın itici gücü olacaktır."
+  },
+  {
+    "raw_model_output": "Kültürel mirasın korunması gelecek nesillere kimliklerini unutturmamak için çok değerlidir.",
+    "corrected_output": "Kültürel varlıkların muhafaza edilerek istikbale aktarılması; gelecek kuşakların tarihsel belleklerini korumaları ve kolektif kimliklerini sürdürmeleri açısından hayati önem arz eder."
+  },
+  {
+    "raw_model_output": "Eleştirel düşünme yeteneği gelişen bir kişi, bilgileri sorgulamadan kabul etmez ve mantıklı düşünür.",
+    "corrected_output": "Eleştirel muhakeme kabiliyeti yüksek bir birey, kendisine sunulan enformasyonu rasyonel süzgeçlerden geçirmeksizin kabul etmez; analitik ve tutarlı bir düşünme pratiği sergiler."
+  },
+  {
+    "raw_model_output": "Demokrasinin temeli olan fikir özgürlüğü, farklı seslerin duyulmasını ve ortak aklın oluşmasını sağlar.",
+    "corrected_output": "Demokratik nizamın temel taşı olan ifade hürriyeti; toplumsal çoğulculuğun korunmasına ve kolektif bir akıl yürütme sürecinin inşasına olanak tanır."
+  },
+  {
+    "raw_model_output": "Kuantum düşüncesi hayatımıza girdiğinde alışılmış mantık kuralları bazen yetersiz kalabilir.",
+    "corrected_output": "Kuantum paradigması düşünce dünyamıza dahil olduğunda; klasik mantık ilkelerinin ve deterministik bakış açısının bazı fenomenleri açıklamada yetersiz kaldığı görülmektedir."
+  },
+  {
+    "raw_model_output": "Etik kurallara uymayan bir profesyonel hayat, kısa vadede kazandırsa da uzun vadede güven bitirir.",
+    "corrected_output": "Etik değerlerden yoksun bir mesleki pratik; konjonktürel olarak kazanım sağlasa dahi, uzun vadede kurumsal repütasyonu ve güven zeminini bütünüyle tahrip eder."
+  },
+  {
+    "raw_model_output": "Sosyolojik araştırmalara göre göç hareketleri şehirlerin demografik yapısını tamamen değiştiriyor.",
+    "corrected_output": "Sosyolojik veriler ışığında incelendiğinde; kitlesel göç devinimlerinin, kentsel demografik dokuyu ve toplumsal katmanlaşmayı köklü bir dönüşüme uğrattığı saptanmaktadır."
+  },
+  {
+    "raw_model_output": "Zeka sadece problem çözmek değil, aynı zamanda değişen şartlara uyum sağlama yeteneğidir.",
+    "corrected_output": "Entelektüel kapasite (zeka) yalnızca analitik problem çözme becerisi değil; aynı zamanda değişken çevresel koşullara dinamik bir biçimde adaptasyon sağlama yetisidir."
+  },
+  {
+    "raw_model_output": "Yalnızlık modern insanın en büyük sorunu haline gelirken sosyal medya bu boşluğu doldurmuyor.",
+    "corrected_output": "Bireyselleşmenin getirdiği izolasyon modern öznenin temel buhranı haline gelmişken; dijital platformların sunduğu etkileşim, bu varoluşsal boşluğu ikame etmekte yetersiz kalmaktadır."
+  },
+  {
+    "raw_model_output": "Anayasa Mahkemesi kararları herkesi bağlar ve hukukun üstünlüğünün bir kanıtıdır.",
+    "corrected_output": "Anayasa Mahkemesi'nin ilamları tüm idari ve hukuki birimler için bağlayıcı olup; hukuk devleti ilkesinin ve yargı bağımsızlığının en somut güvencesini teşkil eder."
+  },
+  {
+    "raw_model_output": "Müze ziyaretleri sırasında eserlerin tarihini okumak, o dönemi anlamayı kolaylaştırır.",
+    "corrected_output": "Müze envanterindeki eserlerin tarihsel arka planını tetkik etmek; ilgili dönemin sosyo-kültürel iklimini ve estetik anlayışını kavramayı rasyonel bir zemine taşır."
+  },
+  {
+    "raw_model_output": "Biyografi okumak, başarılı insanların hayat yolculuğundaki zorlukları görüp ders çıkarmayı sağlar.",
+    "corrected_output": "Biyografik eserleri incelemek; mümtaz şahsiyetlerin yaşam döngülerindeki darboğazları analiz ederek, bireysel gelişim adına fonksiyonel çıkarımlar yapmaya olanak tanır."
+  },
+  {
+    "raw_model_output": "Doğa yürüyüşü yaparken sessizliği dinlemek zihni boşaltır ve yaratıcılığı artırır.",
+    "corrected_output": "Doğal ortamda gerçekleştirilen yürüyüşler esnasında sükuneti tecrübe etmek; zihinsel bir arınma (katarsis) sağlayarak inovatif düşünce kapasitesini ve yaratıcılığı kamçılar."
+  },
+  {
+    "raw_model_output": "Klasik kitaplar her okunduğunda yeni bir anlam sunar ve zamansız eserlerdir.",
+    "corrected_output": "Klasik yapıtlar, her okuma eyleminde farklı anlamsal katmanlar açımlayan; tarihsel sınırları aşan ve evrensel niteliğini koruyan zamansız metinlerdir."
+  },
+  {
+    "raw_model_output": "Geri dönüşüm bilinci arttıkça doğal kaynakların korunması konusunda umutlar artıyor.",
+    "corrected_output": "Sürdürülebilirlik ve geri dönüşüm farkındalığının kitleselleşmesi; kısıtlı doğal kaynakların muhafazası yönündeki küresel iyimserliği ve ekolojik bilinci pekiştirmektedir."
+  },
+  {
+    "raw_model_output": "Bir dil öğrenmek sadece kelime ezberlemek değil, o dilin kültürüne de girmektir.",
+    "corrected_output": "Yeni bir lisanı tecrübe etmek yalnızca leksik (kelimesel) bir edinim değil; o dilin tarihsel ve toplumsal kodlarını, yani kültür dairesini bütüncül olarak içselleştirmektir."
+  },
+  {
+    "raw_model_output": "Empati kurmak insan ilişkilerindeki çatışmaları azaltır ve daha huzurlu bir ortam yaratır.",
+    "corrected_output": "Empatik yaklaşım metodolojisini benimsemek; bireyler arası uyuşmazlıkları minimize ederek, toplumsal barışın ve kolektif huzurun inşasına zemin hazırlar."
+  },
+  {
+    "raw_model_output": "Güneş enerjisi panelleri elektrik üretirken çevreyi kirletmez ve ekonomik tasarruf sağlar.",
+    "corrected_output": "Fotovoltaik (güneş enerjisi) sistemleri enerji üretimi safhasında ekolojik dengeye zarar vermezken; uzun vadede enerji maliyetlerini minimize ederek iktisadi bir verimlilik sunar."
+  },
+  {
+    "raw_model_output": "Şehir planlaması yapılırken yeşil alanların korunması halkın yaşam kalitesini doğrudan etkiler.",
+    "corrected_output": "Kentsel tasarım süreçlerinde rekreasyonel (yeşil) alanların muhafaza edilmesi; toplumun fizyolojik ve psikolojik yaşam kalitesini doğrudan belirleyen bir unsurdur."
+  },
+  {
+    "raw_model_output": "Sanal gerçeklik derslerde kullanıldığında öğrenciler konuları daha iyi anlıyor ve ilgi duyuyor.",
+    "corrected_output": "Sanal gerçeklik (VR) teknolojilerinin pedagojik süreçlere entegrasyonu; soyut kavramların somutlaştırılmasını sağlayarak öğrenci motivasyonunu ve bilişimsel kavrayışı artırmaktadır."
+  },
+  {
+    "raw_model_output": "İnternetteki bilgi kirliliği doğru bilgiye ulaşmayı zorlaştırıyor ve teyit etmek gerekiyor.",
+    "corrected_output": "Dijital mecralardaki enformasyon kirliliği; sahih bilgiye erişimi güçleştirerek, verilerin doğrulanması (fact-checking) prosedürlerini zorunlu bir ihtiyaç haline getirmektedir."
+  },
+  {
+    "raw_model_output": "Kendi işini kurmak isteyen girişimciler için devlet teşvikleri ve hibeler büyük bir fırsat sunar.",
+    "corrected_output": "Kendi teşebbüsünü hayata geçirmeyi hedefleyen girişimciler adına; kamu destekleri, sübvansiyonlar ve karşılıksız fonlar (hibeler) stratejik bir kalkınma fırsatı teşkil eder."
+  },
+  {
+    "raw_model_output": "Pandemi döneminde uzaktan çalışma modeli yaygınlaştı ve iş hayatı yeniden şekillendi.",
+    "corrected_output": "Küresel salgın konjonktüründe uzaktan çalışma (remote) metodolojisi ivme kazanmış; bu durum kurumsal kültürün ve iş disiplininin yeniden kurgulanmasına yol açmıştır."
+  },
+  {
+    "raw_model_output": "Düzenli spor yapmak sadece vücut sağlığını değil, aynı zamanda disiplin duygusunu da geliştirir.",
+    "corrected_output": "Periyodik fiziksel aktiviteler yalnızca bedensel bütünlüğü korumakla kalmaz; aynı zamanda bireyin otokontrol mekanizmasını ve kişisel disiplin algısını tahkim eder."
+  },
+  {
+    "raw_model_output": "Uzay araştırmalarına ayrılan bütçeler, teknolojideki yeni buluşların önünü açıyor.",
+    "corrected_output": "Uzay keşif programlarına tahsis edilen finansal kaynaklar; mühendislik ve temel bilimler alanındaki inovatif atılımların ve teknolojik paradigma değişimlerinin öncüsü olmaktadır."
+  },
+  {
+    "raw_model_output": "Arkeolojik kazılar sayesinde geçmiş medeniyetlerin nasıl yaşadığı hakkında detaylı bilgi sahibi oluyoruz.",
+    "corrected_output": "Arkeolojik saha araştırmaları marifetiyle; kadim uygarlıkların sosyo-ekonomik yapıları ve gündelik yaşam pratiklerine dair ayrıntılı tarihsel verilere erişim sağlanmaktadır."
+  },
+  {
+    "raw_model_output": "Yüksek lisans yapmak, bir alanda uzmanlaşmak ve akademik kariyere adım atmak için önemlidir.",
+    "corrected_output": "Lisansüstü eğitim faaliyetleri; belirli bir disiplinde uzmanlaşma sağlamak ve akademik kariyer yolculuğunu bilimsel bir zemine oturtmak açısından kritik bir basamaktır."
+  },
+  {
+    "raw_model_output": "Gönüllü projelerde yer almak sosyal sorumluluk bilincini artırır ve topluma fayda sağlar.",
+    "corrected_output": "Gönüllülük esasına dayalı sosyal projelerde görev almak; bireyin toplumsal duyarlılık algısını pekiştirirken, kolektif fayda üretimine doğrudan katkı sunar."
+  },
+  {
+    "raw_model_output": "Bir şirketin başarısı, çalışanların motivasyonu ve takım çalışmasına olan inançla ilgilidir.",
+    "corrected_output": "Kurumsal performansın sürdürülebilirliği; insan kaynağının motivasyon düzeyi ve kolektif çalışma (takım oyunu) kültürünün içselleştirilmesiyle doğrudan korelasyon içerisindedir."
+  },
+  {
+    "raw_model_output": "Zaman yönetimi yapmak, işlerin yetişmesini sağlar ve stresi azaltarak verimi artırır.",
+    "corrected_output": "Stratejik zaman planlaması (zaman yönetimi); operasyonel süreçlerin zamanında tamamlanmasına olanak tanırken, stres faktörlerini minimize ederek bireysel verimliliği maksimize eder."
+  },
+  {
+    "raw_model_output": "Hobi edinmek iş stresinden uzaklaşmayı sağlar ve hayata yeni bir renk katar.",
+    "corrected_output": "Rekreasyonel uğraşlar (hobiler) edinmek; profesyonel yaşamın getirdiği zihinsel yükten arınmayı sağlayarak, bireyin yaşam motivasyonuna estetik ve ruhsal bir derinlik katar."
+  },
+  {
+    "raw_model_output": "Meditasyon yapmak odaklanmayı artırır ve iç huzuru bulmaya yardımcı olur.",
+    "corrected_output": "Meditatif uygulamalar; bilişsel odaklanma kapasitesini güçlendirerek, bireyin içsel dinginliğe ve ruhsal dengeye ulaşma sürecine eşlik eder."
+  },
+  {
+    "raw_model_output": "Kişisel verilerin korunması kanunu sayesinde internetteki güvenliğimiz artmıştır.",
+    "corrected_output": "Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca; dijital mecralardaki veri mahremiyeti yasal bir zemine oturtulmuş ve bireysel siber güvenlik standartları tahkim edilmiştir."
+  },
+  {
+    "raw_model_output": "E-ticaret siteleri üzerinden alışveriş yapmak zaman kazandırsa da güvenliğe dikkat edilmelidir.",
+    "corrected_output": "Elektronik ticaret platformları vasıtasıyla gerçekleştirilen işlemler zaman tasarrufu sağlasa da; siber dolandırıcılık risklerine karşı güvenlik protokollerinin teyit edilmesi elzemdir."
+  },
+  {
+    "raw_model_output": "Akıllı şehirler teknolojiyi kullanarak kaynakları daha verimli yönetmeyi hedefler.",
+    "corrected_output": "Akıllı şehir (smart city) projeksiyonları; ileri teknoloji çözümlerini kullanarak kentsel kaynakların ve kamu hizmetlerinin optimize edilmesini ve sürdürülebilir yönetimini hedefler."
+  },
+  {
+    "raw_model_output": "Kariyer planlaması yaparken sadece maaşa değil, kişisel gelişime de bakılmalıdır.",
+    "corrected_output": "Mesleki kariyer projeksiyonları kurgulanırken; yalnızca finansal kazanımlar değil, entelektüel tatmin ve sürekli kişisel gelişim olanakları da değerlendirme kriterlerine dahil edilmelidir."
+  },
+  {
+    "raw_model_output": "Staj yapmak, okulda öğrenilen bilgilerin iş hayatında nasıl kullanıldığını görmeyi sağlar.",
+    "corrected_output": "Staj programları; akademik ortamda edinilen teorik müktesebatın, profesyonel iş hayatındaki pratik uygulamalarla test edilmesi ve deneyime dönüştürülmesi fırsatını sunar."
+  },
+  {
+    "raw_model_output": "Sosyal medya bağımlılığı dikkat dağınıklığına yol açar ve verimliliği düşürür.",
+    "corrected_output": "Dijital platformların kontrolsüz kullanımı (sosyal medya bağımlılığı); odaklanma süreçlerinde zafiyet yaratarak bilişsel verimliliği ve zaman yönetimini olumsuz etkilemektedir."
+  },
+  {
+    "raw_model_output": "Elektronik kitaplar binlerce eseri tek cihazda taşımayı sağlar ve yer tasarrufu sağlar.",
+    "corrected_output": "Dijital kitap okuma cihazları; muazzam bir kütüphane envanterini kompakt bir formda muhafaza etme imkanı sunarak, mekansal ve lojistik açıdan büyük bir avantaj sağlar."
+  },
+  {
+    "raw_model_output": "Bir projeye başlamadan önce risk analizi yapmak, yaşanabilecek sorunlara karşı önlem almayı sağlar.",
+    "corrected_output": "Operasyonel süreçlere start verilmeden evvel icra edilen risk analizi çalışmaları; muhtemel aksaklıkların önceden saptanmasına ve proaktif çözüm mekanizmalarının inşasına olanak tanır."
+  },
+  {
+    "raw_model_output": "Yabancı bir dil konuşurken hata yapmaktan korkmamak akıcılığı artıran en önemli unsurdur.",
+    "corrected_output": "Hedef dilde sözlü iletişim kurarken hata yapma endişesini izale etmek; dilsel akıcılığı ve özgüveni tesis eden en kritik psikolojik faktördür."
+  },
+  {
+    "raw_model_output": "İnovasyon yapmak, mevcut sorunlara yeni ve daha etkili çözümler üretmektir.",
+    "corrected_output": "İnovasyon (yenileşim) süreci; süregelen problemlere daha efektif, verimli ve özgün çözüm metodolojileri geliştirerek katma değer yaratma sanatıdır."
+  },
+  {
+    "raw_model_output": "İş görüşmesine uygun kıyafetle gitmek, karşı tarafa verilen saygının bir göstergesidir.",
+    "corrected_output": "Mülakat süreçlerinde profesyonel bir görünüm (kıyafet seçimi) sergilemek; kurumsal kültüre duyulan saygının ve mesleki ciddiyetin bir nişanesi olarak kabul edilir."
+  },
+  {
+    "raw_model_output": "Okul yıllarındaki dostluklar hayat boyu süren en samimi bağların temelini atar.",
+    "corrected_output": "Akademik eğitim yıllarında kurulan sosyal münasebetler; ömür boyu süregelen, güven ve samimiyet üzerine kurulu sarsılmaz bağların nüvesini oluşturur."
+  },
+  {
+    "raw_model_output": "Korku filmi izlerken gözümü kapatınca sahneleri görmedim ama sesler beni ürpertti.",
+    "corrected_output": "Gerilim dozajı yüksek bir yapım izlerken görsel temastan kaçınmak adına gözlerimi kapatsam da; işitsel efektlerin yarattığı atmosfer dahi bende yoğun bir ürperti uyandırmaya muktedir olmuştur."
+  },
+  {
+    "raw_model_output": "Kütüphanede sessizliği bozan biri olunca okuyucular rahatsız oldu ve görevli nazikçe uyarıda bulundu.",
+    "corrected_output": "Kütüphane bünyesindeki sükunetin ihlal edilmesi üzerine, çalışma ortamındaki diğer bireyler huzursuzluk yaşamış; bu durum karşısında yetkili personel nezaket çerçevesinde bir ikazda bulunmuştur."
+  },
+  {
+    "raw_model_output": "Otobiyografimi yazmaya başlasam, hayatımın dönüm noktalarını ve unutulmaz anılarını samimiyetle kaleme alırdım.",
+    "corrected_output": "Şahsi yaşam öykümü tanzim etmeye karar vermem durumunda; hayatımın kritik dönemeçlerini ve zihnimde yer eden müstesna hatıraları en samimi üslubumla yazıya dökerdim."
+  },
+  {
+    "raw_model_output": "Issız bir adaya düşseydim, yanıma alacağım üç şeyi seçmekte epey zorlanırdım.",
+    "corrected_output": "Medeniyetten uzak, ıssız bir adada mahsur kalmam senaryosunda; hayatta kalma ve konfor açısından elzem olan üç nesneyi belirlemek, şahsım adına oldukça güç bir tercih süreci teşkil ederdi."
+  },
+  {
+    "raw_model_output": "Gezegenlerin hizalanması nadir görülen bir olaydır ve gökyüzü gözlemcileri için heyecan vericidir.",
+    "corrected_output": "Gezegenlerin aynı yörünge düzleminde hizalanması nadiren tecelli eden bir kozmik hadise olup; astronomi meraklıları ve gökyüzü gözlemcileri için büyük bir heyecan kaynağı teşkil etmektedir."
+  },
+  {
+    "raw_model_output": "Bitkilerin fotosentez yapması için güneş ışığına, suya ve karbondioksite ihtiyacı vardır.",
+    "corrected_output": "Bitkisel organizmaların fotosentez (ışıl sentez) sürecini gerçekleştirebilmeleri adına; güneş enerjisi, su ve karbondioksit moleküllerinin varlığı biyolojik bir zorunluluktur."
+  },
+  {
+    "raw_model_output": "Haber bültenlerini izlerken tarafsızlık ve doğruluk ilkelerine dikkat edilmesi gerektiğini düşünüyorum.",
+    "corrected_output": "Enformasyon akışının sağlandığı haber bültenlerinde; tarafsızlık ve nesnellik ilkelerine riayet edilmesinin, toplumsal şeffafiyet açısından vazgeçilmez bir unsur olduğu kanaatindeyim."
+  },
+  {
+    "raw_model_output": "Yabancı dil öğrenmek insanın dünyaya bakış açısını değiştirir ve yeni kapılar açar.",
+    "corrected_output": "Yeni bir lisanın kavranması, bireyin evrensel perspektifini genişletmekte; farklı kültürel ve entelektüel dünyaların kapılarını aralayan stratejik bir edinim sağlamaktadır."
+  },
+  {
+    "raw_model_output": "Kışın sıcak bir çorba içmek hem vücudu ısıtır hem de insana huzur verir.",
+    "corrected_output": "Soğuk iklim koşullarında sıcak bir gıda (çorba) tüketilmesi, fizyolojik ısınma sağlamasının yanı sıra ruhsal bir dinginlik ve konfor hissiyatı uyandırmaktadır."
+  },
+  {
+    "raw_model_output": "Yapay zeka teknolojisi hayatın her alanına girerek iş yapış şekillerimizi kökten değiştiriyor.",
+    "corrected_output": "Yapay zeka tabanlı inovasyonlar yaşamın her katmanına nüfuz ederek; profesyonel ve gündelik operasyonel süreçlerimizi köklü bir paradigma değişimine uğratmaktadır."
+  },
+  {
+    "raw_model_output": "Eski bir saatin tik tak sesini dinlemek bana zamanın ne kadar hızlı geçtiğini hatırlatıyor.",
+    "corrected_output": "Antika bir zaman ölçerin (saatin) ritmik tınılarını tecrübe etmek; zaman mefhumunun akışkanlığını ve hayatın geçiciliğini zihnimde yeniden canlandırmaktadır."
+  },
+  {
+    "raw_model_output": "Resim yaparken renkleri karıştırmak ve yeni tonlar elde etmek çok keyifli bir süreçtir.",
+    "corrected_output": "Sanatsal üretim safhasında pigmentleri harmanlayarak özgün renk tonları keşfetmek; yaratıcılık sınırlarını zorlayan ve yüksek estetik haz veren bir deneyimdir."
+  },
+  {
+    "raw_model_output": "Deniz kenarında yürürken dalgaların kıyıya vuruşunu izlemek tüm stresimi alıyor.",
+    "corrected_output": "Sahil bandında gerçekleştirilen yürüyüşler esnasında dalgaların kıyı ile olan ritmik etkileşimini gözlemlemek; zihinsel bir arınma sağlayarak tüm gerginliği (stresi) izale etmektedir."
+  },
+  {
+    "raw_model_output": "Bir projeyi vaktinde bitirmek için disiplinli çalışmak ve planlı olmak şarttır.",
+    "corrected_output": "Operasyonel bir süreci belirlenen takvim dahilinde nihayete erdirmek adına; kişisel disiplinin tesisi ve stratejik planlama ilkelerine sadakat gösterilmesi elzemdir."
+  },
+  {
+    "raw_model_output": "Yeni bir telefon alınca ayarlarını yapmak ve uygulamaları yüklemek zaman alıyor.",
+    "corrected_output": "Teknolojik donanımın (mobil cihazın) tedarik edilmesinin ardından; kişiselleştirilmiş yapılandırmaların tesisi ve yazılım entegrasyonu, belirli bir zaman dilimine ihtiyaç duymaktadır."
+  },
+  {
+    "raw_model_output": "Sabahları erken uyanıp kitap okumak güne zihinsel bir hazırlık yapmamı sağlıyor.",
+    "corrected_output": "Günün ilk saatlerinde uyanarak entelektüel bir okuma faaliyeti gerçekleştirmek; zihinsel kapasitemi aktif hale getirerek günlük rutinlerime ideal bir başlangıç yapmama olanak tanır."
+  },
+  {
+    "raw_model_output": "Yaz akşamlarında balkonda oturup yıldızları izlemek insana huzur veren bir aktivitedir.",
+    "corrected_output": "Yaz mevsiminin ılık akşamlarında semavi gözlemler (yıldızları seyretmek) gerçekleştirmek; ruhsal bir sükunet sağlayan ve tefekkür dünyasını zenginleştiren müstesna bir ritüeldir."
+  },
+  {
+    "raw_model_output": "İnternetteki alışveriş sitelerinde yorumları okumak karar verirken yardımcı oluyor.",
+    "corrected_output": "Dijital ticaret platformlarındaki kullanıcı geri bildirimlerini analiz etmek; satın alma karar mekanizmalarını rasyonel bir temele oturtmak adına önemli bir veri kaynağı sunar."
+  },
+  {
+    "raw_model_output": "Kendi sebzelerimi yetiştirmek hem sağlıklı hem de doğayla iç içe olmamı sağlıyor.",
+    "corrected_output": "Kendi tarımsal üretimimi (sebze yetiştiriciliği) gerçekleştirmek; hem doğal beslenme imkanı sunmakta hem de toprakla kurulan organik bağı güçlendirmektedir."
+  },
+  {
+    "raw_model_output": "Eski mektupları okurken insanların birbirine olan nezaketi ve seçtiği kelimeler beni etkiledi.",
+    "corrected_output": "Tarihsel yazışmaları (mektupları) tetkik ederken; dönemin nezaket teamülleri ve dilin zengin leksik kullanımı, şahsım üzerinde derin bir hayranlık uyandırmıştır."
+  },
+  {
+    "raw_model_output": "Müzeleri gezerken tarih öncesi çağlardan kalan eserleri görmek ufkumu açıyor.",
+    "corrected_output": "Müze ziyaretleri sırasında arkaik dönemlere ait buluntuları incelemek; tarihsel perspektifimi genişleterek medeniyet döngüsüne dair kavrayışımı derinleştirmektedir."
+  },
+  {
+    "raw_model_output": "Yeni bir şehre taşınınca oranın kültürüne ve sokaklarına alışmak biraz vakit alıyor.",
+    "corrected_output": "Farklı bir lokasyona (şehre) intikal edildiğinde; bölgenin sosyo-kültürel dokusuna ve kentsel mizanpajına adapte olmak, kademeli bir süreç gerektirmektedir."
+  },
+  {
+    "raw_model_output": "Kütüphanede araştırma yaparken aradığım kitabı bulamayınca hayal kırıklığına uğradım.",
+    "corrected_output": "Akademik tetkiklerim sırasında hedeflediğim kaynağa kütüphane envanterinde erişememem; araştırma sürecimde geçici bir motivasyon kaybı ve hayal kırıklığı yaratmıştır."
+  },
+  {
+    "raw_model_output": "Sosyal medyada gördüğüm manzara fotoğrafları bende seyahat etme isteği uyandırıyor.",
+    "corrected_output": "Dijital platformlarda paylaşılan estetik panorama görselleri; keşif arzumu tetikleyerek yeni rotalara doğru bir seyahat motivasyonu oluşturmaktadır."
+  },
+  {
+    "raw_model_output": "Bisiklet sürerken rüzgarın yüzüme vurması özgürlük hissini daha çok hissettiriyor.",
+    "corrected_output": "Bisiklet sürüşü esnasında rüzgarın yarattığı aerodinamik etki; özgürlük mefhumunu duyusal düzeyde daha yoğun bir şekilde hissetmeme vesile olmaktadır."
+  },
+  {
+    "raw_model_output": "Yağmurlu bir havada camın önünde oturup kahve içmek günün en keyifli anıydı.",
+    "corrected_output": "Olumsuz hava koşullarında (yağışlı havada) iç mekan konforunda sıcak bir içecek eşliğinde dış mekanı gözlemlemek; günün en dingin ve keyif verici zaman dilimini teşkil etmiştir."
+  },
+  {
+    "raw_model_output": "Sınav döneminde stresli olsam da sonuçların iyi geleceğine dair umudumu koruyorum.",
+    "corrected_output": "Akademik değerlendirme sürecinin yarattığı anksiyete (stres) düzeyine karşın; başarılı bir çıktı elde edeceğime dair iyimser beklentimi muhafaza ediyorum."
+  },
+  {
+    "raw_model_output": "Ailecek gidilen tatillerin yarattığı samimi ortam ve anılar hayat boyu hatırlanır.",
+    "corrected_output": "Kolektif bir aile aktivitesi olarak gerçekleştirilen seyahatlerin sunduğu samimi atmosfer ve biriktirilen hatıralar; ömür boyu zihinde yer edecek müstesna değerlerdir."
+  },
+  {
+    "raw_model_output": "Doğum günümde aldığım o küçük hediye beni çok mutlu etti ve hatırlandığımı hissettim.",
+    "corrected_output": "Yeni yaşım vesilesiyle takdim edilen o mütevazı sembolik hediye; hatırlanmanın verdiği manevi tatminle birlikte bende büyük bir kıvanç uyandırmıştır."
+  },
+  {
+    "raw_model_output": "Güneşin doğuşunu izlemek için erkenden kalktım ve gökyüzündeki renk değişimini gördüm.",
+    "corrected_output": "Günün ilk ışıklarını (şafak vaktini) müşahede etmek adına erkenden uyanmış; semanın geçirdiği kromatolojik (renksel) dönüşümü hayranlıkla seyrettim."
+  },
+  {
+    "raw_model_output": "Piknik yaparken doğanın seslerini dinlemek zihinsel olarak beni dinlendirdi.",
+    "corrected_output": "Rekreasyonel bir açık hava faaliyeti sırasında doğal habitatın sunduğu akustik tınıları tecrübe etmek; bilişsel bir tahliye (zihinsel dinlenme) sağlamıştır."
+  },
+  {
+    "raw_model_output": "Eski bir filmi tekrar izleyince çocukluğumdaki o masum günleri hatırladım.",
+    "corrected_output": "Tarihsel bir sinema yapıtını yeniden izlemek; zihnimde çocukluk evresinin o saf ve nostaljik imgelerini canlandırarak duygusal bir derinlik yaratmıştır."
+  },
+  {
+    "raw_model_output": "Kendi kıyafetlerimi tasarlayıp dikmek bana büyük bir başarmışlık hissi veriyor.",
+    "corrected_output": "Tekstil tasarımlarımı bizzat kurgulayıp üretim safhasını gerçekleştirmek; şahsi bir katma değer yaratmanın verdiği gurur ve tatmin hissini pekiştirmektedir."
+  },
+  {
+    "raw_model_output": "Akşam yemeğinde dostlarımla yaptığım o derin sohbet günün tüm yorgunluğunu unutturdu.",
+    "corrected_output": "Günün sonunda dost meclisinde gerçekleştirilen entelektüel ve samimi münazara; profesyonel yaşamın getirdiği tüm yorgunluk hissiyatını izale etmiştir."
+  },
+  {
+    "raw_model_output": "Karda yürürken çıkan o hışırtı sesi kış mevsiminin en sevdiğim özelliğidir.",
+    "corrected_output": "Kış mevsiminde kar tabakası üzerinde yürürken oluşan karakteristik akustik yansıma; bu mevsimin şahsım adına en müstesna ve huzur verici özelliğidir."
+  },
+  {
+    "raw_model_output": "Yeni bir yemek tarifi denerken mutfağın her yeri dağıldı ama sonuca değdi.",
+    "corrected_output": "İnovatif bir gastronomi denemesi (yeni bir tarif) sırasında mutfak düzeni geçici olarak bozulsa da; elde edilen lezzet profili sarf edilen eforu haklı çıkarmıştır."
+  },
+  {
+    "raw_model_output": "Tiyatro sahnesindeki o performans izleyicileri hem güldürdü hem de düşündürdü.",
+    "corrected_output": "Sahne sanatları gösterimi esnasında sergilenen üstün performans; izleyici kitlesinde eşzamanlı olarak hem mizahi bir etki yaratmış hem de derin bir tefekküre sevk etmiştir."
+  },
+  {
+    "raw_model_output": "Deniz fenerinin karanlıkta dönen ışığı gemiler için güvenli bir yol göstericidir.",
+    "corrected_output": "Karanlık ve fırtınalı denizlerde döngüsel bir ışık kaynağı sunan deniz feneri; denizciler için seyrüsefer emniyetini tesis eden stratejik bir kılavuzdur."
+  },
+  {
+    "raw_model_output": "Bir plak dükkanında eski kayıtları incelerken kendimi geçmiş bir zamanda hissettim.",
+    "corrected_output": "Analog ses kayıtlarının (plakların) muhafaza edildiği bir mekanda yaptığım tetkikler; bende tarihsel bir zamana yolculuk yapıyormuşum hissiyatı uyandırmıştır."
+  },
+  {
+    "raw_model_output": "Sabah çayı eşliğinde gazete okumak günün planını yapmak için en iyi başlangıçtır.",
+    "corrected_output": "Güne sıcak bir içecek ve güncel enformasyon takibiyle başlamak; günlük operasyonel planlamaları rasyonel bir zeminde kurgulamak adına ideal bir ritüeldir."
+  },
+  {
+    "raw_model_output": "Dağ tırmanışı yaparken zirveye yaklaştıkça havanın soğuduğunu ve seyreldiğini fark ettim.",
+    "corrected_output": "Yüksek irtifa tırmanışı sırasında yükseldikçe; atmosferik sıcaklığın düştüğünü ve oksijen yoğunluğunun azaldığını (havanın seyreldiğini) doğrudan müşahede ettim."
+  },
+  {
+    "raw_model_output": "Eski bir kilisedeki mozaikler dönemin sanatsal başarısını günümüze taşıyor.",
+    "corrected_output": "Arkaik bir ibadethanedeki mozaik süslemeler; ait oldukları dönemin estetik zevkini ve sanatsal maharetini tarihsel bir miras olarak günümüze ulaştırmaktadır."
+  },
+  {
+    "raw_model_output": "Kuşların göç yolculuğunu izlemek doğanın o muazzam dengesini bir kez daha hatırlattı.",
+    "corrected_output": "Kanatlı canlıların mevsimsel göç devinimlerini gözlemlemek; doğanın kusursuz işleyen o ekolojik dengesini ve biyolojik ritmini bir kez daha idrak etmemi sağlamıştır."
+  },
+  {
+    "raw_model_output": "Pencereden yağan yağmuru izlerken elimdeki kitabın hikayesine daldım.",
+    "corrected_output": "İç mekan sükuneti içerisinde yağışın ritmini izlerken; okuduğum edebi yapıtın (kitabın) kurgusal dünyasında derin bir yolculuğa çıktım."
+  },
+  {
+    "raw_model_output": "Kendi yaptığım yoğurdun tadı marketten aldıklarımdan çok daha lezzetli ve doğal.",
+    "corrected_output": "Geleneksel metodlarla (evde) fermente ettiğim sütün lezzet profili; endüstriyel muadillerine kıyasla çok daha doğal ve gastronomik açıdan üstün niteliktedir."
+  },
+  {
+    "raw_model_output": "Bahçedeki ağaçların yaprakları sararınca sonbaharın o hüzünlü güzelliği ortaya çıktı.",
+    "corrected_output": "Flora elemanlarının (yaprakların) pigment değişimiyle (sararmasıyla) birlikte; sonbahar mevsimine has o nostaljik ve melankolik estetik atmosfer belirginleşmiştir."
+  },
+  {
+    "raw_model_output": "Bisikletimle orman yolunda ilerlerken doğanın her tonunu yakından gördüm.",
+    "corrected_output": "Doğal habitat içerisindeki patikalarda bisikletle yol alırken; ekosistemin sunduğu tüm kromatolojik varyasyonları (renk tonlarını) yakından tetkik etme imkanı buldum."
+  },
+  {
+    "raw_model_output": "Deniz kabuklarını toplarken kumsalın o sıcak kumlarını ayaklarımda hissettim.",
+    "corrected_output": "Sahil bandında deniz kabuğu toplama faaliyeti sırasında; zeminin (kumun) termal sıcaklığını duyusal düzeyde hissederek doğayla bütünleştim."
+  },
+  {
+    "raw_model_output": "Eski bir fotoğraf makinesiyle siyah beyaz fotoğraflar çekmek bana nostaljik hissettirdi.",
+    "corrected_output": "Analog bir görüntüleme cihazı vasıtasıyla monokrom (siyah-beyaz) kareler yakalamak; tarihsel bir estetik anlayışın ve nostaljinin ruhsal yansımasını yaşamama vesile oldu."
+  },
+  {
+    "raw_model_output": "Kahve çekirdeklerini öğütürken çıkan o koku sabahın en sevdiğim anıdır.",
+    "corrected_output": "Kahve çekirdeklerinin mekanik işlemle (öğütülerek) aromatik özlerini salması; günün başlangıç safhasında tecrübe ettiğim en müstesna duyusal deneyimdir."
+  },
+  {
+    "raw_model_output": "Çamaşırların güneş altında kururken yaydığı o temizlik kokusu bana huzur veriyor.",
+    "corrected_output": "Tekstil ürünlerinin doğal ısı kaynağı (güneş) altında nemden arınması sırasında yayılan rayiha; bende hijyen ve sükunete dair olumlu çağrışımlar uyandırmaktadır."
+  },
+  {
+    "raw_model_output": "Eski bir radyoyu tamir edince içinden gelen o cızırtılı ses beni mutlu etti.",
+    "corrected_output": "Antika bir radyo alıcısının teknik restorasyonunu başarıyla tamamlayınca; cihazdan yayılan karakteristik tını, teknik bir başarının verdiği manevi tatmini pekiştirmiştir."
+  },
+  {
+    "raw_model_output": "Balkonda saksıda nane yetiştirmek yemeklere taze bir aroma katmamı sağlıyor.",
+    "corrected_output": "İç mekan bahçeciliği kapsamında saksıda nane kültürü yapmak; gastronomi uygulamalarımda taze ve aromatik bir lezzet profilinden istifade etmeme olanak tanımaktadır."
+  },
+  {
+    "raw_model_output": "Yeni bir yazı kalemi alınca kağıt üzerindeki o kayma hissi yazma isteğimi artırdı.",
+    "corrected_output": "Nitelikli bir yazım gerecinin kağıt yüzeyindeki ergonomik etkileşimi; edebi üretim yapma ve not alma motivasyonumu kayda değer oranda artırmıştır."
+  },
+  {
+    "raw_model_output": "Kışın odun ateşinin başında oturup sıcak bir şeyler içmek çok keyifli.",
+    "corrected_output": "Kışın odun ateşinin (şöminenin) yarattığı termal konfor eşliğinde sıcak bir içecek tüketmek; mevsimin ruhunu yansıtan son derece huzurlu bir aktivitedir."
+  },
+  {
+    "raw_model_output": "Sahilde yürürken martıların o neşeli sesleri günün yorgunluğunu üzerimden aldı.",
+    "corrected_output": "Kıyı şeridinde martıların karakteristik sesleri eşliğinde gerçekleştirilen yürüyüş; gün boyu biriken tüm zihinsel ve fiziksel yorgunluğu izale etmiştir."
+  },
+  {
+    "raw_model_output": "Eski bir kütüphanenin o sessizliği ders çalışmak için en uygun yerdir.",
+    "corrected_output": "Tarihsel bir kütüphanenin muhafaza ettiği o karakteristik sükunet; yoğun akademik çalışmalar ve odaklanma süreçleri için en ideal atmosferi sunmaktadır."
+  },
+  {
+    "raw_model_output": "Kendi bahçemdeki çiçeklerin açtığını görünce baharın geldiğini anladım.",
+    "corrected_output": "Şahsi bahçemdeki flora elemanlarının tomurcuklanarak çiçek açması; doğanın canlanma döngüsünün (baharın) tecelli ettiğinin en somut nişanesidir."
+  },
+  {
+    "raw_model_output": "Sabah serinliğinde balkonda yoga yapmak vücudumu ve zihnimi uyandırıyor.",
+    "corrected_output": "Sabahın ilk saatlerindeki termal ferahlıkta icra edilen yoga pratiği; bedensel esnekliği artırırken zihinsel farkındalığın (mindfulness) uyanışını sağlamaktadır."
+  },
+  {
+    "raw_model_output": "Yeni bir boya kalemi seti alınca resim yapma isteğim daha çok arttı.",
+    "corrected_output": "Kromatolojik çeşitliliği yüksek yeni bir sanatsal ekipman (boya seti) tedarik etmek; görsel üretim motivasyonumu ve estetik arayışımı kamçılamıştır."
+  },
+  {
+    "raw_model_output": "Ekmek kızartma makinesinden gelen o sıcak koku sabahın en güzel anıdır.",
+    "corrected_output": "Kızarmış ekmeğin yaydığı o sıcak ve karakteristik rayiha; kahvaltı seremonisinin en iştah açıcı ve huzurlu başlangıç anını teşkil etmektedir."
+  },
+  {
+    "raw_model_output": "Yağmurlu bir akşamda battaniyenin altında film izlemek çok huzurlu.",
+    "corrected_output": "Dışarıdaki yağışlı havanın yarattığı melankolik atmosferde, iç mekan konforunda (battaniye eşliğinde) bir yapım izlemek; son derece dingin bir huzur kaynağıdır."
+  },
+  {
+    "raw_model_output": "Eski bir gramofonun o özgün sesi beni başka bir zamana götürdü.",
+    "corrected_output": "Analog bir ses sisteminin (gramofonun) ürettiği o karakteristik tını; algısal dünyamda tarihsel bir yolculuk ve nostaljik bir aidiyet hissi uyandırmıştır."
+  },
+  {
+    "raw_model_output": "Yaz tatilinde deniz kenarında kumdan kale yapmak çocukluğumun en güzel anısıdır.",
+    "corrected_output": "Sezonluk istirahat (yaz tatili) evresinde sahil bandında gerçekleştirilen kumdan mimari yapılar; çocukluk dönemimin en müstesna hatıraları arasında yer almaktadır."
+  },
+  {
+    "raw_model_output": "Evde çiçek yetiştirmek odaya doğal bir güzellik ve ferahlık katıyor.",
+    "corrected_output": "İç mekan botanik uygulamaları (çiçek yetiştirmek); yaşam alanına estetik bir görsel derinlik ve doğal bir ferahlık (mikro-iklim) katmaktadır."
+  },
+  {
+    "raw_model_output": "Kendi yaptığım pastanın o güzel kokusu mutfağı sarınca çok mutlu oldum.",
+    "corrected_output": "Şahsi emeğimle hazırladığım pastanın yaydığı aromatik rayiha mutfak atmosferini kapladığında; bir ürün ortaya koymanın verdiği manevi tatmini derinden hissettim."
+  },
+  {
+    "raw_model_output": "Deniz fenerinin gece yanan o ışığı gemiler için güvenli bir yol göstericidir.",
+    "corrected_output": "Zifiri karanlıkta deniz fenerinden yayılan periyodik ışık kaynağı; denizcilerin rota doğruluğunu teyit etmelerini sağlayan kritik bir emniyet unsurudur."
+  },
+  {
+    "raw_model_output": "Eski bir plak dükkanında vakit geçirmek bana geçmişin o güzel günlerini hatırlattı.",
+    "corrected_output": "Analog müzik kayıtlarının (plakların) muhafaza edildiği bir ortamda yapılan tetkikler; zihnimde tarihsel bir estetiğin ve geçmişin nostaljik iklimini yeniden canlandırmıştır."
+  },
+  {
+    "raw_model_output": "Sabah çayı eşliğinde pencereden dışarıyı izlemek güne huzurlu bir başlangıç yapmamı sağlıyor.",
+    "corrected_output": "Günün ilk saatlerinde sıcak bir içecek eşliğinde dış mekan gözlemi yapmak; günlük operasyonel akışı dingin bir zihinle kurgulamak adına ideal bir başlangıçtır."
+  },
+  {
+    "raw_model_output": "Dağ havasını içime çekince tüm yorgunluğumun gittiğini ve tazelendiğimi hissettim.",
+    "corrected_output": "Yüksek irtifa havasının sunduğu oksijen yoğunluğunu soluduğumda; birikmiş tüm yorgunluğun izale olduğunu ve hücresel bir yenilenme (rejenerasyon) yaşadığımı hissettim."
+  },
+  {
+    "raw_model_output": "Eski bir kilisedeki mozaik sanatını görünce o dönemin sanatsal başarısını takdir ettim.",
+    "corrected_output": "Tarihsel bir ibadethanedeki mozaik kompozisyonlarını incelediğimde; dönemin estetik anlayışının ve sanatsal disiplininin ulaştığı zirveyi hayranlıkla müşahede ettim."
+  },
+  {
+    "raw_model_output": "Kuşların göç yolculuğunu izlemek doğanın o muazzam dengesini anlamamı sağladı.",
+    "corrected_output": "Kanatlı canlıların dönemsel devinimlerini (göçlerini) gözlemlemek; doğanın kusursuz işleyen ekolojik dengesini ve biyolojik ritmini rasyonel bir temelde kavramama olanak tanımıştır."
+  },
+  {
+    "raw_model_output": "Fırından yeni çıkmış ekmeğin o kokusu iştahımı çok kabarttı ve hemen yemek istedim.",
+    "corrected_output": "Termal işlemden (fırından) yeni çıkmış ekmeğin yaydığı aromatik rayiha; iştah mekanizmamı belirgin bir şekilde tetikleyerek gastronomik bir tüketim arzusuna yol açmıştır."
+  },
+  {
+    "raw_model_output": "Kışın sıcak çikolata içip kitap okumak günün en huzurlu anıdır.",
+    "corrected_output": "Kış mevsiminin sunduğu melankolik atmosferde sıcak bir içecek eşliğinde gerçekleştirilen okuma faaliyeti; ruhsal bir dinginlik sağlayan en kıymetli zaman dilimidir."
+  },
+  {
+    "raw_model_output": "Bahçedeki çiçeklerin açmasıyla birlikte renklerin o uyumu harika bir manzara oluşturdu.",
+    "corrected_output": "Bahçedeki flora elemanlarının (çiçeklerin) aynı dönemde tomurcuklanması; estetik bir renk armonisi (uyumu) meydana getirerek büyüleyici bir görsel panorama sunmuştur."
+  },
+  {
+    "raw_model_output": "Bisiklet sürerken rüzgarın sesini duymak özgürlüğü daha çok hissetmemi sağlıyor.",
+    "corrected_output": "Sürüş esnasında rüzgarın yarattığı akustik tını (vınlama); bireysel özgürlük mefhumunun daha yoğun bir biçimde içselleştirilmesine eşlik etmektedir."
+  },
+  {
+    "raw_model_output": "Eski bir mektubu okurken kalbin derinliklerinden gelen o samimiyet beni çok duygulandırdı.",
+    "corrected_output": "Tarihsel bir yazışmayı (mektubu) tetkik ederken; satır aralarına sinmiş olan o halis samimiyet ve duygu yoğunluğu, şahsım üzerinde derin bir melankoli ve duygulanım yaratmıştır."
+  },
+  {
+    "raw_model_output": "Tiyatro sahnesindeki o canlı performans izleyicileri hem düşündürdü hem de duygulandırdı.",
+    "corrected_output": "Sahne sanatları gösterimi sırasında sergilenen organik performans; izleyici kitlesinde eşzamanlı olarak hem entelektüel bir sorgulama yaratmış hem de ruhsal bir etkilenim meydana getirmiştir."
+  }
+]
